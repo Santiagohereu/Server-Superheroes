@@ -8227,6 +8227,12 @@
     },
     "done": true
   },
+  "speedforce_by_yofadda:adv_becoming_the_impossible": {
+    "criteria": {
+      "adv_becoming_the_impossible_0": "2025-03-06 18:33:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
       "has_smooth_quartz": "2025-03-06 18:26:58 +0000"
@@ -8236,6 +8242,12 @@
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2025-03-06 18:26:58 +0000"
+    },
+    "done": true
+  },
+  "speedforce_by_yofadda:adv_phasing": {
+    "criteria": {
+      "adv_phasing_0": "2025-03-06 18:38:32 +0000"
     },
     "done": true
   },
@@ -8266,6 +8278,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
     "criteria": {
       "has_smooth_quartz": "2025-03-06 18:26:58 +0000"
+    },
+    "done": true
+  },
+  "speedforce_by_yofadda:adv_sound_barrier_break": {
+    "criteria": {
+      "adv_sound_barrier_break_0": "2025-03-06 18:41:54 +0000"
     },
     "done": true
   },
