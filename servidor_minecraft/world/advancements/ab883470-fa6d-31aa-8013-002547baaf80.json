@@ -133,6 +133,7 @@
       "shrubland": "2025-03-05 02:22:17 +0000",
       "rocky_shrubland": "2025-03-05 02:22:34 +0000",
       "scrubland": "2025-03-04 20:44:47 +0000",
+      "bayou": "2025-03-06 21:11:46 +0000",
       "floodplain": "2025-03-04 20:17:19 +0000",
       "lush_savanna": "2025-03-05 00:32:10 +0000",
       "highland": "2025-03-04 04:11:58 +0000",
@@ -2210,6 +2211,7 @@
       "minecraft:vindicator": "2025-03-05 00:59:33 +0000",
       "minecraft:spider": "2025-03-03 23:16:04 +0000",
       "minecraft:creeper": "2025-03-03 23:06:43 +0000",
+      "minecraft:slime": "2025-03-06 21:14:51 +0000",
       "minecraft:phantom": "2025-03-04 23:19:11 +0000",
       "minecraft:zombie": "2025-03-04 01:20:52 +0000",
       "minecraft:drowned": "2025-03-05 22:17:29 +0000",
@@ -7839,6 +7841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-03-06 21:14:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-03-06 19:30:22 +0000"
@@ -7926,6 +7934,12 @@
   "cfm:recipes/decorations/orange_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-03-06 19:30:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-03-06 21:15:31 +0000"
     },
     "done": true
   },
@@ -8019,6 +8033,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-03-06 21:15:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-03-06 19:30:22 +0000"
@@ -8034,6 +8054,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_pillar": "2025-03-06 18:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-03-06 21:15:31 +0000"
     },
     "done": true
   },
