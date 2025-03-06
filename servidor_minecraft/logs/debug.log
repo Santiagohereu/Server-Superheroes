@@ -13303,3 +13303,8 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [06Mar2025 05:16:48.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [A Key To The Unknown]
 [06Mar2025 05:18:12.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
 [06Mar2025 05:18:12.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[06Mar2025 05:22:11.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved wrongly!
+[06Mar2025 05:23:12.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[06Mar2025 05:23:12.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[06Mar2025 05:28:12.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[06Mar2025 05:28:12.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
