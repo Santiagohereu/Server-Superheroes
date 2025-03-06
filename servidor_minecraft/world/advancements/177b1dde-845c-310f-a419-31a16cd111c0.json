@@ -7446,7 +7446,8 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
-      "incendium:infernal_dunes": "2025-03-05 21:32:04 +0000"
+      "incendium:infernal_dunes": "2025-03-05 21:32:04 +0000",
+      "incendium:quartz_flats": "2025-03-06 03:37:09 +0000"
     },
     "done": false
   },
@@ -7759,6 +7760,12 @@
   "iwannaskate:iwannaskate/wandering_skater": {
     "criteria": {
       "example": "2025-03-06 03:08:07 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-03-06 03:37:09 +0000"
     },
     "done": true
   },

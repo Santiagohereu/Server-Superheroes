@@ -7729,6 +7729,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed": "2025-03-06 03:37:17 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/magic_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-06 03:10:20 +0000"
@@ -7774,6 +7780,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2025-03-06 03:12:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2025-03-06 03:33:40 +0000"
     },
     "done": true
   },

@@ -12853,3 +12853,20 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [06Mar2025 03:35:53.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki was slain by Piglin
 [06Mar2025 03:36:13.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
 [06Mar2025 03:36:14.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[06Mar2025 03:36:44.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[06Mar2025 03:37:09.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [Hellish Paradise]
+[06Mar2025 03:37:17.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Fetch Me Their Souls!]
+[06Mar2025 03:38:10.521] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[06Mar2025 03:38:10.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[06Mar2025 03:39:05.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Todoroxki> xaero-waypoint:ENTRADA AL NETHERR!!!:E:-58:41:229:4:false:0:Internal-the-nether-waypoints
+[06Mar2025 03:39:31.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki tried to swim in lava
+[06Mar2025 03:39:46.423] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_fire
+[06Mar2025 03:39:46.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved too quickly! -6.223307292700774,8.177000460596446,-1.7913207948446939
+[06Mar2025 03:39:46.987] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2538ms or 50 ticks behind
+[06Mar2025 03:40:03.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has completed the challenge [Return to Sender]
+[06Mar2025 03:42:30.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 moved wrongly!
+[06Mar2025 03:42:30.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 moved wrongly!
+[06Mar2025 03:43:08.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 lost connection: Disconnected
+[06Mar2025 03:43:08.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 left the game
+[06Mar2025 03:43:12.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[06Mar2025 03:43:13.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2

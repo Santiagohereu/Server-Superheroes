@@ -7304,5 +7304,23 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/misc/soul_compost_from_hoglin_hide": {
+    "criteria": {
+      "has_soil": "2025-03-06 03:42:51 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/misc/soul_compost_from_warped_roots": {
+    "criteria": {
+      "has_soil": "2025-03-06 03:42:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-03-06 03:40:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
