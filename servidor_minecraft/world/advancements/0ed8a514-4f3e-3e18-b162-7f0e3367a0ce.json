@@ -7695,6 +7695,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-06 05:34:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-06 05:34:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
       "has_smooth_quartz": "2025-03-06 03:12:25 +0000"
@@ -7761,6 +7773,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_table": {
+    "criteria": {
+      "has_log": "2025-03-06 05:34:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_red_dye": "2025-03-06 05:13:21 +0000"
@@ -7785,6 +7803,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-03-06 05:34:09 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/strider_mount_upgrade": {
     "criteria": {
       "has_tear": "2025-03-06 04:24:17 +0000"
@@ -7800,6 +7824,12 @@
   "ad_astra:recipes/misc/red_industrial_lamp": {
     "criteria": {
       "has_red_industrial_lamp": "2025-03-06 05:13:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_blinds": {
+    "criteria": {
+      "has_log": "2025-03-06 05:34:09 +0000"
     },
     "done": true
   },
@@ -7824,6 +7854,18 @@
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2025-03-06 02:46:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_chair": {
+    "criteria": {
+      "has_planks": "2025-03-06 05:34:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_desk": {
+    "criteria": {
+      "has_log": "2025-03-06 05:34:09 +0000"
     },
     "done": true
   },
@@ -7857,6 +7899,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-03-06 05:34:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2025-03-06 05:13:27 +0000"
@@ -7872,6 +7920,18 @@
   "rats:recipes/misc/igloos/rat_igloo_blue": {
     "criteria": {
       "has_dye": "2025-03-06 05:13:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-06 05:34:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_crate": {
+    "criteria": {
+      "has_log": "2025-03-06 05:34:09 +0000"
     },
     "done": true
   },
@@ -7923,9 +7983,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_coffee_table": {
+    "criteria": {
+      "has_log": "2025-03-06 05:34:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-03-06 05:04:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-06 05:34:09 +0000"
     },
     "done": true
   },
@@ -8055,6 +8127,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_crate": {
+    "criteria": {
+      "has_planks": "2025-03-06 05:34:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-03-06 04:10:37 +0000"
@@ -8070,6 +8148,12 @@
   "biomesoplenty:recipes/redstone/magic_door": {
     "criteria": {
       "has_planks": "2025-03-06 03:10:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-06 05:34:09 +0000"
     },
     "done": true
   },
@@ -8091,9 +8175,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_park_bench": {
+    "criteria": {
+      "has_log": "2025-03-06 05:34:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-03-06 02:38:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-06 05:34:09 +0000"
     },
     "done": true
   },
@@ -8136,6 +8232,12 @@
   "biomesoplenty:recipes/redstone/magic_button": {
     "criteria": {
       "has_planks": "2025-03-06 03:10:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-03-06 05:34:09 +0000"
     },
     "done": true
   },
@@ -8199,15 +8301,45 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-03-06 05:34:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_desk": {
+    "criteria": {
+      "has_planks": "2025-03-06 05:34:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-03-06 04:10:37 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_chair": {
+    "criteria": {
+      "has_log": "2025-03-06 05:34:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_table": {
+    "criteria": {
+      "has_planks": "2025-03-06 05:34:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_red_dye": "2025-03-06 05:13:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_park_bench": {
+    "criteria": {
+      "has_log": "2025-03-06 05:34:09 +0000"
     },
     "done": true
   },
@@ -8232,6 +8364,12 @@
   "rats:recipes/food/potato_pancake": {
     "criteria": {
       "has_potato": "2025-03-06 03:12:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-03-06 05:34:09 +0000"
     },
     "done": true
   },
@@ -8286,6 +8424,12 @@
   "cfm:recipes/decorations/stripped_crimson_upgraded_fence": {
     "criteria": {
       "has_log": "2025-03-06 04:35:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-03-06 05:34:09 +0000"
     },
     "done": true
   },
