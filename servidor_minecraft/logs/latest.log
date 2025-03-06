@@ -1803,3 +1803,17 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [06Mar2025 04:57:01.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Withering Heights]
 [06Mar2025 04:57:01.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Withering Heights]
 [06Mar2025 04:57:42.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved wrongly!
+[06Mar2025 05:05:17.818] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki lost connection: Disconnected
+[06Mar2025 05:05:17.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki left the game
+[06Mar2025 05:05:58.418] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@583430ff[id=<null>,name=Todoroxki,properties={},legacy=false] (/127.136.36.252:51977) lost connection: Disconnected
+[06Mar2025 05:06:15.683] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Todoroxki[/127.136.36.252:42111] logged in with entity id 34652 at (618.0337340927184, 66.0, 7661.846262731887)
+[06Mar2025 05:06:15.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki joined the game
+[06Mar2025 05:06:16.138] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (344871d2-5828-3e5b-84e2-aa39a148179f)
+[06Mar2025 05:06:16.139] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[06Mar2025 05:06:16.139] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Todoroxki
+[06Mar2025 05:06:16.140] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Todoroxki run scoreboard objectives add FSang.Gamerule.item dummy
+[06Mar2025 05:06:16.140] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Todoroxki run scoreboard players set .sang FSang.Gamerule.item 1
+[06Mar2025 05:06:16.140] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Todoroxki run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[06Mar2025 05:06:16.140] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Todoroxki run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[06Mar2025 05:06:56.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Local Brewery]
+[06Mar2025 05:09:19.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Master Chemist]

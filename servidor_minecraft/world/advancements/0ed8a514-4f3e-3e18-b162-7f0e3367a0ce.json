@@ -1462,6 +1462,7 @@
       "minecraft:spider": "2025-03-03 22:55:01 +0000",
       "minecraft:piglin_brute": "2025-03-05 21:38:59 +0000",
       "minecraft:creeper": "2025-03-03 23:31:14 +0000",
+      "minecraft:wither": "2025-03-06 04:58:49 +0000",
       "minecraft:evoker": "2025-03-06 01:31:54 +0000",
       "minecraft:phantom": "2025-03-04 22:54:53 +0000",
       "minecraft:witch": "2025-03-04 20:41:33 +0000",
@@ -7718,6 +7719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-06 05:04:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-03-06 03:49:13 +0000"
@@ -7763,6 +7770,12 @@
   "biomesoplenty:recipes/redstone/magic_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-06 03:10:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-06 05:04:45 +0000"
     },
     "done": true
   },
@@ -7817,6 +7830,12 @@
   "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
     "criteria": {
       "has_log": "2025-03-06 04:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-06 05:04:45 +0000"
     },
     "done": true
   },
