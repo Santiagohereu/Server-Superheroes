@@ -7699,18 +7699,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_the_recipe": "2025-03-06 03:04:01 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-06 03:29:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-03-06 02:39:09 +0000"
@@ -7723,27 +7711,27 @@
     },
     "done": true
   },
-  "aether:recipes/misc/aether_tune_enchanting": {
-    "criteria": {
-      "has_disc": "2025-03-06 02:41:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2025-03-06 03:29:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-03-06 02:39:09 +0000"
     },
     "done": true
   },
-  "rats:recipes/building_blocks/block_of_blue_cheese": {
+  "aether:recipes/misc/aether_tune_enchanting": {
     "criteria": {
-      "has_mushroom": "2025-03-06 03:29:23 +0000"
+      "has_disc": "2025-03-06 02:41:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_the_recipe": "2025-03-06 03:04:01 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2025-03-06 03:05:14 +0000"
     },
     "done": true
   },
@@ -7759,9 +7747,21 @@
     },
     "done": true
   },
-  "nova_structures:adventure/find_pillager_outpost": {
+  "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
-      "minecraft:pillager_outpost": "2025-03-06 03:05:14 +0000"
+      "has_any_ingredient": "2025-03-06 03:29:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-03-06 03:29:23 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/block_of_blue_cheese": {
+    "criteria": {
+      "has_mushroom": "2025-03-06 03:29:23 +0000"
     },
     "done": true
   },
