@@ -8021,3 +8021,97 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [06Mar2025 01:20:10.870] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_6b
 [06Mar2025 01:20:12.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camaila04> que
 [06Mar2025 01:20:25.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4801ms or 96 ticks behind
+[06Mar2025 01:20:28.553] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[06Mar2025 01:20:39.622] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/archivist
+[06Mar2025 01:20:39.623] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/evoker
+[06Mar2025 01:20:39.623] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/vindicator
+[06Mar2025 01:20:39.625] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/right_no_rooms
+[06Mar2025 01:20:39.625] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/provoker
+[06Mar2025 01:20:39.626] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/basher
+[06Mar2025 01:20:39.628] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_right_room
+[06Mar2025 01:20:39.630] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_no_rooms
+[06Mar2025 01:20:39.631] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_right_room
+[06Mar2025 01:20:39.633] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_9
+[06Mar2025 01:20:39.634] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_right_left_room
+[06Mar2025 01:20:39.636] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_left_room
+[06Mar2025 01:20:39.637] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_5
+[06Mar2025 01:20:39.639] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_right_no_rooms
+[06Mar2025 01:20:39.641] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_no_rooms
+[06Mar2025 01:20:39.642] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_4
+[06Mar2025 01:20:39.643] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_8
+[06Mar2025 01:20:39.645] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/marauder
+[06Mar2025 01:20:39.647] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_and_right
+[06Mar2025 01:20:39.648] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_two_rooms
+[06Mar2025 01:20:39.650] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/left_no_rooms
+[06Mar2025 01:20:39.652] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_7
+[06Mar2025 01:20:39.653] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_6
+[06Mar2025 01:20:48.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Saniago23> ando huyendo de él
+[06Mar2025 01:20:48.846] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7898ms or 157 ticks behind
+[06Mar2025 01:20:53.969] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[06Mar2025 01:20:54.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camaila04> ahhh
+[06Mar2025 01:21:04.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camaila04> unete al vc
+[06Mar2025 01:21:08.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Saniago23> ya vaa
+[06Mar2025 01:21:12.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8376ms or 167 ticks behind
+[06Mar2025 01:21:13.569] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[06Mar2025 01:21:16.467] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[06Mar2025 01:21:32.044] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[06Mar2025 01:21:36.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8902ms or 178 ticks behind
+[06Mar2025 01:21:39.562] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_15
+[06Mar2025 01:21:42.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Saniago23> eh esto de los waypoints
+[06Mar2025 01:21:44.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Saniago23> es verdad
+[06Mar2025 01:21:46.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Saniago23> ya va
+[06Mar2025 01:21:55.125] [Server thread/DEBUG] [mixin/]: Mixing AxolotlAiMixin from domesticationinnovation.mixins.json into net.minecraft.world.entity.animal.axolotl.AxolotlAi
+[06Mar2025 01:22:00.370] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[06Mar2025 01:22:00.408] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/medium_decorations
+[06Mar2025 01:22:00.430] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_south
+[06Mar2025 01:22:00.448] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_north
+[06Mar2025 01:22:00.459] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/barrels
+[06Mar2025 01:22:00.459] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_2
+[06Mar2025 01:22:00.477] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tower
+[06Mar2025 01:22:00.477] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/logs
+[06Mar2025 01:22:00.496] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/mobs
+[06Mar2025 01:22:00.497] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_1
+[06Mar2025 01:22:04.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12998ms or 259 ticks behind
+[06Mar2025 01:22:07.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[06Mar2025 01:22:07.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[06Mar2025 01:22:17.006] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:sorcerer_hut/sorcerer_hut
+[06Mar2025 01:22:25.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Saniago23> ahh
+[06Mar2025 01:22:28.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Saniago23> ya sé dónde están
+[06Mar2025 01:22:32.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Saniago23> ehh ya voy al vc
+[06Mar2025 01:22:34.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Saniago23> ya puedo
+[06Mar2025 01:22:43.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24475ms or 489 ticks behind
+[06Mar2025 01:23:05.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved too quickly! 4.010860868579243,0.41999998688697815,-9.45491129375705
+[06Mar2025 01:23:14.873] [pool-9-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos BlockPos{x=987, y=68, z=2501}
+[06Mar2025 01:23:15.624] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[06Mar2025 01:23:15.644] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[06Mar2025 01:23:15.647] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[06Mar2025 01:23:17.021] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_3
+[06Mar2025 01:23:20.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved wrongly!
+[06Mar2025 01:23:24.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26540ms or 530 ticks behind
+[06Mar2025 01:23:30.650] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_20
+[06Mar2025 01:23:33.826] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:firecaller_hut/base_plate
+[06Mar2025 01:23:39.852] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[06Mar2025 01:23:39.857] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
+[06Mar2025 01:23:51.345] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11398ms or 227 ticks behind
+[06Mar2025 01:24:13.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6754ms or 135 ticks behind
+[06Mar2025 01:24:34.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6630ms or 132 ticks behind
+[06Mar2025 01:24:54.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4523ms or 90 ticks behind
+[06Mar2025 01:25:12.608] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3461ms or 69 ticks behind
+[06Mar2025 01:25:30.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved wrongly!
+[06Mar2025 01:25:30.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3283ms or 65 ticks behind
+[06Mar2025 01:25:47.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
+[06Mar2025 01:26:08.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[06Mar2025 01:26:10.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved wrongly!
+[06Mar2025 01:26:20.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved wrongly!
+[06Mar2025 01:26:26.291] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3043ms or 60 ticks behind
+[06Mar2025 01:26:47.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06Mar2025 01:27:10.740] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Mar2025 01:27:10.757] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[06Mar2025 01:27:10.758] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from rats.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[06Mar2025 01:28:40.269] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[06Mar2025 01:28:40.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[06Mar2025 01:30:42.895] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Mar2025 01:31:11.844] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Mar2025 01:31:54.595] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
+[06Mar2025 01:33:40.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[06Mar2025 01:33:40.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2

@@ -1462,6 +1462,7 @@
       "minecraft:spider": "2025-03-03 22:55:01 +0000",
       "minecraft:piglin_brute": "2025-03-05 21:38:59 +0000",
       "minecraft:creeper": "2025-03-03 23:31:14 +0000",
+      "minecraft:evoker": "2025-03-06 01:31:54 +0000",
       "minecraft:phantom": "2025-03-04 22:54:53 +0000",
       "minecraft:witch": "2025-03-04 20:41:33 +0000",
       "minecraft:husk": "2025-03-04 04:55:53 +0000",
@@ -1469,6 +1470,7 @@
       "minecraft:piglin": "2025-03-05 21:39:15 +0000",
       "minecraft:silverfish": "2025-03-04 22:29:07 +0000",
       "minecraft:enderman": "2025-03-05 19:46:22 +0000",
+      "minecraft:vex": "2025-03-06 01:32:05 +0000",
       "minecraft:zombie": "2025-03-03 22:54:31 +0000",
       "minecraft:drowned": "2025-03-04 03:47:12 +0000",
       "minecraft:zombie_villager": "2025-03-03 23:09:39 +0000"
@@ -7568,6 +7570,12 @@
   "cfm:recipes/decorations/lime_picket_gate": {
     "criteria": {
       "has_gate": "2025-03-05 22:53:45 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/voodoo_upgrade": {
+    "criteria": {
+      "has_totem": "2025-03-06 01:32:32 +0000"
     },
     "done": true
   },
