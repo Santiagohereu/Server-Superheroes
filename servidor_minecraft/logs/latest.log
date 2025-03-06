@@ -1734,3 +1734,14 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [06Mar2025 03:22:35.662] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as bryanc2613 run scoreboard objectives add FSang.Gamerule.symbiote dummy
 [06Mar2025 03:22:35.662] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as bryanc2613 run scoreboard players set .sang FSang.Gamerule.symbiote 1
 [06Mar2025 03:25:23.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[06Mar2025 03:28:15.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[06Mar2025 03:30:08.330] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/14011, l='ServerLevel[Mundo Superheroes 2]', x=-172.99, y=68.50, z=2447.17] died, message: 'Nitwit was pricked to death'
+[06Mar2025 03:33:03.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved wrongly!
+[06Mar2025 03:33:28.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Todoroxki> xaero-waypoint:socorro... supersan!!!:S:255:64:428:8:false:0:Internal-the-nether-waypoints
+[06Mar2025 03:33:31.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[06Mar2025 03:33:40.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Nightmare Fuel]
+[06Mar2025 03:35:03.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki fell from a high place
+[06Mar2025 03:35:28.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[06Mar2025 03:35:53.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki was slain by Piglin
+[06Mar2025 03:36:13.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[06Mar2025 03:36:14.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
