@@ -7756,5 +7756,11 @@
     },
     "done": true
   },
+  "iwannaskate:iwannaskate/wandering_skater": {
+    "criteria": {
+      "example": "2025-03-06 03:08:07 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

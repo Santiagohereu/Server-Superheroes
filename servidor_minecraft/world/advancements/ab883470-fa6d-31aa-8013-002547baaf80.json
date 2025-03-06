@@ -1185,6 +1185,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "pillager_outpost": "2025-03-06 03:05:14 +0000",
       "illager_camp": "2025-03-03 22:44:36 +0000"
     },
     "done": false
@@ -7697,6 +7698,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_the_recipe": "2025-03-06 03:04:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-03-06 02:39:09 +0000"
@@ -7718,6 +7725,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-03-06 02:39:09 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2025-03-06 03:05:14 +0000"
     },
     "done": true
   },

@@ -1710,3 +1710,12 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [06Mar2025 03:00:06.097] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Todoroxki run scoreboard objectives add FSang.Gamerule.symbiote dummy
 [06Mar2025 03:00:06.097] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Todoroxki run scoreboard players set .sang FSang.Gamerule.symbiote 1
 [06Mar2025 03:05:12.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[06Mar2025 03:05:14.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has made the advancement [Intruder Alert]
+[06Mar2025 03:05:33.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6164ms or 123 ticks behind
+[06Mar2025 03:05:54.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[06Mar2025 03:06:13.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[06Mar2025 03:06:34.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Saniago23> xaero-waypoint:Piglin King:P:234:32:541:4:false:0:Internal-the-nether-waypoints
+[06Mar2025 03:07:05.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06Mar2025 03:08:07.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [Teenage Dirtbag]
+[06Mar2025 03:10:14.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[06Mar2025 03:10:39.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3456ms or 69 ticks behind

@@ -12549,3 +12549,52 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [06Mar2025 03:03:03.456] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/lumber/c2
 [06Mar2025 03:03:03.461] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_2x1_2
 [06Mar2025 03:05:12.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[06Mar2025 03:05:14.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has made the advancement [Intruder Alert]
+[06Mar2025 03:05:33.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6164ms or 123 ticks behind
+[06Mar2025 03:05:45.339] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Mar2025 03:05:54.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[06Mar2025 03:06:13.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[06Mar2025 03:06:34.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Saniago23> xaero-waypoint:Piglin King:P:234:32:541:4:false:0:Internal-the-nether-waypoints
+[06Mar2025 03:07:04.061] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_7
+[06Mar2025 03:07:05.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06Mar2025 03:08:03.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[06Mar2025 03:08:03.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[06Mar2025 03:08:07.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [Teenage Dirtbag]
+[06Mar2025 03:10:14.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[06Mar2025 03:10:36.928] [Worker-Main-3/DEBUG] [mixin/]: Mixing JigsawPlacementMixin from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[06Mar2025 03:10:37.284] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor
+[06Mar2025 03:10:37.365] [Worker-Main-1/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[06Mar2025 03:10:37.366] [Worker-Main-1/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[06Mar2025 03:10:37.372] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_warped_event_4
+[06Mar2025 03:10:37.373] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_soul_event_6
+[06Mar2025 03:10:37.373] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_7
+[06Mar2025 03:10:37.374] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_soul_event_1
+[06Mar2025 03:10:37.375] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:skeleton_camp/skeleton_camp_crimson_event_5 is being run through DFU (hash ed3394f3c62afabb82dcbc9bb2c2899113cff4a789b3a91b1d981a99958d373b), this will cause launch time delays
+[06Mar2025 03:10:37.380] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:skeleton_camp/skeleton_camp_waste_event_5 is being run through DFU (hash 8ded6cfbca5dbfdefafa4f085eddc10b73ce4dfa63f905517d46e7da46b35f19), this will cause launch time delays
+[06Mar2025 03:10:37.381] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:skeleton_camp/skeleton_camp_warped_event_2 is being run through DFU (hash a1088ff26176f74d18df411e67e2e41c06128ba1787e134d4026f9d2e6f3ef3f), this will cause launch time delays
+[06Mar2025 03:10:37.381] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_warped_event_7
+[06Mar2025 03:10:37.382] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:skeleton_camp/skeleton_camp_crimson_event_3 is being run through DFU (hash aad2807d8fc2b11452b32ffc5d19a93d52d6f7fb17d861c0860da45499b1788d), this will cause launch time delays
+[06Mar2025 03:10:37.383] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:skeleton_camp/skeleton_camp_warped_event_3 is being run through DFU (hash 0a629c4b820fb067ad6148453160f7ae055313576b82c194b71f386e42a82c0b), this will cause launch time delays
+[06Mar2025 03:10:37.383] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:skeleton_camp/skeleton_camp_crimson_event_1 is being run through DFU (hash 3d72d25d23c97964d12d783e426af5870ee78e353d7970f0b7a29c22263d2dd2), this will cause launch time delays
+[06Mar2025 03:10:37.384] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:skeleton_camp/skeleton_camp_soul_event_2 is being run through DFU (hash cae44de471d0a91c36c89d3c4ce288d4553c1cdfaa2dc3984b43fceb4b465a8c), this will cause launch time delays
+[06Mar2025 03:10:37.385] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:hamlet/hamlet_piglin_crossbow is being run through DFU (hash 0428cb65dda55f16f2020303797789b711b6200d4e86f0e3ee3a0cb5f108bc99), this will cause launch time delays
+[06Mar2025 03:10:37.560] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin
+[06Mar2025 03:10:37.562] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/skull_pile
+[06Mar2025 03:10:37.566] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_3
+[06Mar2025 03:10:37.567] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner
+[06Mar2025 03:10:37.568] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_4
+[06Mar2025 03:10:37.568] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_1
+[06Mar2025 03:10:37.569] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_2
+[06Mar2025 03:10:37.570] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_3
+[06Mar2025 03:10:37.570] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_1
+[06Mar2025 03:10:37.571] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_4
+[06Mar2025 03:10:37.572] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_3
+[06Mar2025 03:10:37.892] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[06Mar2025 03:10:37.893] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[06Mar2025 03:10:37.894] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[06Mar2025 03:10:37.895] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[06Mar2025 03:10:37.899] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[06Mar2025 03:10:37.899] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[06Mar2025 03:10:39.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3456ms or 69 ticks behind
+[06Mar2025 03:13:06.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[06Mar2025 03:13:06.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2

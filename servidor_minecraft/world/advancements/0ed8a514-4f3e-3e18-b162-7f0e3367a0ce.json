@@ -7693,9 +7693,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-03-06 03:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-03-06 03:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-06 03:12:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-03-06 03:12:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-03-06 02:38:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-06 03:10:20 +0000"
     },
     "done": true
   },
@@ -7711,9 +7741,75 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/magic_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-06 03:10:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-03-06 03:12:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/crimson_cabinet": {
     "criteria": {
       "has_crimson_trapdoor": "2025-03-06 02:38:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-03-06 03:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-03-06 03:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-06 03:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2025-03-06 03:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-03-06 03:12:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_wood": {
+    "criteria": {
+      "has_log": "2025-03-06 03:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-03-06 03:12:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_door": {
+    "criteria": {
+      "has_planks": "2025-03-06 03:10:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-06 03:10:20 +0000"
     },
     "done": true
   },
@@ -7723,9 +7819,87 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/magic_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-06 03:10:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_button": {
+    "criteria": {
+      "has_planks": "2025-03-06 03:10:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
+    "criteria": {
+      "has_logs": "2025-03-06 03:10:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2025-03-06 03:12:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_slab": {
+    "criteria": {
+      "has_planks": "2025-03-06 03:10:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-03-06 03:12:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_sign": {
+    "criteria": {
+      "has_planks": "2025-03-06 03:10:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-03-06 02:38:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-03-06 03:12:25 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/potato_pancake": {
+    "criteria": {
+      "has_potato": "2025-03-06 03:12:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_magic": {
+    "criteria": {
+      "has_planks": "2025-03-06 03:10:20 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/feathery_wing": {
+    "criteria": {
+      "has_chicken": "2025-03-06 03:12:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-03-06 03:12:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_fence": {
+    "criteria": {
+      "has_planks": "2025-03-06 03:10:20 +0000"
     },
     "done": true
   },
