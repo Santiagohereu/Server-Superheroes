@@ -7705,6 +7705,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_gloves": "2025-03-06 03:15:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_grill_cooking": {
     "criteria": {
       "has_potato": "2025-03-06 03:12:25 +0000"
@@ -7801,6 +7807,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_gloves_repairing": {
+    "criteria": {
+      "has_golden_gloves": "2025-03-06 03:15:19 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/magic_door": {
     "criteria": {
       "has_planks": "2025-03-06 03:10:20 +0000"
@@ -7888,6 +7900,12 @@
   "rats:recipes/misc/feathery_wing": {
     "criteria": {
       "has_chicken": "2025-03-06 03:12:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_gloves": "2025-03-06 03:15:19 +0000"
     },
     "done": true
   },
