@@ -1465,6 +1465,7 @@
       "minecraft:evoker": "2025-03-06 01:31:54 +0000",
       "minecraft:phantom": "2025-03-04 22:54:53 +0000",
       "minecraft:witch": "2025-03-04 20:41:33 +0000",
+      "minecraft:wither_skeleton": "2025-03-06 04:01:41 +0000",
       "minecraft:husk": "2025-03-04 04:55:53 +0000",
       "minecraft:cave_spider": "2025-03-04 23:37:18 +0000",
       "minecraft:piglin": "2025-03-05 21:39:15 +0000",
@@ -7717,6 +7718,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-03-06 03:49:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-03-06 03:12:25 +0000"
@@ -7762,6 +7769,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-03-06 03:12:25 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_port": {
+    "criteria": {
+      "nova_structures:nether_port": "2025-03-06 03:59:12 +0000"
     },
     "done": true
   },
@@ -7848,6 +7861,12 @@
       "has_planks": "2025-03-06 03:10:20 +0000"
     },
     "done": true
+  },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "nova_structures:nether_port": "2025-03-06 03:59:12 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/redstone/magic_button": {
     "criteria": {

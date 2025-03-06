@@ -1757,3 +1757,15 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [06Mar2025 03:42:30.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 moved wrongly!
 [06Mar2025 03:43:08.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 lost connection: Disconnected
 [06Mar2025 03:43:08.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 left the game
+[06Mar2025 03:48:58.084] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Alchemist'/19833, l='ServerLevel[Mundo Superheroes 2]', x=199.81, y=54.06, z=553.20] died: Alchemist was slain by Saniago23 using [Blazing Hatchet]
+[06Mar2025 03:49:13.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Local Brewery]
+[06Mar2025 03:52:32.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[06Mar2025 03:52:49.185] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-441, y=74, z=1987} BlockPos{x=-439, y=73, z=1988}
+[06Mar2025 03:52:49.235] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-441, y=74, z=1987} BlockPos{x=-439, y=73, z=1988}
+[06Mar2025 03:52:49.287] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-441, y=74, z=1987} BlockPos{x=-439, y=73, z=1988}
+[06Mar2025 03:53:29.597] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Scout'/19851, l='ServerLevel[Mundo Superheroes 2]', x=239.82, y=73.00, z=572.08] died: Scout was slain by Saniago23 using [Blazing Hatchet]
+[06Mar2025 03:53:30.590] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Alchemist'/19850, l='ServerLevel[Mundo Superheroes 2]', x=239.62, y=73.00, z=571.52] died: Alchemist was slain by Saniago23 using [Blazing Hatchet]
+[06Mar2025 03:59:12.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Port o Magma]
+[06Mar2025 03:59:15.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Port o Magma]
+[06Mar2025 04:00:47.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[06Mar2025 04:04:52.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Splintering II]

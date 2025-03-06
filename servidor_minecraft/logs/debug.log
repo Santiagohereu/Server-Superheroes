@@ -12870,3 +12870,38 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [06Mar2025 03:43:08.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 left the game
 [06Mar2025 03:43:12.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
 [06Mar2025 03:43:13.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[06Mar2025 03:48:12.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[06Mar2025 03:48:13.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[06Mar2025 03:48:58.084] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Alchemist'/19833, l='ServerLevel[Mundo Superheroes 2]', x=199.81, y=54.06, z=553.20] died: Alchemist was slain by Saniago23 using [Blazing Hatchet]
+[06Mar2025 03:49:13.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Local Brewery]
+[06Mar2025 03:51:16.772] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[06Mar2025 03:51:16.794] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[06Mar2025 03:51:16.802] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[06Mar2025 03:52:32.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[06Mar2025 03:52:49.185] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-441, y=74, z=1987} BlockPos{x=-439, y=73, z=1988}
+[06Mar2025 03:52:49.235] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-441, y=74, z=1987} BlockPos{x=-439, y=73, z=1988}
+[06Mar2025 03:52:49.287] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-441, y=74, z=1987} BlockPos{x=-439, y=73, z=1988}
+[06Mar2025 03:53:12.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[06Mar2025 03:53:13.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[06Mar2025 03:53:29.597] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Scout'/19851, l='ServerLevel[Mundo Superheroes 2]', x=239.82, y=73.00, z=572.08] died: Scout was slain by Saniago23 using [Blazing Hatchet]
+[06Mar2025 03:53:30.590] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Alchemist'/19850, l='ServerLevel[Mundo Superheroes 2]', x=239.62, y=73.00, z=571.52] died: Alchemist was slain by Saniago23 using [Blazing Hatchet]
+[06Mar2025 03:58:13.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[06Mar2025 03:58:13.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[06Mar2025 03:58:53.928] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Mar2025 03:59:12.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Port o Magma]
+[06Mar2025 03:59:15.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Port o Magma]
+[06Mar2025 03:59:27.436] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Mar2025 03:59:43.980] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Mar2025 04:00:18.434] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Mar2025 04:00:46.285] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Mar2025 04:00:47.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[06Mar2025 04:01:28.097] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Mar2025 04:02:02.924] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Mar2025 04:02:46.636] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Mar2025 04:02:53.494] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Mar2025 04:02:57.287] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Mar2025 04:03:12.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[06Mar2025 04:03:12.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[06Mar2025 04:04:10.424] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Mar2025 04:04:52.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Splintering II]
+[06Mar2025 04:06:40.634] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
