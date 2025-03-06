@@ -133,11 +133,14 @@
       "shrubland": "2025-03-04 04:36:50 +0000",
       "rocky_shrubland": "2025-03-05 02:22:34 +0000",
       "scrubland": "2025-03-04 04:45:19 +0000",
+      "bayou": "2025-03-06 21:24:42 +0000",
       "erupting_inferno": "2025-03-06 20:25:40 +0000",
       "floodplain": "2025-03-04 20:07:18 +0000",
       "lush_savanna": "2025-03-05 00:32:11 +0000",
       "highland": "2025-03-03 22:46:38 +0000",
       "jacaranda_glade": "2025-03-04 23:56:42 +0000",
+      "marsh": "2025-03-06 21:23:43 +0000",
+      "jade_cliffs": "2025-03-06 21:19:45 +0000",
       "mystic_grove": "2025-03-05 23:09:49 +0000",
       "old_growth_woodland": "2025-03-04 20:08:50 +0000",
       "maple_woods": "2025-03-04 04:09:48 +0000",
@@ -827,6 +830,7 @@
       "minecraft:badlands": "2025-03-06 21:04:46 +0000",
       "minecraft:beach": "2025-03-04 02:06:01 +0000",
       "minecraft:dark_forest": "2025-03-05 23:13:25 +0000",
+      "minecraft:mangrove_swamp": "2025-03-06 21:24:24 +0000",
       "minecraft:sparse_jungle": "2025-03-04 04:41:06 +0000",
       "minecraft:river": "2025-03-03 22:49:34 +0000",
       "minecraft:snowy_plains": "2025-03-03 22:55:29 +0000",
@@ -834,6 +838,7 @@
       "minecraft:snowy_taiga": "2025-03-03 22:55:32 +0000",
       "minecraft:dripstone_caves": "2025-03-05 03:10:16 +0000",
       "minecraft:grove": "2025-03-05 00:07:21 +0000",
+      "minecraft:swamp": "2025-03-06 21:24:23 +0000",
       "minecraft:jagged_peaks": "2025-03-05 00:34:55 +0000",
       "minecraft:cold_ocean": "2025-03-04 02:38:16 +0000",
       "minecraft:forest": "2025-03-03 22:55:38 +0000",
@@ -4932,7 +4937,8 @@
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "pillager_outpost": "2025-03-05 03:03:08 +0000",
-      "illager_camp": "2025-03-04 04:05:10 +0000"
+      "illager_camp": "2025-03-04 04:05:10 +0000",
+      "witch_villa": "2025-03-06 21:24:16 +0000"
     },
     "done": false
   },
@@ -9080,6 +9086,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-03-06 21:26:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
     "criteria": {
       "has_dragonscales_copper": "2025-03-06 21:05:28 +0000"
@@ -9101,6 +9113,12 @@
   "iceandfire:recipes/combat/tide_red_boots": {
     "criteria": {
       "has_item": "2025-03-06 21:06:57 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_witch_villa": {
+    "criteria": {
+      "nova_structures:witch_villa": "2025-03-06 21:24:16 +0000"
     },
     "done": true
   },
@@ -9128,9 +9146,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/willow_planks": {
+    "criteria": {
+      "has_logs": "2025-03-06 21:25:26 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_red_chestplate": {
     "criteria": {
       "has_item": "2025-03-06 21:06:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/willow_wood": {
+    "criteria": {
+      "has_log": "2025-03-06 21:25:26 +0000"
     },
     "done": true
   },

@@ -131,6 +131,7 @@
     "criteria": {
       "woodland": "2025-03-04 01:51:50 +0000",
       "shrubland": "2025-03-04 01:22:52 +0000",
+      "rocky_shrubland": "2025-03-06 21:27:23 +0000",
       "scrubland": "2025-03-04 01:52:25 +0000",
       "fungal_jungle": "2025-03-06 21:09:43 +0000",
       "erupting_inferno": "2025-03-06 19:21:14 +0000",
@@ -8264,6 +8265,12 @@
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2025-03-06 19:14:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-03-06 21:23:54 +0000"
     },
     "done": true
   },
