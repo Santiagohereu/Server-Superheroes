@@ -9963,3 +9963,44 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [06Mar2025 19:55:06.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [Cover Me with Diamonds]
 [06Mar2025 19:56:00.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
 [06Mar2025 19:56:00.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[06Mar2025 19:59:39.239] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_4
+[06Mar2025 19:59:39.240] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_2
+[06Mar2025 19:59:39.241] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/camp_mob_piglin_sword
+[06Mar2025 19:59:42.687] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_skeleton_empty
+[06Mar2025 20:00:02.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin
+[06Mar2025 20:00:02.916] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_4
+[06Mar2025 20:00:02.916] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_3
+[06Mar2025 20:00:03.419] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_7
+[06Mar2025 20:00:10.051] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_1
+[06Mar2025 20:00:10.052] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner
+[06Mar2025 20:00:10.052] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/skull_pile
+[06Mar2025 20:00:10.053] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_4
+[06Mar2025 20:00:32.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [Straddle My Ol' Saddle]
+[06Mar2025 20:01:00.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[06Mar2025 20:01:00.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[06Mar2025 20:01:01.881] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_tower_3_crimson
+[06Mar2025 20:01:01.882] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_plate_1_crimson
+[06Mar2025 20:01:01.882] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/skeleton_tower_unit_witherskeleton
+[06Mar2025 20:01:01.883] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/skeleton_tower_unit_empty
+[06Mar2025 20:01:01.883] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/skeleton_tower_unit_skeleton
+[06Mar2025 20:01:01.884] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_8_crimson
+[06Mar2025 20:01:01.885] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_5_crimson
+[06Mar2025 20:01:01.886] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_2_crimson
+[06Mar2025 20:01:01.886] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_3_crimson
+[06Mar2025 20:01:01.887] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_10_crimson
+[06Mar2025 20:01:01.888] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_7_crimson
+[06Mar2025 20:01:01.888] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_9_crimson
+[06Mar2025 20:01:01.889] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_4_crimson
+[06Mar2025 20:01:01.889] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_piglin_fail
+[06Mar2025 20:01:05.217] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[06Mar2025 20:01:46.183] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[06Mar2025 20:02:52.726] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[06Mar2025 20:02:57.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [Hidden in the Depths]
+[06Mar2025 20:03:17.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 moved wrongly!
+[06Mar2025 20:03:54.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 moved wrongly!
+[06Mar2025 20:04:01.828] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[06Mar2025 20:04:57.188] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[06Mar2025 20:06:00.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[06Mar2025 20:06:00.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[06Mar2025 20:06:53.976] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[06Mar2025 20:06:56.130] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot

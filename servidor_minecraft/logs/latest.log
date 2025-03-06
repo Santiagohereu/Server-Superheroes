@@ -1636,3 +1636,7 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [06Mar2025 19:53:58.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
 [06Mar2025 19:54:09.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 moved too quickly! 4.190339533822339,-1.9814888314966908,-9.620404597148536
 [06Mar2025 19:55:06.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [Cover Me with Diamonds]
+[06Mar2025 20:00:32.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [Straddle My Ol' Saddle]
+[06Mar2025 20:02:57.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [Hidden in the Depths]
+[06Mar2025 20:03:17.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 moved wrongly!
+[06Mar2025 20:03:54.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 moved wrongly!

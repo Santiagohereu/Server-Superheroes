@@ -140,6 +140,7 @@
       "old_growth_woodland": "2025-03-04 01:52:24 +0000",
       "maple_woods": "2025-03-03 23:16:54 +0000",
       "crystalline_chasm": "2025-03-05 21:25:44 +0000",
+      "withered_abyss": "2025-03-06 20:00:06 +0000",
       "field": "2025-03-03 23:29:49 +0000",
       "orchard": "2025-03-04 01:23:34 +0000",
       "overgrown_greens": "2025-03-04 02:03:58 +0000",
@@ -7890,6 +7891,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-06 20:02:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-03-06 19:55:06 +0000"
@@ -7923,6 +7930,12 @@
   "rats:recipes/misc/ratbow_essence": {
     "criteria": {
       "has_essence": "2025-03-06 19:26:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-03-06 20:02:57 +0000"
     },
     "done": true
   },
@@ -7962,6 +7975,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-03-06 20:00:32 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_chestplate_repairing": {
     "criteria": {
       "has_diamond_chestplate": "2025-03-06 19:55:06 +0000"
@@ -7989,6 +8008,12 @@
   "illagerinvasion:recipes/misc/platinum_sheet": {
     "criteria": {
       "has_platinum_chunk": "2025-03-06 19:39:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-06 20:02:57 +0000"
     },
     "done": true
   },
