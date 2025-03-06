@@ -7355,6 +7355,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_blinds": {
+    "criteria": {
+      "has_log": "2025-03-06 04:47:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_planks": "2025-03-06 04:08:22 +0000"
@@ -7448,6 +7454,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-03-06 04:00:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-03-06 04:47:52 +0000"
     },
     "done": true
   },
@@ -7607,6 +7619,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/crimson_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-06 04:47:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/crimson_park_bench": {
     "criteria": {
       "has_planks": "2025-03-06 04:08:22 +0000"
@@ -7673,9 +7691,21 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-03-06 04:43:38 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/hellbark_fence": {
     "criteria": {
       "has_planks": "2025-03-06 04:20:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-03-06 04:47:52 +0000"
     },
     "done": true
   },
@@ -7757,9 +7787,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-03-06 04:47:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_crimson_park_bench": {
     "criteria": {
       "has_log": "2025-03-06 04:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-03-06 04:43:38 +0000"
     },
     "done": true
   },

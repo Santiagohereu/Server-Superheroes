@@ -1797,3 +1797,5 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [06Mar2025 04:31:08.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Saniago23: Teleported Todoroxki to Saniago23]
 [06Mar2025 04:32:11.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki tried to swim in lava
 [06Mar2025 04:32:20.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Saniago23: Teleported Todoroxki to Saniago23]
+[06Mar2025 04:43:38.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Spooky Scary Skeleton]
+[06Mar2025 04:48:33.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Into Fire]

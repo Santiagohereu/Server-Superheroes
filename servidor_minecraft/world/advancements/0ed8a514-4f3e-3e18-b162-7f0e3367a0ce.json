@@ -7742,6 +7742,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_burning_blossom": "2025-03-06 04:44:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_crimson_blinds": {
     "criteria": {
       "has_log": "2025-03-06 04:35:17 +0000"
