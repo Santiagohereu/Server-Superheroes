@@ -1562,14 +1562,17 @@
       "minecraft:pillager": "2025-03-03 22:28:32 +0000",
       "minecraft:blaze": "2025-03-05 21:30:43 +0000",
       "minecraft:skeleton": "2025-03-03 22:49:58 +0000",
+      "minecraft:ravager": "2025-03-06 19:42:11 +0000",
       "minecraft:ghast": "2025-03-06 19:21:18 +0000",
       "minecraft:hoglin": "2025-03-05 21:29:27 +0000",
+      "minecraft:vindicator": "2025-03-06 19:39:48 +0000",
       "minecraft:magma_cube": "2025-03-05 22:02:15 +0000",
       "minecraft:spider": "2025-03-05 00:50:10 +0000",
       "minecraft:piglin_brute": "2025-03-05 21:41:00 +0000",
       "minecraft:creeper": "2025-03-03 22:45:26 +0000",
       "minecraft:phantom": "2025-03-05 20:55:52 +0000",
       "minecraft:zombified_piglin": "2025-03-06 02:16:39 +0000",
+      "minecraft:witch": "2025-03-06 19:41:59 +0000",
       "minecraft:cave_spider": "2025-03-04 02:52:06 +0000",
       "minecraft:piglin": "2025-03-05 21:42:28 +0000",
       "minecraft:enderman": "2025-03-05 20:12:43 +0000",
@@ -7887,6 +7890,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-03-06 19:55:06 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/food/plague_stew": {
     "criteria": {
       "has_bundle": "2025-03-06 19:28:33 +0000"
@@ -7902,6 +7911,12 @@
   "rats:recipes/food/cooked_rat_smelting": {
     "criteria": {
       "has_rat": "2025-03-06 19:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-06 19:39:57 +0000"
     },
     "done": true
   },
@@ -7947,6 +7962,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-03-06 19:55:06 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/food/cooked_rat_campfire": {
     "criteria": {
       "has_rat": "2025-03-06 19:26:40 +0000"
@@ -7965,9 +7986,27 @@
     },
     "done": true
   },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2025-03-06 19:39:59 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/pied_garbage": {
+    "criteria": {
+      "has_wool": "2025-03-06 19:39:55 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_upgraded_fence": {
     "criteria": {
       "has_log": "2025-03-06 19:06:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-03-06 19:48:20 +0000"
     },
     "done": true
   },
@@ -7995,6 +8034,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-03-06 19:42:00 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-03-06 19:43:05 +0000"
+    },
+    "done": false
+  },
   "rats:all_hats": {
     "criteria": {
       "has_black_death_mask": "2025-03-06 19:28:36 +0000"
@@ -8010,6 +8061,12 @@
   "nova_structures:adventure/find_pillager_outpost": {
     "criteria": {
       "minecraft:pillager_outpost": "2025-03-06 19:18:07 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-03-06 19:43:05 +0000"
     },
     "done": true
   },

@@ -1455,6 +1455,7 @@
       "minecraft:pillager": "2025-03-04 02:10:18 +0000",
       "minecraft:blaze": "2025-03-04 20:38:39 +0000",
       "minecraft:skeleton": "2025-03-03 23:08:54 +0000",
+      "minecraft:ravager": "2025-03-06 19:46:43 +0000",
       "minecraft:ghast": "2025-03-05 21:19:28 +0000",
       "minecraft:hoglin": "2025-03-05 21:39:41 +0000",
       "minecraft:vindicator": "2025-03-04 04:05:00 +0000",
@@ -8613,6 +8614,12 @@
     },
     "done": true
   },
+  "rats:piper": {
+    "criteria": {
+      "hurt_piper": "2025-03-06 19:36:53 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/rat_pelt_to_leather": {
     "criteria": {
       "has_pelt": "2025-03-06 19:27:07 +0000"
@@ -8760,6 +8767,12 @@
   "supplementaries:recipes/decorations/sign_post_spruce": {
     "criteria": {
       "has_planks": "2025-03-06 18:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-03-06 19:48:20 +0000"
     },
     "done": true
   },

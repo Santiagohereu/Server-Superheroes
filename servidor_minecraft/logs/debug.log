@@ -9936,3 +9936,30 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [06Mar2025 19:31:00.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
 [06Mar2025 19:36:00.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
 [06Mar2025 19:36:00.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[06Mar2025 19:39:57.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [Voluntary Exile]
+[06Mar2025 19:41:00.415] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[06Mar2025 19:41:00.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[06Mar2025 19:43:05.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [Cobweb Entanglement]
+[06Mar2025 19:44:36.661] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Federico'/12161, l='ServerLevel[Mundo Superheroes 2]', x=-478.52, y=72.54, z=1644.95] died, message: 'Federico was slain by Basher'
+[06Mar2025 19:44:36.662] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Federico'/12161, l='ServerLevel[Mundo Superheroes 2]', x=-478.52, y=72.54, z=1644.95] died: Federico was slain by Basher
+[06Mar2025 19:45:10.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 was shot by Pillager
+[06Mar2025 19:45:56.076] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
+[06Mar2025 19:46:00.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[06Mar2025 19:46:00.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[06Mar2025 19:46:03.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 was slain by Inquisitor
+[06Mar2025 19:46:04.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 was slain by Basher
+[06Mar2025 19:46:19.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 was killed by magic whilst trying to escape Marauder
+[06Mar2025 19:46:24.966] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Federica'/12162, l='ServerLevel[Mundo Superheroes 2]', x=-478.41, y=71.00, z=1688.58] died, message: 'Federica was slain by Basher'
+[06Mar2025 19:46:24.967] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Federica'/12162, l='ServerLevel[Mundo Superheroes 2]', x=-478.41, y=71.00, z=1688.58] died: Federica was slain by Basher
+[06Mar2025 19:47:05.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 was slain by Vindicator
+[06Mar2025 19:47:37.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 was slain by Zombie
+[06Mar2025 19:47:47.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 was slain by Vindicator
+[06Mar2025 19:48:20.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has completed the challenge [Hero of the Village]
+[06Mar2025 19:48:20.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has completed the challenge [Hero of the Village]
+[06Mar2025 19:51:00.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[06Mar2025 19:51:00.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[06Mar2025 19:53:58.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[06Mar2025 19:54:09.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 moved too quickly! 4.190339533822339,-1.9814888314966908,-9.620404597148536
+[06Mar2025 19:55:06.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [Cover Me with Diamonds]
+[06Mar2025 19:56:00.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[06Mar2025 19:56:00.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
