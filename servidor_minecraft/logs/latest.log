@@ -1,0 +1,1468 @@
+[06Mar2025 01:10:22.490] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[06Mar2025 01:10:22.494] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[06Mar2025 01:10:23.378] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[06Mar2025 01:10:23.419] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server-Superheroes/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[06Mar2025 01:10:23.830] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Superheroes/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[06Mar2025 01:10:23.831] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Superheroes/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06Mar2025 01:10:23.832] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Superheroes/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06Mar2025 01:10:23.833] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Superheroes/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06Mar2025 01:10:24.292] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[06Mar2025 01:10:24.294] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: playeranimator. Using Mod File: /workspaces/Server-Superheroes/servidor_minecraft/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar
+[06Mar2025 01:10:24.294] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/Server-Superheroes/servidor_minecraft/mods/curios-forge-5.12.1+1.20.1.jar
+[06Mar2025 01:10:24.294] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 27 dependencies adding them to mods collection
+[06Mar2025 01:10:28.025] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[06Mar2025 01:10:28.050] [main/ERROR] [mixin/]: Mixin config palladiumcore-common.mixins.json does not specify "minVersion" property
+[06Mar2025 01:10:28.054] [main/ERROR] [mixin/]: Mixin config palladiumcore.mixins.json does not specify "minVersion" property
+[06Mar2025 01:10:28.408] [main/ERROR] [mixin/]: Mixin config yacl.mixins.json does not specify "minVersion" property
+[06Mar2025 01:10:28.455] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[06Mar2025 01:10:28.640] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 0 override(s) found
+[06Mar2025 01:10:28.641] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[06Mar2025 01:10:28.656] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[06Mar2025 01:10:28.810] [main/WARN] [mixin/]: Reference map 'corpsecurioscompat.refmap.json' for gravestonecurioscompat.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Mar2025 01:10:29.013] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Mar2025 01:10:29.018] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Mar2025 01:10:29.020] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Mar2025 01:10:29.042] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Mar2025 01:10:29.065] [main/WARN] [mixin/]: Reference map 'mixins.kom.refmap.json' for mixins.kom.json could not be read. If this is a development environment you can ignore this message
+[06Mar2025 01:10:29.068] [main/WARN] [mixin/]: Reference map 'xlpackets.refmap.json' for xlpackets.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Mar2025 01:10:29.200] [main/INFO] [Puzzles Lib/]: Loading 106 mods:
+	- ad_astra 1.15.19
+	- aether 1.20.1-1.5.2-neoforge
+		|-- cumulus_menus 1.20.1-1.0.1-neoforge
+		|-- mixinextras 0.2.0-beta.9
+		\-- nitrogen_internals 1.20.1-1.0.12-neoforge
+	- aiimprovements 0.5.2
+	- alekiships 1.0.14
+	- alexscaves 2.0.2
+	- alexsdelight 1.5
+	- alexsmobs 1.22.9
+	- amplified_nether 1.2.5
+	- aquamirae 6.API15
+	- architectury 9.2.14
+	- attributeslib 1.3.7
+	- awesomedungeonocean 3.3.0
+	- balm 7.3.18
+		\-- kuma_api 20.1.9-SNAPSHOT
+	- bendylib 4.0.0
+	- betterdungeons 1.20-Forge-4.0.4
+	- betterfortresses 1.20-Forge-2.0.6
+	- betterjungletemples 1.20-Forge-2.0.5
+	- bettermineshafts 1.20-Forge-4.0.4
+	- betteroceanmonuments 1.20-Forge-3.0.4
+	- betterstrongholds 1.20-Forge-4.0.3
+	- biomesoplenty 19.0.0.94
+	- bosses_of_mass_destruction 1.1.2
+	- botarium 2.3.2
+	- caelus 3.2.0+1.20.1
+	- cataclysm 2.56
+	- cerbons_api 1.1.0
+	- cfm 7.0.0-pre36
+	- chunky 1.3.146
+	- citadel 2.6.1
+	- cloth_config 11.1.136
+	- cupboard 1.20.1-2.3
+	- curios 5.12.1+1.20.1
+	- dampened 1.0.1
+	- deeperdarker 1.3.3
+	- domesticationinnovation 1.7.1
+	- endermanoverhaul 1.0.4
+	- farmersdelight 1.20.1-1.2.7
+	- ferritecore 6.0.1
+	- forge 47.3.7
+	- fsang 10.1.0
+	- geckolib 4.7
+	- glitchcore 0.0.1.1
+	- gravecore 1.0.7.1
+	- graveht 0.1.1
+	- gravestone 1.20.1-1.0.24
+	- gravestonecurioscompat 2.1.0
+	- iceandfire 2.1.13-1.20.1
+	- illagerinvasion 8.0.7
+	- immersive_aircraft 1.2.1+1.20.1
+	- incendium 5.3.5
+	- ironman_by_yo_fadda 1.0.24
+	- irons_recipe_additions 1.0.0
+	- irons_spellbooks 1.20.1-3.4.0.7
+	- iwannaskate 1.2.0
+	- kom 1.0.0
+	- kubejs 2001.6.5-build.16
+	- libraryferret 4.0.0
+	- lionfishapi 2.4-Fix
+	- lostcities 1.20-7.3.6
+	- minecraft 1.20.1
+	- mobbattle 1.20.1-2.4.7
+	- modernfix 5.20.2+mc1.20.1
+	- moonlight 1.20-2.9.17
+	- mowziesmobs 1.7.1
+	- mr_dungeons_andtaverns 3.0.3.f
+	- nethersdelight 1.20.1-4.0
+	- obscure_api 15
+	- palladium 4.1.9
+		\-- palladiumcore 1.0.1
+	- pantheonsent 1.1.0
+		\-- sherdsapi 4.0.4
+	- pehkui 3.8.2+1.20.1-forge
+	- placebo 8.6.2
+	- playeranimator 1.0.2-rc1+1.20
+	- puzzleslib 8.1.25
+		\-- puzzlesaccessapi 8.0.7
+	- rats 1.20.1-8.1.3
+	- resourcefulconfig 2.1.3
+	- resourcefullib 2.1.29
+	- rhino 2001.2.3-build.10
+	- scuba_gear 1.0.6
+	- sekclib 1.0.2
+	- servercore 1.5.2+1.20.1
+	- skinrestorer 2.2.1+1.20-forge
+	- sophisticatedbackpacks 3.23.6.1210
+	- sophisticatedcore 1.2.20.894
+	- speedforce_by_yofadda 1.0.0
+	- structureessentials 1.20.1-3.2
+	- supplementaries 1.20-2.7.36
+		\-- mixinsquared 0.1.1
+	- terrablender 3.0.1.7
+	- travelerstitles 1.20-Forge-4.0.2
+	- traveloptics 4.0.2-1.20.1
+	- waystones 14.1.10
+	- weaponmaster_ydm 4.2.3
+	- xaerominimap 25.1.0
+	- xaeroworldmap 1.39.4
+	- xlpackets 1.18.2-2.1
+	- yet_another_config_lib_v3 3.6.2+1.20.1-forge
+	- yungsapi 1.20-Forge-4.0.6
+	- yungsbridges 1.20-Forge-4.0.3
+	- yungsextras 1.20-Forge-4.0.3
+[06Mar2025 01:10:29.214] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Mar2025 01:10:30.307] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: structureessentials.json
+[06Mar2025 01:10:30.336] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06Mar2025 01:10:30.345] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06Mar2025 01:10:31.170] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[06Mar2025 01:10:31.171] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[06Mar2025 01:10:31.786] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[06Mar2025 01:10:32.220] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_216202_ in modernfix-forge.mixins.json:perf.tag_id_caching.TagOrElementLocationMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[06Mar2025 01:10:32.286] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+java.lang.NoClassDefFoundError: com/sun/jna/Platform
+	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
+	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.SystemReport.m_143516_(SystemReport.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.SystemReport.<init>(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.CrashReport.<init>(CrashReport.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.CrashReport.m_127529_(CrashReport.java:216) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.Main.main(Main.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	... 22 more
+[06Mar2025 01:10:32.384] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (12.04 s after launch)
+[06Mar2025 01:10:32.526] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[06Mar2025 01:10:32.527] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[06Mar2025 01:10:33.271] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06Mar2025 01:10:33.272] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06Mar2025 01:10:34.089] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1701 milliseconds
+[06Mar2025 01:10:34.544] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06Mar2025 01:10:34.545] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06Mar2025 01:10:35.005] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=1 on palladiumcore-common.mixins.json:LightningBoltMixin::handler$zzg000$tick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[06Mar2025 01:10:36.836] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+
+[06Mar2025 01:10:37.514] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for illagerinvasion:main
+[06Mar2025 01:10:37.858] [modloading-worker-0/INFO] [com.leclowndu93150.corpsecurioscompat.Main/]: Hello from Gravestone Curios Compat!
+[06Mar2025 01:10:38.262] [modloading-worker-0/INFO] [me.wesley1808.servercore.common.ServerCore/]: [ServerCore] Loaded V1.5.2+1.20.1!
+[06Mar2025 01:10:38.358] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
+[06Mar2025 01:10:38.560] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[06Mar2025 01:10:38.614] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[06Mar2025 01:10:38.633] [modloading-worker-0/INFO] [KubeJS/]: Loaded common.properties
+[06Mar2025 01:10:38.634] [modloading-worker-0/INFO] [KubeJS/]: Loaded dev.properties
+[06Mar2025 01:10:38.641] [modloading-worker-0/INFO] [KubeJS/]: Looking for KubeJS plugins...
+[06Mar2025 01:10:38.646] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejs
+[06Mar2025 01:10:38.658] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin does not load on server side, skipping
+[06Mar2025 01:10:38.658] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration does not have required mod gamestages loaded, skipping
+[06Mar2025 01:10:38.659] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source palladium
+[06Mar2025 01:10:38.712] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[06Mar2025 01:10:38.715] [modloading-worker-0/INFO] [KubeJS/]: Done in 73.23 ms
+[06Mar2025 01:10:38.730] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[06Mar2025 01:10:38.743] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@550c973e on thread Thread[modloading-worker-0,5,main]
+[06Mar2025 01:10:38.744] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2350!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2350!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2350!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2350!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.ClassLoader.defineClass0(Native Method) ~[?:?]
+	at java.lang.System$2.defineClass(System.java:2324) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup$ClassDefiner.defineClass(MethodHandles.java:2439) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup$ClassDefiner.defineClassAsLookup(MethodHandles.java:2420) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup.defineHiddenClass(MethodHandles.java:2127) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.generateInnerClass(InnerClassLambdaMetafactory.java:407) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.spinInnerClass(InnerClassLambdaMetafactory.java:315) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.buildCallSite(InnerClassLambdaMetafactory.java:228) ~[?:?]
+	at java.lang.invoke.LambdaMetafactory.metafactory(LambdaMetafactory.java:341) ~[?:?]
+	at java.lang.invoke.BootstrapMethodInvoker.invoke(BootstrapMethodInvoker.java:134) ~[?:?]
+	at java.lang.invoke.CallSite.makeSite(CallSite.java:315) ~[?:?]
+	at java.lang.invoke.MethodHandleNatives.linkCallSiteImpl(MethodHandleNatives.java:281) ~[?:?]
+	at java.lang.invoke.MethodHandleNatives.linkCallSite(MethodHandleNatives.java:271) ~[?:?]
+	at com.obscuria.obscureapi.client.renderer.PatreonLayer$Mode.<clinit>(PatreonLayer.java:55) ~[obscure_api-15.jar%23250!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPIConfig$Client.<clinit>(ObscureAPIConfig.java:28) ~[obscure_api-15.jar%23250!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPIConfig.register(ObscureAPIConfig.java:46) ~[obscure_api-15.jar%23250!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPI.<init>(ObscureAPI.java:69) ~[obscure_api-15.jar%23250!/:com.obscuria]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.7.jar%23291!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.7.jar%23290!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[06Mar2025 01:10:38.754] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[06Mar2025 01:10:39.292] [modloading-worker-0/ERROR] [net.minecraft.server.packs.AbstractPackResources/]: Couldn't load pack metadata
+com.google.gson.JsonSyntaxException: Missing pack_format, expected to find a Int
+	at net.minecraft.util.GsonHelper.m_13927_(GsonHelper.java:277) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.packs.metadata.pack.PackMetadataSectionSerializer.m_6322_(PackMetadataSectionSerializer.java:15) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.packs.metadata.pack.PackMetadataSectionSerializer.m_6322_(PackMetadataSectionSerializer.java:9) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.packs.AbstractPackResources.m_10214_(AbstractPackResources.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.packs.AbstractPackResources.m_5550_(AbstractPackResources.java:33) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.packs.repository.Pack.m_246334_(Pack.java:60) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.packs.repository.Pack.m_245429_(Pack.java:35) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.threetag.palladium.addonpack.forge.AddonPackManagerImpl$ModPackSource.m_7686_(AddonPackManagerImpl.java:49) ~[palladium-4.1.9+1.20.1-forge.jar%23251!/:4.1.9+1.20.1]
+	at net.minecraft.server.packs.repository.PackRepository.m_10526_(PackRepository.java:39) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.packs.repository.PackRepository.m_10506_(PackRepository.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at dev.latvian.mods.kubejs.script.ScriptManager.handler$zck000$loadFromDirectory(ScriptManager.java:537) ~[kubejs-forge-2001.6.5-build.16.jar%23240!/:2001.6.5-build.16]
+	at dev.latvian.mods.kubejs.script.ScriptManager.loadFromDirectory(ScriptManager.java:150) ~[kubejs-forge-2001.6.5-build.16.jar%23240!/:2001.6.5-build.16]
+	at dev.latvian.mods.kubejs.script.ScriptManager.reload(ScriptManager.java:72) ~[kubejs-forge-2001.6.5-build.16.jar%23240!/:2001.6.5-build.16]
+	at dev.latvian.mods.kubejs.KubeJS.<init>(KubeJS.java:137) ~[kubejs-forge-2001.6.5-build.16.jar%23240!/:2001.6.5-build.16]
+	at dev.latvian.mods.kubejs.forge.KubeJSForge.<init>(KubeJSForge.java:51) ~[kubejs-forge-2001.6.5-build.16.jar%23240!/:2001.6.5-build.16]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.7.jar%23291!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.7.jar%23290!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[06Mar2025 01:10:39.297] [modloading-worker-0/WARN] [net.minecraft.server.packs.repository.Pack/]: Missing metadata in pack mod:minecraft
+[06Mar2025 01:10:39.360] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading Rhino Minecraft remapper...
+[06Mar2025 01:10:39.362] [modloading-worker-0/INFO] [dev.latvian.mods.rhino.mod.util.RhinoProperties/]: Rhino properties loaded.
+[06Mar2025 01:10:39.365] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading mappings for 1.20.1
+[06Mar2025 01:10:39.479] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Done in 0.119 s
+[06Mar2025 01:10:39.857] [modloading-worker-0/INFO] [KubeJS Startup/]: example.js#5: Hello, World! (Loaded startup scripts)
+[06Mar2025 01:10:39.860] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:example.js in 0.061 s
+[06Mar2025 01:10:39.869] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/xgene_manipulation.js in 0.009 s
+[06Mar2025 01:10:39.880] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/x_ray_vision_ability.js in 0.009 s
+[06Mar2025 01:10:39.887] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/wall_climb_move_condition.js in 0.007 s
+[06Mar2025 01:10:39.888] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/wall_climb_condition.js in 0.001 s
+[06Mar2025 01:10:39.898] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_fsang_hero:kubejs_scripts/wall_climb.js#1: Loaded Java class 'net.minecraft.world.level.ClipContext'
+[06Mar2025 01:10:39.901] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_fsang_hero:kubejs_scripts/wall_climb.js#26: Loaded Java class 'net.minecraft.network.protocol.game.ClientboundSetEntityMotionPacket'
+[06Mar2025 01:10:39.901] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/wall_climb.js in 0.013 s
+[06Mar2025 01:10:39.902] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/vulcan_shield2.js in 0.001 s
+[06Mar2025 01:10:39.903] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/vulcan_shield1.js in 0.001 s
+[06Mar2025 01:10:39.904] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/vulcan_overload.js in 0.001 s
+[06Mar2025 01:10:39.905] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/tellraw_ability.js in 0.001 s
+[06Mar2025 01:10:39.907] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/teleport_ability2.js in 0.001 s
+[06Mar2025 01:10:39.909] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/teleport_ability.js in 0.001 s
+[06Mar2025 01:10:39.910] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/telepathy_stop.js in 0.001 s
+[06Mar2025 01:10:39.910] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/tactile_telekinesis_stun.js in 0.0 s
+[06Mar2025 01:10:39.913] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_wraith_dna.js in 0.002 s
+[06Mar2025 01:10:39.916] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_venom_dna.js in 0.001 s
+[06Mar2025 01:10:39.917] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_toxin_dna.js in 0.0 s
+[06Mar2025 01:10:39.918] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_sleeper_dna.js in 0.0 s
+[06Mar2025 01:10:39.919] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_scream_dna.js in 0.001 s
+[06Mar2025 01:10:39.927] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_scorn_dna.js in 0.008 s
+[06Mar2025 01:10:39.930] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_riot_dna.js in 0.001 s
+[06Mar2025 01:10:39.932] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_phage_dna.js in 0.001 s
+[06Mar2025 01:10:39.935] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_montechiari_dna.js in 0.001 s
+[06Mar2025 01:10:39.936] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_misery_dna.js in 0.001 s
+[06Mar2025 01:10:39.937] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_lasher_dna.js in 0.001 s
+[06Mar2025 01:10:39.938] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_inumis_dna.js in 0.001 s
+[06Mar2025 01:10:39.939] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_hybrid_dna.js in 0.001 s
+[06Mar2025 01:10:39.941] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_host_rider_dna.js in 0.001 s
+[06Mar2025 01:10:39.942] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_grendel_dna.js in 0.001 s
+[06Mar2025 01:10:39.943] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_fang_dna.js in 0.0 s
+[06Mar2025 01:10:39.945] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_fallout_dna.js in 0.0 s
+[06Mar2025 01:10:39.946] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_empty_dna.js in 0.001 s
+[06Mar2025 01:10:39.947] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_curse_dna.js in 0.0 s
+[06Mar2025 01:10:39.949] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_carnage_dna.js in 0.0 s
+[06Mar2025 01:10:39.949] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_bloom_dna.js in 0.0 s
+[06Mar2025 01:10:39.950] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_agony_dna.js in 0.0 s
+[06Mar2025 01:10:39.951] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/speedforce_chemicals.js in 0.0 s
+[06Mar2025 01:10:39.956] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/speed_power.js in 0.004 s
+[06Mar2025 01:10:39.956] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/sound_poisoning.js in 0.0 s
+[06Mar2025 01:10:39.958] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/sleep_condition.js in 0.001 s
+[06Mar2025 01:10:39.959] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/shock.js in 0.001 s
+[06Mar2025 01:10:39.961] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/scoreboard_math.js in 0.002 s
+[06Mar2025 01:10:39.971] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/scoreboard_ability.js in 0.009 s
+[06Mar2025 01:10:39.972] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/scarab_shield.js in 0.0 s
+[06Mar2025 01:10:39.979] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_fsang_hero:kubejs_scripts/rf_percentage_condition.js#2: Loaded Java class 'net.threetag.palladium.compat.curiostinkets.CuriosTrinketsUtil'
+[06Mar2025 01:10:39.987] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_fsang_hero:kubejs_scripts/rf_percentage_condition.js#3: Loaded Java class 'net.threetag.palladium.energy.EnergyHelper'
+[06Mar2025 01:10:39.987] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/rf_percentage_condition.js in 0.015 s
+[06Mar2025 01:10:39.995] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/rf_hud.js in 0.005 s
+[06Mar2025 01:10:39.998] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/remove_hand_item_ability.js in 0.0 s
+[06Mar2025 01:10:39.999] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/radiant_black_hole.js in 0.001 s
+[06Mar2025 01:10:40.000] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/psychic_damage.js in 0.0 s
+[06Mar2025 01:10:40.001] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/power_dampen.js in 0.0 s
+[06Mar2025 01:10:40.003] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/phoenix_healing.js in 0.001 s
+[06Mar2025 01:10:40.003] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/magnetism_poisoning.js in 0.0 s
+[06Mar2025 01:10:40.004] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/leap_back.js in 0.0 s
+[06Mar2025 01:10:40.005] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/leap.js in 0.001 s
+[06Mar2025 01:10:40.006] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/kryptonite_poisoning.js in 0.0 s
+[06Mar2025 01:10:40.008] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/iventory_condition.js in 0.001 s
+[06Mar2025 01:10:40.010] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/is_rf_condition.js in 0.002 s
+[06Mar2025 01:10:40.012] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/ice_block.js in 0.0 s
+[06Mar2025 01:10:40.013] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/hellspawn.js in 0.001 s
+[06Mar2025 01:10:40.014] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/height_condition.js in 0.001 s
+[06Mar2025 01:10:40.015] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/hand_condition.js in 0.001 s
+[06Mar2025 01:10:40.019] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/get_energy_condition2.js in 0.004 s
+[06Mar2025 01:10:40.021] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/get_energy_condition.js in 0.002 s
+[06Mar2025 01:10:40.022] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/gamma_radiation.js in 0.001 s
+[06Mar2025 01:10:40.022] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/freezing.js in 0.0 s
+[06Mar2025 01:10:40.031] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/entity_damage.js in 0.007 s
+[06Mar2025 01:10:40.032] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/enderchest_ability.js in 0.0 s
+[06Mar2025 01:10:40.034] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/dynamic_attribute.js in 0.002 s
+[06Mar2025 01:10:40.040] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/drain_per_tick.js in 0.006 s
+[06Mar2025 01:10:40.042] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/curios_trinkets_condition.js in 0.002 s
+[06Mar2025 01:10:40.044] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/block_condition.js in 0.002 s
+[06Mar2025 01:10:40.044] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/asgardian_effect.js in 0.0 s
+[06Mar2025 01:10:40.045] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/ad_astra_breathing.js in 0.0 s
+[06Mar2025 01:10:40.050] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_fsang_hero:kubejs_scripts/ad_astra_ability.js in 0.002 s
+[06Mar2025 01:10:40.077] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_dampened:kubejs_scripts/dampen_block_tick.js#1: Loaded Java class 'net.minecraft.world.level.block.state.properties.IntegerProperty'
+[06Mar2025 01:10:40.087] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_dampened:kubejs_scripts/dampen_block_tick.js#2: Loaded Java class 'net.minecraft.world.level.block.state.properties.BooleanProperty'
+[06Mar2025 01:10:40.099] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_dampened:kubejs_scripts/dampen_block_tick.js in 0.048 s
+[06Mar2025 01:10:40.109] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_dampened:kubejs_scripts/dampened_effects.js in 0.006 s
+[06Mar2025 01:10:40.116] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_dampened:kubejs_scripts/safe_effect_check.js#6: Loaded Java class 'net.minecraft.core.registries.BuiltInRegistries'
+[06Mar2025 01:10:40.116] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_dampened:kubejs_scripts/safe_effect_check.js in 0.005 s
+[06Mar2025 01:10:40.135] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_dampened:kubejs_scripts/dampened_items.js#7: Loaded Java class 'top.theillusivec4.curios.api.CuriosApi'
+[06Mar2025 01:10:40.136] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_dampened:kubejs_scripts/dampened_items.js#8: Loaded Java class 'java.util.UUID'
+[06Mar2025 01:10:40.137] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_dampened:kubejs_scripts/dampened_items.js#9: Loaded Java class 'dev.latvian.mods.kubejs.util.UtilsJS'
+[06Mar2025 01:10:40.137] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_dampened:kubejs_scripts/dampened_items.js#10: Loaded Java class 'net.minecraft.resources.ResourceLocation'
+[06Mar2025 01:10:40.139] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_dampened:kubejs_scripts/dampened_items.js#12: Loaded Java class 'net.threetag.palladium.util.PlayerUtil'
+[06Mar2025 01:10:40.140] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_dampened:kubejs_scripts/dampened_items.js in 0.023 s
+[06Mar2025 01:10:40.141] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_dampened:kubejs_scripts/register_sounds.js in 0.001 s
+[06Mar2025 01:10:40.141] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.ht:kubejs_scripts/vulp_talk.js in 0.0 s
+[06Mar2025 01:10:40.143] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.ht:kubejs_scripts/unlock.js in 0.002 s
+[06Mar2025 01:10:40.145] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.ht:kubejs_scripts/transform.js in 0.002 s
+[06Mar2025 01:10:40.145] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.ht:kubejs_scripts/token.js in 0.0 s
+[06Mar2025 01:10:40.146] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.ht:kubejs_scripts/removetoken.js in 0.001 s
+[06Mar2025 01:10:40.148] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.ht:kubejs_scripts/omnitrix_cycle_playlists.js in 0.002 s
+[06Mar2025 01:10:40.150] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.ht:kubejs_scripts/omnitrix_cycle.js in 0.002 s
+[06Mar2025 01:10:40.150] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.ht:kubejs_scripts/omnitrix_alien_wipe.js in 0.0 s
+[06Mar2025 01:10:40.163] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.ht:kubejs_scripts/items.js in 0.012 s
+[06Mar2025 01:10:40.164] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.ht:kubejs_scripts/galvan_workbench_block.js in 0.0 s
+[06Mar2025 01:10:40.168] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.ht:kubejs_scripts/detransform.js in 0.003 s
+[06Mar2025 01:10:40.172] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.ht:kubejs_scripts/decouple.js in 0.004 s
+[06Mar2025 01:10:40.176] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.ht:kubejs_scripts/couple.js in 0.004 s
+[06Mar2025 01:10:40.178] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.ht:kubejs_scripts/blocks.js in 0.002 s
+[06Mar2025 01:10:40.187] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.ht:kubejs_scripts/alien_database.js in 0.009 s
+[06Mar2025 01:10:40.188] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/wall_climb_move_condition.js in 0.0 s
+[06Mar2025 01:10:40.193] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/wall_climb_condition.js in 0.0 s
+[06Mar2025 01:10:40.196] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/wall_climb.js in 0.003 s
+[06Mar2025 01:10:40.197] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/uuid_condition.js in 0.001 s
+[06Mar2025 01:10:40.200] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/store_armour.js in 0.002 s
+[06Mar2025 01:10:40.205] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/stone_index.js in 0.005 s
+[06Mar2025 01:10:40.206] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/stone_detection.js in 0.001 s
+[06Mar2025 01:10:40.207] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/sonic_deafening.js in 0.001 s
+[06Mar2025 01:10:40.208] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/snazzier_attribute_ability.js in 0.001 s
+[06Mar2025 01:10:40.209] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/shock_effect.js in 0.001 s
+[06Mar2025 01:10:40.210] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/projectile_script.js in 0.001 s
+[06Mar2025 01:10:40.211] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/power_selected.js in 0.0 s
+[06Mar2025 01:10:40.212] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/persistent_data_condition.js in 0.001 s
+[06Mar2025 01:10:40.212] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/movement.js in 0.0 s
+[06Mar2025 01:10:40.213] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/month_condition.js in 0.0 s
+[06Mar2025 01:10:40.214] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/main_hand_condition.js in 0.0 s
+[06Mar2025 01:10:40.224] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/items.js in 0.01 s
+[06Mar2025 01:10:40.226] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/get_energy_condition.js in 0.001 s
+[06Mar2025 01:10:40.228] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/freeze_effect.js in 0.001 s
+[06Mar2025 01:10:40.229] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/explosion.js in 0.001 s
+[06Mar2025 01:10:40.230] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/effect_condition.js in 0.001 s
+[06Mar2025 01:10:40.232] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_grave.core:kubejs_scripts/dynamic_pehkui_scale.js#1: Loaded Java class 'net.threetag.palladium.util.SizeUtil'
+[06Mar2025 01:10:40.232] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/dynamic_pehkui_scale.js in 0.002 s
+[06Mar2025 01:10:40.234] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/drain_per_tick.js in 0.001 s
+[06Mar2025 01:10:40.236] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/date_condition.js in 0.0 s
+[06Mar2025 01:10:40.237] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/camera.js in 0.0 s
+[06Mar2025 01:10:40.240] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/burning_effect.js in 0.002 s
+[06Mar2025 01:10:40.244] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/blocks.js in 0.003 s
+[06Mar2025 01:10:40.249] [modloading-worker-0/INFO] [KubeJS Startup/]: addonpack_grave.core:kubejs_scripts/aoe_knockback.js#2: Loaded Java class 'net.minecraft.world.phys.Vec3'
+[06Mar2025 01:10:40.254] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/aoe_knockback.js in 0.006 s
+[06Mar2025 01:10:40.255] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script addonpack_grave.core:kubejs_scripts/aoe_damage.js in 0.001 s
+[06Mar2025 01:10:40.265] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded 123/123 KubeJS startup scripts in 0.776 s with 0 errors and 0 warnings
+[06Mar2025 01:10:40.279] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[06Mar2025 01:10:40.280] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[06Mar2025 01:10:40.473] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[06Mar2025 01:10:40.526] [modloading-worker-0/WARN] [KubeJS Startup/]: addonpack_fsang_hero:kubejs_scripts/vulcan_shield2.js#12: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[06Mar2025 01:10:40.527] [modloading-worker-0/WARN] [KubeJS Startup/]: addonpack_fsang_hero:kubejs_scripts/vulcan_shield1.js#12: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[06Mar2025 01:10:40.541] [modloading-worker-0/WARN] [KubeJS Startup/]: addonpack_fsang_hero:kubejs_scripts/scarab_shield.js#12: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[06Mar2025 01:10:40.579] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:send_data_from_client
+[06Mar2025 01:10:40.582] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:first_click
+[06Mar2025 01:10:40.606] [modloading-worker-0/INFO] [Sherds API/]: Initializing Sherds API for Forge in a production environment...
+[06Mar2025 01:10:40.664] [modloading-worker-0/INFO] [YetAnotherConfigLib/]: Deserializing YACLConfig from '/workspaces/Server-Superheroes/servidor_minecraft/config/yacl.json5'
+[06Mar2025 01:10:40.714] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[06Mar2025 01:10:41.266] [main/INFO] [net.threetag.palladium.Palladium/]: Starting addonpack initialisation...
+[06Mar2025 01:10:41.276] [main/ERROR] [net.minecraft.server.packs.AbstractPackResources/]: Couldn't load pack metadata
+com.google.gson.JsonSyntaxException: Missing pack_format, expected to find a Int
+	at net.minecraft.util.GsonHelper.m_13927_(GsonHelper.java:277) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.packs.metadata.pack.PackMetadataSectionSerializer.m_6322_(PackMetadataSectionSerializer.java:15) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.packs.metadata.pack.PackMetadataSectionSerializer.m_6322_(PackMetadataSectionSerializer.java:9) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.packs.AbstractPackResources.m_10214_(AbstractPackResources.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.packs.AbstractPackResources.m_5550_(AbstractPackResources.java:33) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.packs.repository.Pack.m_246334_(Pack.java:60) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.packs.repository.Pack.m_245429_(Pack.java:35) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.threetag.palladium.addonpack.forge.AddonPackManagerImpl$ModPackSource.m_7686_(AddonPackManagerImpl.java:49) ~[palladium-4.1.9+1.20.1-forge.jar%23251!/:4.1.9+1.20.1]
+	at net.minecraft.server.packs.repository.PackRepository.m_10526_(PackRepository.java:39) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.packs.repository.PackRepository.m_10506_(PackRepository.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.threetag.palladium.addonpack.AddonPackManager.beginLoading(AddonPackManager.java:136) ~[palladium-4.1.9+1.20.1-forge.jar%23251!/:4.1.9+1.20.1]
+	at net.threetag.palladium.addonpack.AddonPackManager.startLoading(AddonPackManager.java:54) ~[palladium-4.1.9+1.20.1-forge.jar%23251!/:4.1.9+1.20.1]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at net.minecraftforge.fml.DeferredWorkQueue.lambda$makeRunnable$2(DeferredWorkQueue.java:81) ~[fmlcore-1.20.1-47.3.7.jar%23290!/:?]
+	at net.minecraftforge.fml.DeferredWorkQueue.makeRunnable(DeferredWorkQueue.java:76) ~[fmlcore-1.20.1-47.3.7.jar%23290!/:?]
+	at net.minecraftforge.fml.DeferredWorkQueue.lambda$runTasks$0(DeferredWorkQueue.java:60) ~[fmlcore-1.20.1-47.3.7.jar%23290!/:?]
+	at java.util.concurrent.ConcurrentLinkedDeque.forEach(ConcurrentLinkedDeque.java:1650) ~[?:?]
+	at net.minecraftforge.fml.DeferredWorkQueue.runTasks(DeferredWorkQueue.java:60) ~[fmlcore-1.20.1-47.3.7.jar%23290!/:?]
+	at net.minecraftforge.fml.core.ParallelTransition.lambda$finalActivityGenerator$2(ParallelTransition.java:35) ~[forge-1.20.1-47.3.7-universal.jar%23294!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraftforge.fml.ModWorkManager$SyncExecutor.driveOne(ModWorkManager.java:43) ~[fmlcore-1.20.1-47.3.7.jar%23290!/:?]
+	at net.minecraftforge.fml.ModWorkManager$DrivenExecutor.drive(ModWorkManager.java:28) ~[fmlcore-1.20.1-47.3.7.jar%23290!/:?]
+	at net.minecraftforge.fml.ModLoader.waitForTransition(ModLoader.java:224) ~[fmlcore-1.20.1-47.3.7.jar%23290!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$dispatchAndHandleError$20(ModLoader.java:210) ~[fmlcore-1.20.1-47.3.7.jar%23290!/:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.dispatchAndHandleError(ModLoader.java:210) ~[fmlcore-1.20.1-47.3.7.jar%23290!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$gatherAndInitializeMods$13(ModLoader.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23290!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23290!/:?]
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:30) ~[forge-1.20.1-47.3.7-universal.jar%23294!/:?]
+	at net.minecraft.server.Main.main(Main.java:125) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[06Mar2025 01:10:41.277] [main/WARN] [net.minecraft.server.packs.repository.Pack/]: Missing metadata in pack mod:minecraft
+[06Mar2025 01:10:41.281] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:ad_astra as it's not been marked as an addonpack
+[06Mar2025 01:10:41.281] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.283] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:aether as it's not been marked as an addonpack
+[06Mar2025 01:10:41.283] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.283] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:aiimprovements as it's not been marked as an addonpack
+[06Mar2025 01:10:41.283] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.284] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:alekiships as it's not been marked as an addonpack
+[06Mar2025 01:10:41.284] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.284] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:alexscaves as it's not been marked as an addonpack
+[06Mar2025 01:10:41.284] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.284] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:alexsdelight as it's not been marked as an addonpack
+[06Mar2025 01:10:41.285] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.285] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:alexsmobs as it's not been marked as an addonpack
+[06Mar2025 01:10:41.285] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.285] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:amplified_nether as it's not been marked as an addonpack
+[06Mar2025 01:10:41.286] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.286] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:aquamirae as it's not been marked as an addonpack
+[06Mar2025 01:10:41.286] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.286] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:architectury as it's not been marked as an addonpack
+[06Mar2025 01:10:41.286] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.287] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:attributeslib as it's not been marked as an addonpack
+[06Mar2025 01:10:41.287] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.287] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:awesomedungeonocean as it's not been marked as an addonpack
+[06Mar2025 01:10:41.287] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.288] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:balm as it's not been marked as an addonpack
+[06Mar2025 01:10:41.288] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.288] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:bendylib as it's not been marked as an addonpack
+[06Mar2025 01:10:41.288] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.289] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:betterdungeons as it's not been marked as an addonpack
+[06Mar2025 01:10:41.289] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.289] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:betterfortresses as it's not been marked as an addonpack
+[06Mar2025 01:10:41.289] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.289] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:betterjungletemples as it's not been marked as an addonpack
+[06Mar2025 01:10:41.290] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.290] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:bettermineshafts as it's not been marked as an addonpack
+[06Mar2025 01:10:41.290] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.290] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:betteroceanmonuments as it's not been marked as an addonpack
+[06Mar2025 01:10:41.290] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.291] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:betterstrongholds as it's not been marked as an addonpack
+[06Mar2025 01:10:41.291] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.291] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:biomesoplenty as it's not been marked as an addonpack
+[06Mar2025 01:10:41.291] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.291] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:bosses_of_mass_destruction as it's not been marked as an addonpack
+[06Mar2025 01:10:41.292] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.292] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:botarium as it's not been marked as an addonpack
+[06Mar2025 01:10:41.292] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.292] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:caelus as it's not been marked as an addonpack
+[06Mar2025 01:10:41.292] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.293] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:cataclysm as it's not been marked as an addonpack
+[06Mar2025 01:10:41.293] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.293] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:cerbons_api as it's not been marked as an addonpack
+[06Mar2025 01:10:41.293] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.294] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:cfm as it's not been marked as an addonpack
+[06Mar2025 01:10:41.294] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.295] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:chunky as it's not been marked as an addonpack
+[06Mar2025 01:10:41.295] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.295] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:citadel as it's not been marked as an addonpack
+[06Mar2025 01:10:41.296] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.296] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:cloth_config as it's not been marked as an addonpack
+[06Mar2025 01:10:41.296] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.296] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:cumulus_menus as it's not been marked as an addonpack
+[06Mar2025 01:10:41.297] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.297] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:cupboard as it's not been marked as an addonpack
+[06Mar2025 01:10:41.297] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.298] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:curios as it's not been marked as an addonpack
+[06Mar2025 01:10:41.298] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.300] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:deeperdarker as it's not been marked as an addonpack
+[06Mar2025 01:10:41.300] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.300] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:domesticationinnovation as it's not been marked as an addonpack
+[06Mar2025 01:10:41.300] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.300] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:endermanoverhaul as it's not been marked as an addonpack
+[06Mar2025 01:10:41.301] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.301] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:farmersdelight as it's not been marked as an addonpack
+[06Mar2025 01:10:41.301] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.301] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:ferritecore as it's not been marked as an addonpack
+[06Mar2025 01:10:41.302] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.302] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:forge as it's not been marked as an addonpack
+[06Mar2025 01:10:41.302] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.307] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:geckolib as it's not been marked as an addonpack
+[06Mar2025 01:10:41.307] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.307] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:glitchcore as it's not been marked as an addonpack
+[06Mar2025 01:10:41.307] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.308] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:gravestone as it's not been marked as an addonpack
+[06Mar2025 01:10:41.308] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.308] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:gravestonecurioscompat as it's not been marked as an addonpack
+[06Mar2025 01:10:41.309] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.309] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:iceandfire as it's not been marked as an addonpack
+[06Mar2025 01:10:41.309] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.309] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:illagerinvasion as it's not been marked as an addonpack
+[06Mar2025 01:10:41.309] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.309] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:immersive_aircraft as it's not been marked as an addonpack
+[06Mar2025 01:10:41.309] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.310] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:incendium as it's not been marked as an addonpack
+[06Mar2025 01:10:41.310] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.310] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:ironman_by_yo_fadda as it's not been marked as an addonpack
+[06Mar2025 01:10:41.310] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.310] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:irons_recipe_additions as it's not been marked as an addonpack
+[06Mar2025 01:10:41.310] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.311] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:irons_spellbooks as it's not been marked as an addonpack
+[06Mar2025 01:10:41.311] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.311] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:iwannaskate as it's not been marked as an addonpack
+[06Mar2025 01:10:41.311] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.311] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:kom as it's not been marked as an addonpack
+[06Mar2025 01:10:41.311] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.312] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:kubejs as it's not been marked as an addonpack
+[06Mar2025 01:10:41.312] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.312] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:kuma_api as it's not been marked as an addonpack
+[06Mar2025 01:10:41.312] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.312] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:libraryferret as it's not been marked as an addonpack
+[06Mar2025 01:10:41.312] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.313] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:lionfishapi as it's not been marked as an addonpack
+[06Mar2025 01:10:41.313] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.313] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:lostcities as it's not been marked as an addonpack
+[06Mar2025 01:10:41.313] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.313] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:mixinextras as it's not been marked as an addonpack
+[06Mar2025 01:10:41.313] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.314] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:mixinsquared as it's not been marked as an addonpack
+[06Mar2025 01:10:41.314] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.314] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:mobbattle as it's not been marked as an addonpack
+[06Mar2025 01:10:41.314] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.314] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:modernfix as it's not been marked as an addonpack
+[06Mar2025 01:10:41.314] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.315] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:moonlight as it's not been marked as an addonpack
+[06Mar2025 01:10:41.315] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.315] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:mowziesmobs as it's not been marked as an addonpack
+[06Mar2025 01:10:41.315] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.315] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:mr_dungeons_andtaverns as it's not been marked as an addonpack
+[06Mar2025 01:10:41.315] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.315] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:nethersdelight as it's not been marked as an addonpack
+[06Mar2025 01:10:41.316] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.316] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:nitrogen_internals as it's not been marked as an addonpack
+[06Mar2025 01:10:41.316] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.316] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:obscure_api as it's not been marked as an addonpack
+[06Mar2025 01:10:41.316] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.316] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:palladium as it's not been marked as an addonpack
+[06Mar2025 01:10:41.317] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.317] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:palladiumcore as it's not been marked as an addonpack
+[06Mar2025 01:10:41.317] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.317] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:pantheonsent as it's not been marked as an addonpack
+[06Mar2025 01:10:41.317] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.317] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:pehkui as it's not been marked as an addonpack
+[06Mar2025 01:10:41.318] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.318] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:placebo as it's not been marked as an addonpack
+[06Mar2025 01:10:41.318] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.318] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:playeranimator as it's not been marked as an addonpack
+[06Mar2025 01:10:41.318] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.318] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:puzzlesaccessapi as it's not been marked as an addonpack
+[06Mar2025 01:10:41.318] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.319] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:puzzleslib as it's not been marked as an addonpack
+[06Mar2025 01:10:41.319] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.319] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:rats as it's not been marked as an addonpack
+[06Mar2025 01:10:41.319] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.319] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:resourcefulconfig as it's not been marked as an addonpack
+[06Mar2025 01:10:41.319] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.320] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:resourcefullib as it's not been marked as an addonpack
+[06Mar2025 01:10:41.320] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.320] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:rhino as it's not been marked as an addonpack
+[06Mar2025 01:10:41.320] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.320] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:scuba_gear as it's not been marked as an addonpack
+[06Mar2025 01:10:41.320] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.321] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:sekclib as it's not been marked as an addonpack
+[06Mar2025 01:10:41.321] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.321] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:servercore as it's not been marked as an addonpack
+[06Mar2025 01:10:41.321] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.322] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:sherdsapi as it's not been marked as an addonpack
+[06Mar2025 01:10:41.322] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.322] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:skinrestorer as it's not been marked as an addonpack
+[06Mar2025 01:10:41.323] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.323] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:sophisticatedbackpacks as it's not been marked as an addonpack
+[06Mar2025 01:10:41.323] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.323] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:sophisticatedcore as it's not been marked as an addonpack
+[06Mar2025 01:10:41.323] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.323] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:speedforce_by_yofadda as it's not been marked as an addonpack
+[06Mar2025 01:10:41.324] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.324] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:structureessentials as it's not been marked as an addonpack
+[06Mar2025 01:10:41.324] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.324] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:supplementaries as it's not been marked as an addonpack
+[06Mar2025 01:10:41.324] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.325] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:terrablender as it's not been marked as an addonpack
+[06Mar2025 01:10:41.325] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.325] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:travelerstitles as it's not been marked as an addonpack
+[06Mar2025 01:10:41.325] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.325] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:traveloptics as it's not been marked as an addonpack
+[06Mar2025 01:10:41.325] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.326] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:waystones as it's not been marked as an addonpack
+[06Mar2025 01:10:41.326] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.326] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:weaponmaster_ydm as it's not been marked as an addonpack
+[06Mar2025 01:10:41.326] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.326] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:xaerominimap as it's not been marked as an addonpack
+[06Mar2025 01:10:41.326] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.327] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:xaeroworldmap as it's not been marked as an addonpack
+[06Mar2025 01:10:41.327] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.327] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:xlpackets as it's not been marked as an addonpack
+[06Mar2025 01:10:41.327] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.327] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:yet_another_config_lib_v3 as it's not been marked as an addonpack
+[06Mar2025 01:10:41.328] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.328] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:yungsapi as it's not been marked as an addonpack
+[06Mar2025 01:10:41.328] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.328] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:yungsbridges as it's not been marked as an addonpack
+[06Mar2025 01:10:41.328] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.328] [main/INFO] [net.threetag.palladium.Palladium/]: Skipping mod:yungsextras as it's not been marked as an addonpack
+[06Mar2025 01:10:41.328] [main/ERROR] [net.threetag.palladium.Palladium/]: Cannot invoke "net.threetag.palladium.addonpack.PackData.getId()" because "packData" is null
+[06Mar2025 01:10:41.331] [main/INFO] [ModernFix/]: Invalidating pack caches
+[06Mar2025 01:10:41.332] [main/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: ad_astra-forge-1.20.1-1.15.19.jar, aether-1.20.1-1.5.2-neoforge.jar, AI-Improvements-1.20-0.5.2.jar, alekiNiftyShips-FORGE-1.20.1-1.0.14.jar, alexscaves-2.0.2.jar, alexsdelight-1.5.jar, alexsmobs-1.22.9.jar, Amplified_Nether_1.20.x_v1.2.5.jar, aquamirae-6.API15.jar, architectury-9.2.14-forge.jar, ApothicAttributes-1.20.1-1.3.7.jar, awesomedungeonocean-forge-1.20.1-3.3.0.jar, balm-forge-1.20.1-7.3.18-all.jar, bendy-lib-forge-4.0.0.jar, YungsBetterDungeons-1.20-Forge-4.0.4.jar, YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar, YungsBetterJungleTemples-1.20-Forge-2.0.5.jar, YungsBetterMineshafts-1.20-Forge-4.0.4.jar, YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar, YungsBetterStrongholds-1.20-Forge-4.0.3.jar, BiomesOPlenty-forge-1.20.1-19.0.0.94.jar, BOMD-Forge-1.20.1-1.1.2.jar, botarium-forge-1.20.1-2.3.2.jar, caelus-forge-3.2.0+1.20.1.jar, L_Enders_Cataclysm-2.56- 1.20.1.jar, CerbonsAPI-Forge-1.20.1-1.1.0.jar, cfm-forge-1.20.1-7.0.0-pre36.jar, Chunky-1.3.146.jar, citadel-2.6.1-1.20.1.jar, cloth-config-11.1.136-forge.jar, cumulus_menus-1.20.1-1.0.1-neoforge.jar, cupboard-1.20.1-2.3.jar, curios-forge-5.12.1+1.20.1.jar, dampened-v1.0.1.jar, deeperdarker-forge-1.20.1-1.3.3.jar, domesticationinnovation-1.7.1-1.20.1.jar, endermanoverhaul-forge-1.20.1-1.0.4.jar, FarmersDelight-1.20.1-1.2.7.jar, ferritecore-6.0.1-forge.jar, forge-1.20.1-47.3.7-universal.jar, FSang18's Heropack v10.1.1.jar, geckolib-forge-1.20.1-4.7.jar, GlitchCore-forge-1.20.1-0.0.1.1.jar, Gravestone Core 1.0.7.1.jar, Gravestone HeroTime 0.1.1 - deaded stupid.jar, gravestone-forge-1.20.1-1.0.24.jar, gravestonecurioscompat-1.18.x-1.20.x-Forge-2.1.0.jar, iceandfire-2.1.13-1.20.1-beta-5.jar, IllagerInvasion-v8.0.7-1.20.1-Forge.jar, immersive_aircraft-1.2.1+1.20.1-forge.jar, Incendium_1.20.x_v5.3.5.jar, ironman_by_yo_fadda-1.0.2 (Patch 4)-forge-1.20.1.jar, IronsRecipeAdditions_1.20.1_modversion_2.3.jar, irons_spellbooks-1.20.1-3.4.0.7.jar, iwannaskate-1.2.0.jar, KOTM-FinalUpdate.jar, kubejs-forge-2001.6.5-build.16.jar, kuma-api-forge-20.1.9-SNAPSHOT.jar, libraryferret-forge-1.20.1-4.0.0.jar, lionfishapi-2.4-Fix.jar, lostcities-1.20-7.3.6.jar, mixinextras-forge-0.2.0-beta.9.jar, mixinsquared-forge-0.1.1.jar, mobbattle-1.20.1-2.4.7-forge.jar, modernfix-forge-5.20.2+mc1.20.1.jar, moonlight-1.20-2.9.17-forge.jar, mowziesmobs-1.7.1.jar, dungeons-and-taverns-3.0.3.f[Forge].jar, nethersdelight-1.20.1-4.0.jar, nitrogen_internals-1.20.1-1.0.12-neoforge.jar, obscure_api-15.jar, palladium-4.1.9+1.20.1-forge.jar, palladiumcore-forge-1.0.1+1.20.1-forge.jar, pantheonsent-1.1.0+1.20.1-forge.jar, Pehkui-3.8.2+1.20.1-forge.jar, Placebo-1.20.1-8.6.2.jar, player-animation-lib-forge-1.0.2-rc1+1.20.jar, puzzlesaccessapi-forge-8.0.7.jar, PuzzlesLib-v8.1.25-1.20.1-Forge.jar, Rats-1.20.1-8.1.3.jar, resourcefulconfig-forge-1.20.1-2.1.3.jar, resourcefullib-forge-1.20.1-2.1.29.jar, rhino-forge-2001.2.3-build.10.jar, scuba_gear-1.20.1-1.0.6.jar, SekCLib-1.20-1.0.2-universal.jar, servercore-forge-1.5.2+1.20.1.jar, sherdsapi-4.0.4+Forge.jar, skinrestorer-2.2.1+1.20-forge (1).jar, sophisticatedbackpacks-1.20.1-3.23.6.1210.jar, sophisticatedcore-1.20.1-1.2.20.894.jar, speedforce_by_yofadda-1.0.0(patch1)-forge-1.20.1.jar, structureessentials-1.20.1-3.2.jar, supplementaries-1.20-2.7.36.jar, TerraBlender-forge-1.20.1-3.0.1.7.jar, TravelersTitles-1.20-Forge-4.0.2.jar, traveloptics-4.0.2-1.20.1.jar, waystones-forge-1.20.1-14.1.10.jar, weaponmaster_ydm-forge-1.20.1-4.2.3.jar, Xaeros_Minimap_25.1.0_Forge_1.20.jar, XaerosWorldMap_1.39.4_Forge_1.20.jar, xlpackets-1.18.2-2.1.jar, YetAnotherConfigLib-3.6.2+1.20.1-forge.jar, YungsApi-1.20-Forge-4.0.6.jar, YungsBridges-1.20-Forge-4.0.3.jar, YungsExtras-1.20-Forge-4.0.3.jar
+[06Mar2025 01:10:41.354] [Worker-Main-2/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file fsang:._fabric_tier_1 from fsang:armor_materials/._fabric_tier_1.json
+com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:581) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_278771_(SimpleJsonResourceReloadListener.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.threetag.palladium.addonpack.parser.ArmorMaterialParser.m_5944_(ArmorMaterialParser.java:29) ~[palladium-4.1.9+1.20.1-forge.jar%23251!/:4.1.9+1.20.1]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10786_(SimplePreparableReloadListener.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1463) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:602) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:433) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:769) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	... 13 more
+[06Mar2025 01:10:41.510] [main/INFO] [net.threetag.palladium.Palladium/]: Registered 7 addonpack creative_mode_tab
+[06Mar2025 01:10:41.511] [main/INFO] [net.threetag.palladium.Palladium/]: Registered 10 addonpack armor materials
+[06Mar2025 01:10:41.511] [main/INFO] [net.threetag.palladium.Palladium/]: Registered 0 addonpack tool tiers
+[06Mar2025 01:10:41.514] [main/INFO] [net.threetag.palladium.Palladium/]: Registered 25 addonpack block
+[06Mar2025 01:10:41.525] [main/INFO] [net.threetag.palladium.Palladium/]: Registered 479 addonpack item
+[06Mar2025 01:10:41.537] [main/INFO] [net.threetag.palladium.Palladium/]: Registered 103 addonpack suit_set
+[06Mar2025 01:10:41.539] [main/INFO] [net.threetag.palladium.Palladium/]: Registered 49 addonpack particle_type
+[06Mar2025 01:10:41.539] [main/INFO] [net.threetag.palladium.Palladium/]: Registered 2 addonpack point_of_interest_type
+[06Mar2025 01:10:41.539] [main/INFO] [net.threetag.palladium.Palladium/]: Registered 2 addonpack villager_profession
+[06Mar2025 01:10:41.541] [main/INFO] [net.threetag.palladium.Palladium/]: Registered 18 addonpack accessory slots
+[06Mar2025 01:10:41.541] [main/INFO] [net.threetag.palladium.Palladium/]: Registered 53 addonpack accessories
+[06Mar2025 01:10:41.542] [main/INFO] [net.threetag.palladium.Palladium/]: Finished addonpack initialisation!
+[06Mar2025 01:10:44.711] [main/WARN] [Moonlight/]: Failed to find custom wood type biomesoplenty:maple
+[06Mar2025 01:10:44.712] [main/WARN] [Moonlight/]: Failed to find custom wood type biomesoplenty:orange_autumn
+[06Mar2025 01:10:44.712] [main/WARN] [Moonlight/]: Failed to find custom wood type biomesoplenty:yellow_autumn
+[06Mar2025 01:10:44.738] [main/INFO] [Moonlight/]: Initialized block sets in 27ms
+[06Mar2025 01:10:46.002] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[06Mar2025 01:10:46.003] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
+[06Mar2025 01:10:47.706] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[06Mar2025 01:10:48.217] [modloading-worker-0/INFO] [com.structureessentials.StructureEssentials/]: structureessentials mod initialized
+[06Mar2025 01:10:48.314] [modloading-worker-0/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
+[06Mar2025 01:10:48.332] [modloading-worker-0/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
+[06Mar2025 01:10:48.425] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
+[06Mar2025 01:10:48.501] [main/INFO] [Supplementaries/]: Finished mod setup in: [0, 1, 0, 1, 0, 0, 11, 1] ms
+[06Mar2025 01:10:48.513] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: UP_TO_DATE Current: 1.20.1-1.5.2-neoforge Target: null
+[06Mar2025 01:10:48.513] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/illagerinvasion.json
+[06Mar2025 01:10:48.524] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Found status: UP_TO_DATE Current: 8.0.7 Target: null
+[06Mar2025 01:10:48.524] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [palladium] Starting version check at https://squirrelcontrol.threetag.net/api/forge_updates/threetag-palladium
+[06Mar2025 01:10:48.549] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[06Mar2025 01:10:48.549] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[06Mar2025 01:10:48.549] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[06Mar2025 01:10:48.549] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[06Mar2025 01:10:48.549] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[06Mar2025 01:10:48.549] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[06Mar2025 01:10:48.549] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[06Mar2025 01:10:48.599] [main/INFO] [Moonlight/]: Initialized color sets in 47ms
+[06Mar2025 01:10:48.733] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[06Mar2025 01:10:48.734] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[06Mar2025 01:10:48.758] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[06Mar2025 01:10:48.758] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[06Mar2025 01:10:48.824] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[06Mar2025 01:10:48.836] [modloading-worker-0/WARN] [net.threetag.palladium.Palladium/]: Addon Pack gravecore adds Curios slots in pack.mcmeta, this is deprecated! Please use the new system: https://docs.illusivesoulworks.com/curios/datapack-example
+[06Mar2025 01:10:48.838] [modloading-worker-0/WARN] [net.threetag.palladium.Palladium/]: Addon Pack dampened adds Curios slots in pack.mcmeta, this is deprecated! Please use the new system: https://docs.illusivesoulworks.com/curios/datapack-example
+[06Mar2025 01:10:48.839] [modloading-worker-0/WARN] [net.threetag.palladium.Palladium/]: Addon Pack fsang18 adds Curios slots in pack.mcmeta, this is deprecated! Please use the new system: https://docs.illusivesoulworks.com/curios/datapack-example
+[06Mar2025 01:10:48.939] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[06Mar2025 01:10:49.218] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [palladium] Found status: OUTDATED Current: 4.1.9 Target: 4.1.10
+[06Mar2025 01:10:49.218] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[06Mar2025 01:10:49.228] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-2.7.36 Target: null
+[06Mar2025 01:10:49.228] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pantheonsent] Starting version check at https://squirrelcontrol.threetag.net/api/forge_updates/pantheonsent
+[06Mar2025 01:10:49.759] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pantheonsent] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[06Mar2025 01:10:49.759] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[06Mar2025 01:10:49.827] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06Mar2025 01:10:49.895] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[06Mar2025 01:10:49.895] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
+[06Mar2025 01:10:49.913] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: UP_TO_DATE Current: 1.20.1-1.0.1-neoforge Target: null
+[06Mar2025 01:10:49.913] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[06Mar2025 01:10:50.376] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-Superheroes/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23289!/assets/.mcassetsroot' uses unexpected schema
+[06Mar2025 01:10:50.376] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-Superheroes/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23289!/data/.mcassetsroot' uses unexpected schema
+[06Mar2025 01:10:50.377] [main/ERROR] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: File /addon/.mcassetsroot does not exist in classpath
+[06Mar2025 01:10:50.409] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Found status: BETA Current: 7.0.0-pre36 Target: 7.0.0-pre36
+[06Mar2025 01:10:50.409] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[06Mar2025 01:10:50.418] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2370!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23290!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23290!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2370!/:?]
+	... 6 more
+[06Mar2025 01:10:50.419] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[06Mar2025 01:10:50.432] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[06Mar2025 01:10:50.432] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scuba_gear] Starting version check at http://changelogs.moddinglegacy.com/scuba-gear.json
+[06Mar2025 01:10:50.495] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_215924_ in modernfix-forge.mixins.json:perf.tag_id_caching.TagEntryMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[06Mar2025 01:10:50.603] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 110 ms
+[06Mar2025 01:10:50.630] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 6 ms
+[06Mar2025 01:10:50.638] [main/ERROR] [net.minecraft.server.packs.AbstractPackResources/]: Couldn't load pack metadata
+com.google.gson.JsonSyntaxException: Missing pack_format, expected to find a Int
+	at net.minecraft.util.GsonHelper.m_13927_(GsonHelper.java:277) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.packs.metadata.pack.PackMetadataSectionSerializer.m_6322_(PackMetadataSectionSerializer.java:15) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.packs.metadata.pack.PackMetadataSectionSerializer.m_6322_(PackMetadataSectionSerializer.java:9) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.packs.AbstractPackResources.m_10214_(AbstractPackResources.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.packs.AbstractPackResources.m_5550_(AbstractPackResources.java:33) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.packs.repository.Pack.m_246334_(Pack.java:60) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.packs.repository.Pack.m_245429_(Pack.java:35) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.threetag.palladium.addonpack.forge.AddonPackManagerImpl$ModPackSource.m_7686_(AddonPackManagerImpl.java:49) ~[palladium-4.1.9+1.20.1-forge.jar%23251!/:4.1.9+1.20.1]
+	at net.minecraft.server.packs.repository.PackRepository.m_10526_(PackRepository.java:39) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.packs.repository.PackRepository.m_10506_(PackRepository.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at dev.latvian.mods.kubejs.script.ScriptManager.handler$zck000$loadFromDirectory(ScriptManager.java:537) ~[kubejs-forge-2001.6.5-build.16.jar%23240!/:2001.6.5-build.16]
+	at dev.latvian.mods.kubejs.script.ScriptManager.loadFromDirectory(ScriptManager.java:150) ~[kubejs-forge-2001.6.5-build.16.jar%23240!/:2001.6.5-build.16]
+	at dev.latvian.mods.kubejs.script.ScriptManager.reload(ScriptManager.java:72) ~[kubejs-forge-2001.6.5-build.16.jar%23240!/:2001.6.5-build.16]
+	at dev.latvian.mods.kubejs.server.ServerScriptManager.wrapResourceManager(ServerScriptManager.java:85) ~[kubejs-forge-2001.6.5-build.16.jar%23240!/:2001.6.5-build.16]
+	at net.minecraft.server.WorldLoader$PackConfig.localvar$bdb000$injectKubeJSPacks(WorldLoader.java:515) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.WorldLoader$PackConfig.m_214399_(WorldLoader.java:80) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.WorldLoader.m_214362_(WorldLoader.java:28) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.Main.lambda$main$2(Main.java:167) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:777) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[06Mar2025 01:10:50.640] [main/WARN] [net.minecraft.server.packs.repository.Pack/]: Missing metadata in pack mod:minecraft
+[06Mar2025 01:10:50.695] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scuba_gear] Found status: BETA Current: 1.0.6 Target: null
+[06Mar2025 01:10:50.696] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sekclib] Starting version check at https://www.sekwah.com/modversions/sekclib.json
+[06Mar2025 01:10:50.841] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sekclib] Found status: BETA Current: 1.0.2 Target: null
+[06Mar2025 01:10:50.841] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[06Mar2025 01:10:50.854] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.9.17 Target: null
+[06Mar2025 01:10:50.854] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[06Mar2025 01:10:51.088] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[06Mar2025 01:10:51.088] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[06Mar2025 01:10:51.621] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
+[06Mar2025 01:10:51.622] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sherdsapi] Starting version check at https://api.modrinth.com/updates/sherdsapi/forge_updates.json
+[06Mar2025 01:10:51.678] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sherdsapi] Found status: UP_TO_DATE Current: 4.0.4 Target: null
+[06Mar2025 01:10:51.678] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[06Mar2025 01:10:51.686] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
+[06Mar2025 01:10:51.686] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[06Mar2025 01:10:51.695] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2370!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23290!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23290!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2370!/:?]
+	... 6 more
+[06Mar2025 01:10:51.695] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Starting version check at https://api.modrinth.com/updates/3ufwT9JF/forge_updates.json
+[06Mar2025 01:10:51.755] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Found status: OUTDATED Current: 1.15.19 Target: 1.15.20
+[06Mar2025 01:10:52.649] [main/INFO] [KubeJS Server/]: example.js#5: Hello, World! (Loaded server scripts)
+[06Mar2025 01:10:52.650] [main/INFO] [KubeJS Server/]: Loaded script server_scripts:example.js in 0.0 s
+[06Mar2025 01:10:52.653] [main/INFO] [KubeJS Server/]: Loaded script addonpack_fsang_hero:kubejs_scripts/symbiotes_items.js in 0.002 s
+[06Mar2025 01:10:52.653] [main/INFO] [KubeJS Server/]: Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_spawn.js in 0.0 s
+[06Mar2025 01:10:52.657] [main/INFO] [KubeJS Server/]: Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_assigner.js in 0.004 s
+[06Mar2025 01:10:52.657] [main/INFO] [KubeJS Server/]: Loaded script addonpack_fsang_hero:kubejs_scripts/strong_punch.js in 0.0 s
+[06Mar2025 01:10:52.659] [main/INFO] [KubeJS Server/]: Loaded script addonpack_fsang_hero:kubejs_scripts/speedforce_assigner.js in 0.001 s
+[06Mar2025 01:10:52.660] [main/INFO] [KubeJS Server/]: Loaded script addonpack_fsang_hero:kubejs_scripts/skin_change.js in 0.001 s
+[06Mar2025 01:10:52.663] [main/INFO] [KubeJS Server/]: Loaded script addonpack_fsang_hero:kubejs_scripts/random_power_items.js in 0.003 s
+[06Mar2025 01:10:52.666] [main/INFO] [KubeJS Server/]: Loaded script addonpack_fsang_hero:kubejs_scripts/random_power_2.js in 0.002 s
+[06Mar2025 01:10:52.669] [main/INFO] [KubeJS Server/]: Loaded script addonpack_fsang_hero:kubejs_scripts/random_power.js in 0.003 s
+[06Mar2025 01:10:52.669] [main/INFO] [KubeJS Server/]: Loaded script addonpack_fsang_hero:kubejs_scripts/radiant_black_robot_spawn.js in 0.0 s
+[06Mar2025 01:10:52.670] [main/INFO] [KubeJS Server/]: Loaded script addonpack_fsang_hero:kubejs_scripts/radiant_black.js in 0.001 s
+[06Mar2025 01:10:52.672] [main/INFO] [KubeJS Server/]: Loaded script addonpack_fsang_hero:kubejs_scripts/mutation_assigner.js in 0.002 s
+[06Mar2025 01:10:52.673] [main/INFO] [KubeJS Server/]: Loaded script addonpack_fsang_hero:kubejs_scripts/kaiju_spawner.js in 0.0 s
+[06Mar2025 01:10:52.682] [main/INFO] [KubeJS Server/]: Loaded script addonpack_fsang_hero:kubejs_scripts/items.js in 0.008 s
+[06Mar2025 01:10:52.683] [main/INFO] [KubeJS Server/]: Loaded script addonpack_fsang_hero:kubejs_scripts/inhibitor_collars.js in 0.001 s
+[06Mar2025 01:10:52.684] [main/INFO] [KubeJS Server/]: Loaded script addonpack_fsang_hero:kubejs_scripts/data_enderchest.js in 0.0 s
+[06Mar2025 01:10:52.692] [main/INFO] [KubeJS Server/]: Loaded script addonpack_fsang_hero:kubejs_scripts/custom_commands.js in 0.008 s
+[06Mar2025 01:10:52.693] [main/INFO] [KubeJS Server/]: Loaded script addonpack_fsang_hero:kubejs_scripts/config.js in 0.001 s
+[06Mar2025 01:10:52.695] [main/INFO] [KubeJS Server/]: Loaded script addonpack_fsang_hero:kubejs_scripts/blueprints.js in 0.001 s
+[06Mar2025 01:10:52.695] [main/INFO] [KubeJS Server/]: Loaded script addonpack_fsang_hero:kubejs_scripts/ad_astra_space.js in 0.0 s
+[06Mar2025 01:10:52.699] [main/INFO] [KubeJS Server/]: addonpack_dampened:kubejs_scripts/dampening_ticks.js#1: Loaded Java class 'net.threetag.palladium.compat.curiostinkets.CuriosTrinketsUtil'
+[06Mar2025 01:10:52.700] [main/INFO] [KubeJS Server/]: addonpack_dampened:kubejs_scripts/dampening_ticks.js#2: Loaded Java class 'top.theillusivec4.curios.api.CuriosApi'
+[06Mar2025 01:10:52.700] [main/INFO] [KubeJS Server/]: addonpack_dampened:kubejs_scripts/dampening_ticks.js#3: Loaded Java class 'java.util.UUID'
+[06Mar2025 01:10:52.700] [main/INFO] [KubeJS Server/]: addonpack_dampened:kubejs_scripts/dampening_ticks.js#5: Loaded Java class 'net.minecraft.world.level.ClipContext'
+[06Mar2025 01:10:52.709] [main/INFO] [KubeJS Server/]: addonpack_dampened:kubejs_scripts/dampening_ticks.js#6: Loaded Java class 'net.minecraft.world.entity.projectile.ProjectileUtil'
+[06Mar2025 01:10:52.710] [main/INFO] [KubeJS Server/]: Loaded script addonpack_dampened:kubejs_scripts/dampening_ticks.js in 0.014 s
+[06Mar2025 01:10:52.711] [main/INFO] [KubeJS Server/]: Loaded script addonpack_dampened:kubejs_scripts/block_tag_adder.js in 0.001 s
+[06Mar2025 01:10:52.712] [main/INFO] [KubeJS Server/]: Loaded script addonpack_dampened:kubejs_scripts/dampening_recipes.js in 0.001 s
+[06Mar2025 01:10:52.712] [main/INFO] [KubeJS Server/]: Loaded script addonpack_dampened:kubejs_scripts/item_tags.js in 0.0 s
+[06Mar2025 01:10:52.713] [main/INFO] [KubeJS Server/]: Loaded script addonpack_grave.ht:kubejs_scripts/update_data_command.js in 0.0 s
+[06Mar2025 01:10:52.714] [main/INFO] [KubeJS Server/]: Loaded script addonpack_grave.ht:kubejs_scripts/random_colour.js in 0.001 s
+[06Mar2025 01:10:52.714] [main/INFO] [KubeJS Server/]: Loaded script addonpack_grave.ht:kubejs_scripts/proto_lives.js in 0.0 s
+[06Mar2025 01:10:52.715] [main/INFO] [KubeJS Server/]: Loaded script addonpack_grave.ht:kubejs_scripts/playlist_command.js in 0.001 s
+[06Mar2025 01:10:52.715] [main/INFO] [KubeJS Server/]: Loaded script addonpack_grave.ht:kubejs_scripts/palladium_properties.js in 0.0 s
+[06Mar2025 01:10:52.716] [main/INFO] [KubeJS Server/]: Loaded script addonpack_grave.ht:kubejs_scripts/colour_command.js in 0.001 s
+[06Mar2025 01:10:52.716] [main/INFO] [KubeJS Server/]: Loaded script addonpack_grave.core:kubejs_scripts/receive_power_selected.js in 0.0 s
+[06Mar2025 01:10:52.716] [main/INFO] [KubeJS Server/]: Loaded script addonpack_grave.core:kubejs_scripts/camera.js in 0.0 s
+[06Mar2025 01:10:52.717] [main/INFO] [KubeJS Server/]: Loaded 33/33 KubeJS server scripts in 0.085 s with 0 errors and 0 warnings
+[06Mar2025 01:10:52.717] [main/INFO] [KubeJS Server/]: Scripts loaded
+[06Mar2025 01:10:52.729] [main/INFO] [KubeJS Server/]: Initializing recipe event...
+[06Mar2025 01:10:52.920] [main/ERROR] [net.minecraft.world.level.biome.MobSpawnSettings/]: Spawn data: Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0
+[06Mar2025 01:10:52.920] [main/ERROR] [net.minecraft.world.level.biome.MobSpawnSettings/]: Spawn data: Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0
+[06Mar2025 01:10:52.933] [main/ERROR] [net.minecraft.world.level.biome.MobSpawnSettings/]: Spawn data: Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0
+[06Mar2025 01:10:52.934] [main/ERROR] [net.minecraft.world.level.biome.MobSpawnSettings/]: Spawn data: Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0
+[06Mar2025 01:10:52.961] [main/ERROR] [net.minecraft.world.level.biome.MobSpawnSettings/]: Spawn data: Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0
+[06Mar2025 01:10:52.961] [main/ERROR] [net.minecraft.world.level.biome.MobSpawnSettings/]: Spawn data: Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0
+[06Mar2025 01:10:52.968] [main/ERROR] [net.minecraft.world.level.biome.MobSpawnSettings/]: Spawn data: Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0; Value must be positive: 0
+[06Mar2025 01:10:53.508] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:brigantine/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
+[06Mar2025 01:10:53.516] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_large/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
+[06Mar2025 01:10:53.516] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_medium/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
+[06Mar2025 01:10:53.529] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_cage/start_pool`: { spacing: 50, separation: 25, salt: 40842806, useValueFromConfiguration: true}
+[06Mar2025 01:10:53.529] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_quad/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
+[06Mar2025 01:10:53.529] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_pillager/start_pool`: { spacing: 50, separation: 25, salt: 254145856, useValueFromConfiguration: true}
+[06Mar2025 01:10:53.529] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_vanilla_temple/start_pool`: { spacing: 50, separation: 25, salt: 25482856, useValueFromConfiguration: true}
+[06Mar2025 01:10:53.530] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_temple_quad/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
+[06Mar2025 01:10:53.530] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_the_column_temple/start_pool`: { spacing: 50, separation: 25, salt: 15482856, useValueFromConfiguration: true}
+[06Mar2025 01:10:53.530] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_warn_temple/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
+[06Mar2025 01:10:54.866] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[06Mar2025 01:10:55.066] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list fsang:._psychic from fsang:tags/damage_type/._psychic.json in data pack FSang18's Heropack v10.1.1.jar
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 14 path $
+	at com.google.gson.JsonParser.parseReader(JsonParser.java:76) ~[gson-2.10.jar%2370!/:?]
+	at net.minecraft.tags.TagLoader.m_144495_(TagLoader.java:49) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.tags.TagLoader.m_203900_(TagLoader.java:114) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.tags.TagManager.m_203920_(TagManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 14 path $
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1463) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:551) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:433) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.JsonParser.parseReader(JsonParser.java:71) ~[gson-2.10.jar%2370!/:?]
+	... 10 more
+[06Mar2025 01:10:55.067] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list fsang:._sound from fsang:tags/damage_type/._sound.json in data pack FSang18's Heropack v10.1.1.jar
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 14 path $
+	at com.google.gson.JsonParser.parseReader(JsonParser.java:76) ~[gson-2.10.jar%2370!/:?]
+	at net.minecraft.tags.TagLoader.m_144495_(TagLoader.java:49) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.tags.TagLoader.m_203900_(TagLoader.java:114) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.tags.TagManager.m_203920_(TagManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 14 path $
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1463) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:551) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:433) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.JsonParser.parseReader(JsonParser.java:71) ~[gson-2.10.jar%2370!/:?]
+	... 10 more
+[06Mar2025 01:10:55.266] [Worker-Main-1/INFO] [KubeJS Server/]: [minecraft:block] Found 731 tags, added 6 objects, removed 0 objects
+[06Mar2025 01:10:55.276] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag iwannaskate:high_skate_quality as it is missing following references: #minecraft:stone_stairs (from iwannaskate-1.2.0.jar), 
+	#minecraft:stone_slab (from iwannaskate-1.2.0.jar)
+[06Mar2025 01:10:55.289] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag iwannaskate:spawns_skater_skeletons as it is missing following references: #iwannaskate:high_skate_quality (from iwannaskate-1.2.0.jar)
+[06Mar2025 01:10:55.408] [Worker-Main-1/INFO] [KubeJS Server/]: [minecraft:item] Found 1087 tags, added 12 objects, removed 0 objects
+[06Mar2025 01:10:55.414] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag traveloptics:magic_sword_weapon_type as it is missing following references: minecraft: (from traveloptics-4.0.2-1.20.1.jar)
+[06Mar2025 01:10:55.423] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag im_tag:breakables as it is missing following references: minecraft:wall_torch (from ironman_by_yo_fadda-1.0.2 (Patch 4)-forge-1.20.1.jar), 
+	minecraft:soul_wall_torch (from ironman_by_yo_fadda-1.0.2 (Patch 4)-forge-1.20.1.jar), 
+	minecraft:tripwire (from ironman_by_yo_fadda-1.0.2 (Patch 4)-forge-1.20.1.jar), 
+	minecraft:redstone_wall_torch (from ironman_by_yo_fadda-1.0.2 (Patch 4)-forge-1.20.1.jar), 
+	minecraft:redstone_wire (from ironman_by_yo_fadda-1.0.2 (Patch 4)-forge-1.20.1.jar), 
+	minecraft:frosted_ice (from ironman_by_yo_fadda-1.0.2 (Patch 4)-forge-1.20.1.jar), 
+	minecraft:cocoa (from ironman_by_yo_fadda-1.0.2 (Patch 4)-forge-1.20.1.jar), 
+	minecraft:nether_portal (from ironman_by_yo_fadda-1.0.2 (Patch 4)-forge-1.20.1.jar)
+[06Mar2025 01:10:56.998] [main/INFO] [net.threetag.palladium.Palladium/]: Loaded 0 loot table modifications
+[06Mar2025 01:10:57.080] [main/INFO] [KubeJS Server/]: Processing recipes...
+[06Mar2025 01:10:57.110] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'deeperdarker:resonarium_pickaxe_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[06Mar2025 01:10:57.128] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'deeperdarker:resonarium_hoe_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[06Mar2025 01:10:57.134] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'deeperdarker:resonarium_leggings_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[06Mar2025 01:10:57.168] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'deeperdarker:resonarium_sword_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[06Mar2025 01:10:57.171] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'deeperdarker:resonarium_helmet_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[06Mar2025 01:10:57.193] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'deeperdarker:resonarium_chestplate_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[06Mar2025 01:10:57.196] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'deeperdarker:resonarium_shovel_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[06Mar2025 01:10:57.200] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'deeperdarker:resonarium_axe_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[06Mar2025 01:10:57.231] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'kom:gloom_nectra_harp[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'addition' can't be empty!
+[06Mar2025 01:10:57.244] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'deeperdarker:resonarium_boots_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[06Mar2025 01:10:57.260] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'incendium:upgrade_elytra[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[06Mar2025 01:10:57.269] [main/INFO] [KubeJS Server/]: Found 6376 recipes in 187.5 ms
+[06Mar2025 01:10:57.277] [main/INFO] [KubeJS Server/]: Posted recipe events in 7.872 ms
+[06Mar2025 01:10:57.360] [KubeJS Recipe Event Worker 0/WARN] [KubeJS Server/]: Error parsing recipe kom:gloom_nectra_harp[minecraft:smithing_transform]: {"type":"minecraft:smithing_transform","template":{"item":"minecraft:netherite_upgrade_smithing_template"},"base":{"item":"kom:harpofnectra"},"addition":{"item":"minecraft:air"},"result":{"item":"kom:harpof_gloom"}}: Empty ingredient not allowed here
+[06Mar2025 01:10:57.414] [KubeJS Recipe Event Worker 0/WARN] [KubeJS Server/]: Error parsing recipe alexsdelight:barbecue_on_a_stick[minecraft:crafting_shapeless]: {"group":"barbecue_stick","type":"minecraft:crafting_shapeless","ingredients":[{"item":"farmersdelight:tomato"},{"item":"farmersdelight:onion"},{"item":"amfd:singular_cooked_moose_rib"},{"item":"minecraft:cooked_chicken"},{"item":"minecraft:stick"},{"item":"minecraft:stick"}],"result":{"item":"farmersdelight:barbecue_stick","count":2}}: Unknown item 'amfd:singular_cooked_moose_rib'
+[06Mar2025 01:10:57.518] [main/INFO] [KubeJS Server/]: Added 29 recipes, removed 0 recipes, modified 10 recipes, with 2 failed recipes in 238.2 ms
+[06Mar2025 01:10:57.519] [main/INFO] [ModernFix/]: Clearing KubeJS recipe lists...
+[06Mar2025 01:10:57.522] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function fsang:block_freeze
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown block type 'minecraft:' at position 93: ...e replace <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown block type 'minecraft:' at position 93: ...e replace <--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[06Mar2025 01:10:57.524] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function fsang:shieldkill
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Expected value for option 'sort' at position 59: ...rojectile,<--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Expected value for option 'sort' at position 59: ...rojectile,<--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[06Mar2025 01:10:57.525] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function grave.ht:aliens/petrosapien/path/remove
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown item 'grave.ht:petrosapien_path' at position 14: ...icle item <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown item 'grave.ht:petrosapien_path' at position 14: ...icle item <--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[06Mar2025 01:10:57.527] [main/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:load as it is missing following references: grave.core:load (from Gravestone Core 1.0.7.1.jar)
+[06Mar2025 01:10:57.656] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement speedforce_by_yofadda:adv_physics: Expected item to be an item, was unknown string 'minecraft:fire'
+[06Mar2025 01:10:57.754] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5014 advancements
+[06Mar2025 01:10:57.763] [main/INFO] [placebo/]: Registered 0 additional recipes.
+[06Mar2025 01:10:57.866] [main/ERROR] [net.threetag.palladium.Palladium/]: Parsing error loading power fsang:flash_suit
+com.google.gson.JsonParseException: Unknown item 'fsang:flash_ring'
+	at net.threetag.palladium.util.icon.IconSerializer.parseJSON(IconSerializer.java:41) ~[palladium-4.1.9+1.20.1-forge.jar%23251!/:4.1.9+1.20.1]
+	at net.threetag.palladium.power.Power.fromJSON(Power.java:164) ~[palladium-4.1.9+1.20.1-forge.jar%23251!/:4.1.9+1.20.1]
+	at net.threetag.palladium.power.PowerManager.lambda$apply$3(PowerManager.java:82) ~[palladium-4.1.9+1.20.1-forge.jar%23251!/:4.1.9+1.20.1]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.threetag.palladium.power.PowerManager.apply(PowerManager.java:80) ~[palladium-4.1.9+1.20.1-forge.jar%23251!/:4.1.9+1.20.1]
+	at net.threetag.palladium.power.PowerManager.m_5787_(PowerManager.java:31) ~[palladium-4.1.9+1.20.1-forge.jar%23251!/:4.1.9+1.20.1]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[06Mar2025 01:10:57.939] [main/INFO] [net.threetag.palladium.Palladium/]: Loaded 203 powers
+[06Mar2025 01:10:57.940] [main/WARN] [net.threetag.palladium.Palladium/]: Unknown power used for item 'fsang:flash_suit'
+[06Mar2025 01:10:57.940] [main/ERROR] [net.threetag.palladium.Palladium/]: Parsing error loading item powers fsang:flash_ring
+com.google.gson.JsonParseException: Unknown item 'fsang:flash_ring'
+	at net.threetag.palladium.power.ItemPowerManager.lambda$apply$2(ItemPowerManager.java:82) ~[palladium-4.1.9+1.20.1-forge.jar%23251!/:4.1.9+1.20.1]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.threetag.palladium.power.ItemPowerManager.apply(ItemPowerManager.java:40) ~[palladium-4.1.9+1.20.1-forge.jar%23251!/:4.1.9+1.20.1]
+	at net.threetag.palladium.power.ItemPowerManager.m_5787_(ItemPowerManager.java:22) ~[palladium-4.1.9+1.20.1-forge.jar%23251!/:4.1.9+1.20.1]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[06Mar2025 01:10:57.942] [main/WARN] [net.threetag.palladium.Palladium/]: Unknown power used for item 'fsang:wayne'
+[06Mar2025 01:10:57.942] [main/ERROR] [net.threetag.palladium.Palladium/]: Parsing error loading item powers fsang:wayne_heirloom
+com.google.gson.JsonParseException: Unknown item 'fsang:wayne_heirloom'
+	at net.threetag.palladium.power.ItemPowerManager.lambda$apply$2(ItemPowerManager.java:73) ~[palladium-4.1.9+1.20.1-forge.jar%23251!/:4.1.9+1.20.1]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.threetag.palladium.power.ItemPowerManager.apply(ItemPowerManager.java:40) ~[palladium-4.1.9+1.20.1-forge.jar%23251!/:4.1.9+1.20.1]
+	at net.threetag.palladium.power.ItemPowerManager.m_5787_(ItemPowerManager.java:22) ~[palladium-4.1.9+1.20.1-forge.jar%23251!/:4.1.9+1.20.1]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[06Mar2025 01:10:57.943] [main/WARN] [net.threetag.palladium.Palladium/]: Unknown power used for item 'fsang:empty_symbiote'
+[06Mar2025 01:10:57.943] [main/ERROR] [net.threetag.palladium.Palladium/]: Parsing error loading item powers grave.ht:proto_core
+com.google.gson.JsonParseException: Unknown item 'grave.ht:prototype_core'
+	at net.threetag.palladium.power.ItemPowerManager.lambda$apply$2(ItemPowerManager.java:73) ~[palladium-4.1.9+1.20.1-forge.jar%23251!/:4.1.9+1.20.1]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.threetag.palladium.power.ItemPowerManager.apply(ItemPowerManager.java:40) ~[palladium-4.1.9+1.20.1-forge.jar%23251!/:4.1.9+1.20.1]
+	at net.threetag.palladium.power.ItemPowerManager.m_5787_(ItemPowerManager.java:22) ~[palladium-4.1.9+1.20.1-forge.jar%23251!/:4.1.9+1.20.1]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[06Mar2025 01:10:57.944] [main/WARN] [net.threetag.palladium.Palladium/]: Unknown power used for item 'fsang:empty_vial'
+[06Mar2025 01:10:57.944] [main/WARN] [net.threetag.palladium.Palladium/]: Unknown power used for item 'fsang:filled_symbiote'
+[06Mar2025 01:10:57.945] [main/WARN] [net.threetag.palladium.Palladium/]: Unknown power used for item 'fsang:flash_suit'
+[06Mar2025 01:10:57.945] [main/ERROR] [net.threetag.palladium.Palladium/]: Parsing error loading item powers fsang:flash_ring2
+com.google.gson.JsonParseException: Unknown item 'fsang:flash_ring'
+	at net.threetag.palladium.power.ItemPowerManager.lambda$apply$2(ItemPowerManager.java:82) ~[palladium-4.1.9+1.20.1-forge.jar%23251!/:4.1.9+1.20.1]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.threetag.palladium.power.ItemPowerManager.apply(ItemPowerManager.java:40) ~[palladium-4.1.9+1.20.1-forge.jar%23251!/:4.1.9+1.20.1]
+	at net.threetag.palladium.power.ItemPowerManager.m_5787_(ItemPowerManager.java:22) ~[palladium-4.1.9+1.20.1-forge.jar%23251!/:4.1.9+1.20.1]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[06Mar2025 01:10:57.946] [main/INFO] [net.threetag.palladium.Palladium/]: Loaded 16 item powers
+[06Mar2025 01:10:57.946] [main/INFO] [net.threetag.palladium.Palladium/]: Loaded 6 suit set powers
+[06Mar2025 01:10:57.947] [main/INFO] [net.threetag.palladium.Palladium/]: Registered 174 objectives to be tracked
+[06Mar2025 01:10:57.985] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 22 curio slots
+[06Mar2025 01:10:57.998] [main/ERROR] [top.theillusivec4.curios.Curios/]: curios:necklace is not a registered slot type!
+[06Mar2025 01:10:57.999] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 9 curio entities
+[06Mar2025 01:10:58.008] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
+[06Mar2025 01:10:58.027] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
+com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternatives'
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2370!/:?]
+	at net.minecraftforge.common.loot.IGlobalLootModifier.lambda$static$1(IGlobalLootModifier.java:39) ~[forge-1.20.1-47.3.7-universal.jar%23294!/:?]
+	at com.mojang.serialization.Decoder$1.lambda$decode$1(Decoder.java:49) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.Decoder$1.decode(Decoder.java:49) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.Codec$2.decode(Codec.java:71) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.codecs.FieldDecoder.decode(FieldDecoder.java:29) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.MapCodec$1.decode(MapCodec.java:34) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$5.decode(RecordCodecBuilder.java:323) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.decode(RecordCodecBuilder.java:107) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$3(KeyDispatchCodec.java:67) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$4(KeyDispatchCodec.java:58) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.decode(KeyDispatchCodec.java:56) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.MapDecoder.lambda$compressedDecode$1(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.MapDecoder.compressedDecode(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.MapCodec$MapCodecCodec.decode(MapCodec.java:91) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.apply(LootModifierManager.java:79) ~[forge-1.20.1-47.3.7-universal.jar%23294!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.m_5787_(LootModifierManager.java:38) ~[forge-1.20.1-47.3.7-universal.jar%23294!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[06Mar2025 01:10:58.029] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_leather - error: Unknown type 'minecraft:alternatives'
+[06Mar2025 01:10:58.029] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
+com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2370!/:?]
+	at net.minecraftforge.common.loot.IGlobalLootModifier.lambda$static$1(IGlobalLootModifier.java:39) ~[forge-1.20.1-47.3.7-universal.jar%23294!/:?]
+	at com.mojang.serialization.Decoder$1.lambda$decode$1(Decoder.java:49) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.Decoder$1.decode(Decoder.java:49) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.Codec$2.decode(Codec.java:71) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.codecs.FieldDecoder.decode(FieldDecoder.java:29) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.MapCodec$1.decode(MapCodec.java:34) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$5.decode(RecordCodecBuilder.java:323) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.decode(RecordCodecBuilder.java:107) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$3(KeyDispatchCodec.java:67) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$4(KeyDispatchCodec.java:58) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.decode(KeyDispatchCodec.java:56) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.MapDecoder.lambda$compressedDecode$1(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.MapDecoder.compressedDecode(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.MapCodec$MapCodecCodec.decode(MapCodec.java:91) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%2375!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.apply(LootModifierManager.java:79) ~[forge-1.20.1-47.3.7-universal.jar%23294!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.m_5787_(LootModifierManager.java:38) ~[forge-1.20.1-47.3.7-universal.jar%23294!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23289!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[06Mar2025 01:10:58.031] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_string - error: Unknown type 'minecraft:alternative'
+[06Mar2025 01:10:58.033] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id domesticationinnovation:blazing_enchanted_book - error: Not a JSON object: null
+[06Mar2025 01:10:58.038] [main/INFO] [placebo/]: Registered 0 gear_sets.
+[06Mar2025 01:10:58.060] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: c:ores
+[06Mar2025 01:10:58.130] [main/INFO] [Supplementaries/]: Finished additional setup in 15 ms
+[06Mar2025 01:10:58.175] [main/INFO] [com.github.alexthe668.iwannaskate.IWannaSkateMod/]: reloading skateboard materials
+[06Mar2025 01:10:58.197] [main/INFO] [Moonlight/]: Applied 7 data villager trades
+[06Mar2025 01:10:58.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[06Mar2025 01:10:58.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[06Mar2025 01:10:58.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[06Mar2025 01:10:58.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[06Mar2025 01:10:58.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[06Mar2025 01:10:58.475] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[06Mar2025 01:10:58.592] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06Mar2025 01:10:58.592] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[06Mar2025 01:10:58.592] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06Mar2025 01:10:58.592] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[06Mar2025 01:10:58.608] [Server thread/INFO] [Puzzles Lib/]: Loading server config for illagerinvasion
+[06Mar2025 01:10:58.950] [Server thread/INFO] [citadel/]: Added to village structure pool
+[06Mar2025 01:10:58.951] [Server thread/INFO] [citadel/]: Added to village structure pool
+[06Mar2025 01:10:58.951] [Server thread/INFO] [citadel/]: Added to village structure pool
+[06Mar2025 01:10:58.952] [Server thread/INFO] [citadel/]: Added to village structure pool
+[06Mar2025 01:10:58.952] [Server thread/INFO] [citadel/]: Added to village structure pool
+[06Mar2025 01:10:58.965] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[06Mar2025 01:10:59.609] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[06Mar2025 01:10:59.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[06Mar2025 01:11:00.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[06Mar2025 01:11:00.437] [Server thread/INFO] [KubeJS Server/]: Server resource reload complete!
+[06Mar2025 01:11:02.116] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Mar2025 01:11:02.117] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Mar2025 01:11:02.117] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Mar2025 01:11:02.118] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Mar2025 01:11:02.437] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Mar2025 01:11:03.428] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2995 ms
+[06Mar2025 01:11:03.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.825s)! For help, type "help"
+[06Mar2025 01:11:03.488] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[06Mar2025 01:11:03.495] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[06Mar2025 01:11:03.495] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#64: Config file loaded or created at config/fsang_config.json
+[06Mar2025 01:11:03.544] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[06Mar2025 01:11:03.544] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[06Mar2025 01:11:03.547] [Server thread/WARN] [ModernFix/]: Dedicated server took 43.201 seconds to load
+[06Mar2025 01:15:00.009] [ForkJoinPool.commonPool-worker-1/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent org/mineskin/request/AbstractRequestBuilder for class org/mineskin/request/UrlRequestBuilderImpl in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 on thread Thread[ForkJoinPool.commonPool-worker-1,5,SERVER]
+[06Mar2025 01:15:00.009] [ForkJoinPool.commonPool-worker-1/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2350!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2350!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2350!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2350!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at org.mineskin.request.GenerateRequest.url(GenerateRequest.java:39) ~[?:?]
+	at org.mineskin.request.GenerateRequest.url(GenerateRequest.java:43) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MineskinSkinProvider.loadSkin(MineskinSkinProvider.java:102) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MineskinSkinProvider$1.load(MineskinSkinProvider.java:68) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MineskinSkinProvider$1.load(MineskinSkinProvider.java:65) ~[?:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3533) ~[guava-31.1-jre.jar%2372!/:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2282) ~[guava-31.1-jre.jar%2372!/:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2159) ~[guava-31.1-jre.jar%2372!/:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2049) ~[guava-31.1-jre.jar%2372!/:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3966) ~[guava-31.1-jre.jar%2372!/:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:3989) ~[guava-31.1-jre.jar%2372!/:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:4950) ~[guava-31.1-jre.jar%2372!/:?]
+	at net.lionarius.skinrestorer.skin.provider.MineskinSkinProvider.fetchSkin(MineskinSkinProvider.java:88) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md5b5097$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:578) ~[?:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:577) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md5b5097$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:550) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[06Mar2025 01:15:03.201] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Saniago23[/127.159.250.7:44359] logged in with entity id 129 at (792.7546400835835, 109.24918707874468, 3051.300000011921)
+[06Mar2025 01:15:03.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 joined the game
+[06Mar2025 01:15:03.925] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (0ed8a514-4f3e-3e18-b162-7f0e3367a0ce)
+[06Mar2025 01:15:03.930] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[06Mar2025 01:15:03.931] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Saniago23
+[06Mar2025 01:15:03.934] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Saniago23 run scoreboard objectives add FSang.Gamerule.item dummy
+[06Mar2025 01:15:03.956] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.item 1
+[06Mar2025 01:15:03.957] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Saniago23 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[06Mar2025 01:15:03.957] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[06Mar2025 01:15:05.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 lost connection: Disconnected
+[06Mar2025 01:15:05.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 left the game
+[06Mar2025 01:15:05.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[06Mar2025 01:15:05.201] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Mar2025 01:15:20.484] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Saniago23[/127.159.250.7:37965] logged in with entity id 160 at (792.7546400835835, 109.24918707874468, 3051.300000011921)
+[06Mar2025 01:15:20.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 joined the game
+[06Mar2025 01:15:20.743] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (0ed8a514-4f3e-3e18-b162-7f0e3367a0ce)
+[06Mar2025 01:15:20.745] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[06Mar2025 01:15:20.745] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Saniago23
+[06Mar2025 01:15:20.745] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Saniago23 run scoreboard objectives add FSang.Gamerule.item dummy
+[06Mar2025 01:15:20.746] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.item 1
+[06Mar2025 01:15:20.747] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Saniago23 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[06Mar2025 01:15:20.747] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[06Mar2025 01:15:21.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 lost connection: Disconnected
+[06Mar2025 01:15:21.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 left the game
+[06Mar2025 01:16:50.741] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Camaila04[/127.64.191.5:34013] logged in with entity id 243 at (557.9966451431798, 70.0, 7664.16796568244)
+[06Mar2025 01:16:50.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 joined the game
+[06Mar2025 01:16:51.235] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (ab883470-fa6d-31aa-8013-002547baaf80)
+[06Mar2025 01:16:51.236] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[06Mar2025 01:16:51.238] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Camaila04
+[06Mar2025 01:16:51.239] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Camaila04 run scoreboard objectives add FSang.Gamerule.item dummy
+[06Mar2025 01:16:51.240] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Camaila04 run scoreboard players set .sang FSang.Gamerule.item 1
+[06Mar2025 01:16:51.240] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Camaila04 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[06Mar2025 01:16:51.241] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Camaila04 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[06Mar2025 01:17:16.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[06Mar2025 01:17:39.054] [pool-9-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=395, y=71, z=7387}
+[06Mar2025 01:19:15.295] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Saniago23[/127.159.250.7:46799] logged in with entity id 1022 at (792.7546400835835, 109.24918707874468, 3051.300000011921)
+[06Mar2025 01:19:15.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 joined the game
+[06Mar2025 01:19:15.727] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (0ed8a514-4f3e-3e18-b162-7f0e3367a0ce)
+[06Mar2025 01:19:15.728] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[06Mar2025 01:19:15.728] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Saniago23
+[06Mar2025 01:19:15.728] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Saniago23 run scoreboard objectives add FSang.Gamerule.item dummy
+[06Mar2025 01:19:15.729] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.item 1
+[06Mar2025 01:19:15.729] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Saniago23 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[06Mar2025 01:19:15.730] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[06Mar2025 01:19:24.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[06Mar2025 01:19:45.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6383ms or 127 ticks behind
+[06Mar2025 01:19:48.050] [pool-9-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos BlockPos{x=1019, y=68, z=2795}
+[06Mar2025 01:20:00.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Saniago23> tenia un fire dragon
+[06Mar2025 01:20:05.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Saniago23> tengo
+[06Mar2025 01:20:06.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5479ms or 109 ticks behind
+[06Mar2025 01:20:12.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camaila04> que
+[06Mar2025 01:20:25.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4801ms or 96 ticks behind
