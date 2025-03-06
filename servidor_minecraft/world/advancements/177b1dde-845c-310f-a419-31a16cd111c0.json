@@ -132,6 +132,7 @@
       "woodland": "2025-03-04 01:51:50 +0000",
       "shrubland": "2025-03-04 01:22:52 +0000",
       "scrubland": "2025-03-04 01:52:25 +0000",
+      "erupting_inferno": "2025-03-06 19:21:14 +0000",
       "floodplain": "2025-03-04 02:01:41 +0000",
       "lush_savanna": "2025-03-04 05:10:15 +0000",
       "highland": "2025-03-03 23:26:53 +0000",
@@ -1561,6 +1562,7 @@
       "minecraft:pillager": "2025-03-03 22:28:32 +0000",
       "minecraft:blaze": "2025-03-05 21:30:43 +0000",
       "minecraft:skeleton": "2025-03-03 22:49:58 +0000",
+      "minecraft:ghast": "2025-03-06 19:21:18 +0000",
       "minecraft:hoglin": "2025-03-05 21:29:27 +0000",
       "minecraft:magma_cube": "2025-03-05 22:02:15 +0000",
       "minecraft:spider": "2025-03-05 00:50:10 +0000",
@@ -3142,6 +3144,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "pillager_outpost": "2025-03-06 19:18:07 +0000",
       "illager_camp": "2025-03-03 23:14:10 +0000"
     },
     "done": false
@@ -7860,9 +7863,51 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_blinds": {
+    "criteria": {
+      "has_log": "2025-03-06 19:18:14 +0000"
+    },
+    "done": true
+  },
+  "rats:plague": {
+    "criteria": {
+      "catch_plague": "2025-03-06 19:26:28 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/cursed_garbage": {
+    "criteria": {
+      "has_essence": "2025-03-06 19:26:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_blinds": {
     "criteria": {
       "has_log": "2025-03-06 19:06:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/plague_stew": {
+    "criteria": {
+      "has_bundle": "2025-03-06 19:28:33 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/voodoo_upgrade": {
+    "criteria": {
+      "has_essence": "2025-03-06 19:26:53 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/cooked_rat_smelting": {
+    "criteria": {
+      "has_rat": "2025-03-06 19:26:40 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/ratbow_essence": {
+    "criteria": {
+      "has_essence": "2025-03-06 19:26:53 +0000"
     },
     "done": true
   },
@@ -7872,9 +7917,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-06 19:30:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-03-06 19:06:02 +0000"
+    },
+    "done": true
+  },
+  "rats:black_death": {
+    "criteria": {
+      "summoned": "2025-03-06 19:26:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-03-06 19:18:14 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/rat_pelt_to_leather": {
+    "criteria": {
+      "has_pelt": "2025-03-06 19:26:39 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/cooked_rat_campfire": {
+    "criteria": {
+      "has_rat": "2025-03-06 19:26:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-03-06 19:30:58 +0000"
     },
     "done": true
   },
@@ -7887,6 +7968,48 @@
   "cfm:recipes/decorations/stripped_spruce_upgraded_fence": {
     "criteria": {
       "has_log": "2025-03-06 19:06:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:milk": "2025-03-06 19:30:58 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/beast_mount_upgrade": {
+    "criteria": {
+      "has_essence": "2025-03-06 19:26:53 +0000"
+    },
+    "done": true
+  },
+  "rats:plague_cure": {
+    "criteria": {
+      "discover_herbs": "2025-03-06 19:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-06 19:18:14 +0000"
+    },
+    "done": true
+  },
+  "rats:all_hats": {
+    "criteria": {
+      "has_black_death_mask": "2025-03-06 19:28:36 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/food/cooked_rat_smoking": {
+    "criteria": {
+      "has_rat": "2025-03-06 19:26:40 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2025-03-06 19:18:07 +0000"
     },
     "done": true
   },

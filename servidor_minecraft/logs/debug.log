@@ -9843,3 +9843,96 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [06Mar2025 19:16:00.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
 [06Mar2025 19:16:00.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
 [06Mar2025 19:16:09.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[06Mar2025 19:17:17.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 moved too quickly! -9.866029021357235,-1.0146815830169515,4.28656941514555
+[06Mar2025 19:18:07.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [Intruder Alert]
+[06Mar2025 19:19:16.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 moved too quickly! -7.3477351673871,0.011268599776698807,8.015023960581175
+[06Mar2025 19:20:40.316] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:gauntlet_arena/base
+[06Mar2025 19:20:45.564] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_fire
+[06Mar2025 19:20:45.564] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_6
+[06Mar2025 19:20:45.565] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_5
+[06Mar2025 19:20:45.566] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/camp_mob_piglin_brute
+[06Mar2025 19:20:45.567] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_3
+[06Mar2025 19:20:45.567] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_1
+[06Mar2025 19:20:45.568] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/camp_mob_piglin_crossbow
+[06Mar2025 19:20:45.569] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_skeleton_wither
+[06Mar2025 19:21:00.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[06Mar2025 19:21:00.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[06Mar2025 19:21:07.245] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_fire
+[06Mar2025 19:21:07.246] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_2
+[06Mar2025 19:21:07.247] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_3
+[06Mar2025 19:21:07.248] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_1
+[06Mar2025 19:21:07.249] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_piglin_sword
+[06Mar2025 19:21:56.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-53, y=39, z=200} BlockPos{x=-52, y=38, z=201}
+[06Mar2025 19:21:56.584] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-53, y=39, z=200} BlockPos{x=-52, y=38, z=201}
+[06Mar2025 19:22:04.983] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=39, z=197} BlockPos{x=-50, y=38, z=196}
+[06Mar2025 19:22:06.081] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-52, y=39, z=196} BlockPos{x=-52, y=37, z=196}
+[06Mar2025 19:22:16.925] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-54, y=39, z=196} BlockPos{x=-54, y=37, z=196}
+[06Mar2025 19:23:07.579] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-60, y=39, z=180} BlockPos{x=-60, y=37, z=179}
+[06Mar2025 19:23:17.840] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin_2
+[06Mar2025 19:23:17.843] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_5
+[06Mar2025 19:23:17.844] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_2
+[06Mar2025 19:23:17.845] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_6
+[06Mar2025 19:23:17.846] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/fossil
+[06Mar2025 19:23:17.848] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_1
+[06Mar2025 19:23:17.848] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_2
+[06Mar2025 19:23:17.849] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_2
+[06Mar2025 19:23:17.849] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_1
+[06Mar2025 19:23:17.849] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner_2
+[06Mar2025 19:23:17.850] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_2
+[06Mar2025 19:23:17.850] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_3
+[06Mar2025 19:23:17.851] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/piglin_camp
+[06Mar2025 19:23:17.851] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_1
+[06Mar2025 19:23:17.852] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_5
+[06Mar2025 19:23:17.853] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_7
+[06Mar2025 19:23:29.701] [Worker-Main-54/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[06Mar2025 19:23:29.701] [Worker-Main-54/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[06Mar2025 19:23:29.714] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:illusioner_tower/tower_2
+[06Mar2025 19:23:29.724] [Worker-Main-2/DEBUG] [ModernFix/]: Structure illagerinvasion:mobs/illusioner is being run through DFU (hash 9c204c2b4e831cce3cf181e66766885650423ca6adbb5d83d5efac2c7a6f4865), this will cause launch time delays
+[06Mar2025 19:23:29.732] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/vindicator
+[06Mar2025 19:23:29.733] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/provoker
+[06Mar2025 19:23:29.733] [Worker-Main-2/DEBUG] [ModernFix/]: Structure illagerinvasion:mobs/allay is being run through DFU (hash bcc2c60b7bf33fcde48235e07366da58b631c000ec20f8cb87f4752159c84f3f), this will cause launch time delays
+[06Mar2025 19:23:29.734] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/basher
+[06Mar2025 19:23:29.735] [Worker-Main-2/DEBUG] [ModernFix/]: Structure illagerinvasion:mobs/villager is being run through DFU (hash f2470a32b911d89fb2ed64c05dcec8529dd887b42a7dcff3aca89fe5d1445aaa), this will cause launch time delays
+[06Mar2025 19:23:29.736] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/archivist
+[06Mar2025 19:23:44.533] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:lich_tower/bottom
+[06Mar2025 19:23:47.376] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/tower
+[06Mar2025 19:23:47.381] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/evoker
+[06Mar2025 19:23:47.382] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/left_no_rooms
+[06Mar2025 19:23:47.383] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_and_right
+[06Mar2025 19:23:47.385] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_no_rooms
+[06Mar2025 19:23:47.386] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_left_room
+[06Mar2025 19:23:47.387] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_right_room
+[06Mar2025 19:23:47.388] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_two_rooms
+[06Mar2025 19:23:47.389] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/right_no_rooms
+[06Mar2025 19:23:47.390] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_right_left_room
+[06Mar2025 19:23:47.391] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_2
+[06Mar2025 19:23:47.392] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_5
+[06Mar2025 19:23:47.393] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_9
+[06Mar2025 19:23:47.394] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_1
+[06Mar2025 19:23:47.396] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_6
+[06Mar2025 19:23:47.397] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_4
+[06Mar2025 19:23:47.398] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_8
+[06Mar2025 19:23:47.399] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_7
+[06Mar2025 19:23:47.400] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_3
+[06Mar2025 19:23:47.401] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_0
+[06Mar2025 19:23:47.402] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_no_rooms
+[06Mar2025 19:23:47.404] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_right_room
+[06Mar2025 19:23:47.405] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_right_no_rooms
+[06Mar2025 19:23:47.408] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/marauder
+[06Mar2025 19:23:47.413] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/necromancer
+[06Mar2025 19:23:58.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[06Mar2025 19:24:05.837] [Worker-Main-54/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:sorcerer_hut/sorcerer_hut
+[06Mar2025 19:24:47.167] [Worker-Main-45/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[06Mar2025 19:26:00.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[06Mar2025 19:26:00.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[06Mar2025 19:26:22.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has reached the goal [Dance Macabre!]
+[06Mar2025 19:27:09.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has reached the goal [Dance Macabre!]
+[06Mar2025 19:27:45.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[06Mar2025 19:27:50.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has reached the goal [Dance Macabre!]
+[06Mar2025 19:28:27.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has completed the challenge [Do Not Go Quietly Into the Night]
+[06Mar2025 19:29:56.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has made the advancement [Splintering II]
+[06Mar2025 19:30:58.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Voluntary Exile]
+[06Mar2025 19:31:00.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[06Mar2025 19:31:00.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[06Mar2025 19:36:00.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[06Mar2025 19:36:00.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2

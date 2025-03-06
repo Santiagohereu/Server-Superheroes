@@ -1601,3 +1601,20 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [06Mar2025 19:11:24.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
 [06Mar2025 19:14:31.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [My Name is Nobody]
 [06Mar2025 19:16:09.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[06Mar2025 19:17:17.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 moved too quickly! -9.866029021357235,-1.0146815830169515,4.28656941514555
+[06Mar2025 19:18:07.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [Intruder Alert]
+[06Mar2025 19:19:16.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 moved too quickly! -7.3477351673871,0.011268599776698807,8.015023960581175
+[06Mar2025 19:21:56.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-53, y=39, z=200} BlockPos{x=-52, y=38, z=201}
+[06Mar2025 19:21:56.584] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-53, y=39, z=200} BlockPos{x=-52, y=38, z=201}
+[06Mar2025 19:22:04.983] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=39, z=197} BlockPos{x=-50, y=38, z=196}
+[06Mar2025 19:22:06.081] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-52, y=39, z=196} BlockPos{x=-52, y=37, z=196}
+[06Mar2025 19:22:16.925] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-54, y=39, z=196} BlockPos{x=-54, y=37, z=196}
+[06Mar2025 19:23:07.579] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-60, y=39, z=180} BlockPos{x=-60, y=37, z=179}
+[06Mar2025 19:23:58.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[06Mar2025 19:26:22.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has reached the goal [Dance Macabre!]
+[06Mar2025 19:27:09.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has reached the goal [Dance Macabre!]
+[06Mar2025 19:27:45.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[06Mar2025 19:27:50.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has reached the goal [Dance Macabre!]
+[06Mar2025 19:28:27.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has completed the challenge [Do Not Go Quietly Into the Night]
+[06Mar2025 19:29:56.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has made the advancement [Splintering II]
+[06Mar2025 19:30:58.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Voluntary Exile]

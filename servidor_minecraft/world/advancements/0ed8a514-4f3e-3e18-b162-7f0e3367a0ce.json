@@ -8457,6 +8457,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/cyan_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:23:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_coffee_table": {
     "criteria": {
       "has_log": "2025-03-06 18:16:14 +0000"
@@ -8469,9 +8475,27 @@
     },
     "done": true
   },
+  "rats:plague": {
+    "criteria": {
+      "catch_plague": "2025-03-06 19:27:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_blinds": {
     "criteria": {
       "has_log": "2025-03-06 18:52:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:23:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:23:20 +0000"
     },
     "done": true
   },
@@ -8481,9 +8505,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-06 19:30:58 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_desk": {
     "criteria": {
       "has_log": "2025-03-06 18:16:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:23:20 +0000"
     },
     "done": true
   },
@@ -8493,9 +8529,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/gray_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:23:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-03-06 18:52:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:23:20 +0000"
     },
     "done": true
   },
@@ -8529,6 +8577,12 @@
     },
     "done": true
   },
+  "rats:black_death": {
+    "criteria": {
+      "hurt_death": "2025-03-06 19:27:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-03-06 18:18:52 +0000"
@@ -8559,9 +8613,27 @@
     },
     "done": true
   },
+  "rats:recipes/misc/rat_pelt_to_leather": {
+    "criteria": {
+      "has_pelt": "2025-03-06 19:27:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:23:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_upgraded_fence": {
     "criteria": {
       "has_log": "2025-03-06 18:16:14 +0000"
+    },
+    "done": true
+  },
+  "rats:defeat_black_death": {
+    "criteria": {
+      "killed_death": "2025-03-06 19:28:27 +0000"
     },
     "done": true
   },
@@ -8571,9 +8643,27 @@
     },
     "done": true
   },
+  "rats:recipes/misc/corrupt_rat_skull": {
+    "criteria": {
+      "has_scythe": "2025-03-06 19:28:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:23:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-03-06 18:45:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:23:20 +0000"
     },
     "done": true
   },
@@ -8592,6 +8682,30 @@
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-03-06 18:26:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:23:20 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/scythe_to_essence": {
+    "criteria": {
+      "has_scythe": "2025-03-06 19:28:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:23:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:23:20 +0000"
     },
     "done": true
   },
@@ -8655,9 +8769,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/white_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:23:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-03-06 18:18:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:23:20 +0000"
     },
     "done": true
   },
@@ -8685,9 +8811,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/black_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:23:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-06 18:18:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:23:20 +0000"
     },
     "done": true
   },
@@ -8724,6 +8862,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-03-06 18:26:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:23:20 +0000"
     },
     "done": true
   },
