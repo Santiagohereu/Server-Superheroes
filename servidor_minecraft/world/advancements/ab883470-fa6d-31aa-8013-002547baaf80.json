@@ -7510,6 +7510,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-03-06 02:08:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_gray_picket_gate": {
     "criteria": {
       "has_gate": "2025-03-06 01:58:56 +0000"
@@ -7528,6 +7534,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-03-06 02:08:54 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/stripped_dark_oak_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-03-06 01:58:56 +0000"
@@ -7537,6 +7549,12 @@
   "cfm:recipes/decorations/stripped_warped_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-03-06 01:58:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-03-06 02:10:20 +0000"
     },
     "done": true
   },
