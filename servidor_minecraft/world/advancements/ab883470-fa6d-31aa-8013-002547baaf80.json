@@ -2211,7 +2211,8 @@
       "minecraft:creeper": "2025-03-03 23:06:43 +0000",
       "minecraft:phantom": "2025-03-04 23:19:11 +0000",
       "minecraft:zombie": "2025-03-04 01:20:52 +0000",
-      "minecraft:drowned": "2025-03-05 22:17:29 +0000"
+      "minecraft:drowned": "2025-03-05 22:17:29 +0000",
+      "minecraft:zombie_villager": "2025-03-06 20:19:55 +0000"
     },
     "done": false
   },
