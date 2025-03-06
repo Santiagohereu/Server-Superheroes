@@ -1769,3 +1769,11 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [06Mar2025 03:59:15.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Port o Magma]
 [06Mar2025 04:00:47.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
 [06Mar2025 04:04:52.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Splintering II]
+[06Mar2025 04:07:32.477] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=550, y=34, z=602} BlockPos{x=550, y=33, z=601}
+[06Mar2025 04:09:33.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[06Mar2025 04:10:53.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki was doomed to fall by Wither Skeleton
+[06Mar2025 04:13:45.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Camaila04) moved wrongly! 0.447748847615685
+[06Mar2025 04:13:45.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Camaila04) moved wrongly! 1.1794183451804656
+[06Mar2025 04:13:45.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Camaila04) moved wrongly! 1.9101668130576854
+[06Mar2025 04:16:12.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki fell from a high place
+[06Mar2025 04:17:53.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki burned to death
