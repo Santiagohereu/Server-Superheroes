@@ -8036,6 +8036,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/black_sandstone": {
+    "criteria": {
+      "has_black_sand": "2025-03-06 20:53:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-03-06 19:30:22 +0000"

@@ -145,6 +145,7 @@
       "field": "2025-03-04 04:19:51 +0000",
       "orchard": "2025-03-04 04:37:29 +0000",
       "overgrown_greens": "2025-03-04 04:37:25 +0000",
+      "mediterranean_forest": "2025-03-06 20:47:12 +0000",
       "coniferous_forest": "2025-03-03 18:31:33 +0000",
       "spider_nest": "2025-03-04 20:05:24 +0000",
       "dryland": "2025-03-04 04:50:30 +0000",
@@ -822,6 +823,7 @@
       "minecraft:taiga": "2025-03-04 04:30:44 +0000",
       "minecraft:eroded_badlands": "2025-03-04 05:01:36 +0000",
       "minecraft:birch_forest": "2025-03-04 23:54:51 +0000",
+      "minecraft:wooded_badlands": "2025-03-06 20:48:48 +0000",
       "minecraft:beach": "2025-03-04 02:06:01 +0000",
       "minecraft:dark_forest": "2025-03-05 23:13:25 +0000",
       "minecraft:sparse_jungle": "2025-03-04 04:41:06 +0000",
@@ -8990,6 +8992,84 @@
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_fire_dragon": "2025-03-06 20:43:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_macuahuitl": {
+    "criteria": {
+      "has_item": "2025-03-06 20:50:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_arrow": {
+    "criteria": {
+      "has_item": "2025-03-06 20:50:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-06 20:50:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_boots": {
+    "criteria": {
+      "has_item": "2025-03-06 20:50:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_helmet": {
+    "criteria": {
+      "has_item": "2025-03-06 20:50:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_leggings": {
+    "criteria": {
+      "has_item": "2025-03-06 20:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-06 20:52:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-03-06 20:53:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-06 20:53:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-03-06 20:53:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-03-06 20:53:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-03-06 20:53:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-03-06 20:54:26 +0000"
     },
     "done": true
   },

@@ -1724,3 +1724,56 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [06Mar2025 20:47:28.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [06Mar2025 20:47:32.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved too quickly! 10.848278466407464,4.875977576877588,13.238689281831569
 [06Mar2025 20:47:32.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 moved too quickly! 10.34497764316393,-8.14533198224342,-9.9403977533417
+[06Mar2025 20:50:50.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[06Mar2025 20:53:13.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [Dragonslayer]
+[06Mar2025 20:55:15.895] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Mar2025 20:55:21.666] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Mar2025 20:55:22.265] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Mar2025 20:55:26.726] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 lost connection: Disconnected
+[06Mar2025 20:55:26.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 left the game
+[06Mar2025 20:55:26.770] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Mar2025 20:55:34.961] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Mar2025 20:55:37.063] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Mar2025 20:55:43.363] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Mar2025 20:55:45.164] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Mar2025 20:56:30.431] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=663, y=104, z=6655} BlockPos{x=663, y=102, z=6653}
+[06Mar2025 20:56:33.629] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=662, y=102, z=6663} BlockPos{x=661, y=101, z=6665}
+[06Mar2025 20:56:37.686] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=659, y=102, z=6664} BlockPos{x=661, y=101, z=6665}
+[06Mar2025 20:56:43.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[06Mar2025 20:56:53.496] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Saniago23[/127.192.140.226:38039] logged in with entity id 64617 at (-2862.5084531042853, 78.09805584300965, 253.1482386897018)
+[06Mar2025 20:56:53.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 joined the game
+[06Mar2025 20:56:53.941] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (0ed8a514-4f3e-3e18-b162-7f0e3367a0ce)
+[06Mar2025 20:56:53.942] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[06Mar2025 20:56:53.942] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Saniago23
+[06Mar2025 20:56:53.942] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Saniago23 run scoreboard objectives add FSang.Gamerule.item dummy
+[06Mar2025 20:56:53.942] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.item 1
+[06Mar2025 20:56:53.942] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Saniago23 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[06Mar2025 20:56:53.942] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[06Mar2025 20:56:54.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 moved too quickly! 10.723553692906535,-2.772644908972268,2.7982505838202485
+[06Mar2025 20:56:55.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 lost connection: Disconnected
+[06Mar2025 20:56:55.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 left the game
+[06Mar2025 20:57:11.655] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Saniago23[/127.192.140.226:40833] logged in with entity id 65061 at (-2862.5084531042853, 78.09805584300965, 253.1482386897018)
+[06Mar2025 20:57:11.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 joined the game
+[06Mar2025 20:57:11.914] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (0ed8a514-4f3e-3e18-b162-7f0e3367a0ce)
+[06Mar2025 20:57:11.914] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[06Mar2025 20:57:11.914] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Saniago23
+[06Mar2025 20:57:11.914] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Saniago23 run scoreboard objectives add FSang.Gamerule.item dummy
+[06Mar2025 20:57:11.914] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.item 1
+[06Mar2025 20:57:11.915] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Saniago23 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[06Mar2025 20:57:11.915] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[06Mar2025 20:57:15.791] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 lost connection: Disconnected
+[06Mar2025 20:57:15.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 left the game
+[06Mar2025 20:57:49.219] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Mar2025 20:57:49.620] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Mar2025 20:58:03.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Mar2025 20:58:04.224] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Mar2025 20:58:10.013] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Mar2025 20:58:17.942] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Mar2025 20:58:19.037] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Mar2025 20:58:31.113] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Mar2025 20:58:37.316] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Mar2025 20:58:49.817] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Mar2025 20:58:51.815] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Mar2025 20:58:52.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Mar2025 20:59:02.921] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Mar2025 20:59:06.415] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.

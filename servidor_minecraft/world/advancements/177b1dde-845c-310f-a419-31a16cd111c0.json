@@ -147,6 +147,7 @@
       "coniferous_forest": "2025-03-03 18:33:00 +0000",
       "spider_nest": "2025-03-04 02:42:58 +0000",
       "dryland": "2025-03-04 04:57:38 +0000",
+      "wasteland": "2025-03-06 20:47:57 +0000",
       "lush_desert": "2025-03-04 04:57:20 +0000",
       "redwood_forest": "2025-03-04 01:24:31 +0000",
       "aspen_glade": "2025-03-04 19:56:06 +0000",
@@ -1835,6 +1836,7 @@
       "minecraft:eroded_badlands": "2025-03-04 05:00:58 +0000",
       "minecraft:birch_forest": "2025-03-04 01:28:16 +0000",
       "minecraft:bamboo_jungle": "2025-03-04 02:02:49 +0000",
+      "minecraft:wooded_badlands": "2025-03-06 20:48:56 +0000",
       "minecraft:beach": "2025-03-04 02:04:54 +0000",
       "minecraft:stony_peaks": "2025-03-04 01:30:45 +0000",
       "minecraft:dark_forest": "2025-03-04 03:20:43 +0000",
@@ -8017,9 +8019,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-06 20:53:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-03-06 19:30:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_macuahuitl": {
+    "criteria": {
+      "has_item": "2025-03-06 20:51:08 +0000"
     },
     "done": true
   },
@@ -8050,6 +8064,18 @@
   "incendium:toxic_heap/root": {
     "criteria": {
       "requirement": "2025-03-06 20:17:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-03-06 20:53:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-06 20:53:30 +0000"
     },
     "done": true
   },
@@ -8110,6 +8136,18 @@
   "aether:recipes/combat/stone_sword_repairing": {
     "criteria": {
       "has_stone_sword": "2025-03-06 20:18:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-03-06 20:53:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-03-06 20:53:30 +0000"
     },
     "done": true
   },
@@ -8209,6 +8247,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-03-06 20:53:30 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/beast_mount_upgrade": {
     "criteria": {
       "has_essence": "2025-03-06 19:26:53 +0000"
@@ -8242,6 +8286,12 @@
   "iceandfire:recipes/combat/armor_red_boots": {
     "criteria": {
       "has_item": "2025-03-06 20:43:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_arrow": {
+    "criteria": {
+      "has_item": "2025-03-06 20:51:08 +0000"
     },
     "done": true
   },
