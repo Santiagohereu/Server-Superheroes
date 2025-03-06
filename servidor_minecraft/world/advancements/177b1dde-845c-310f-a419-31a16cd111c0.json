@@ -1571,6 +1571,7 @@
       "minecraft:spider": "2025-03-05 00:50:10 +0000",
       "minecraft:piglin_brute": "2025-03-05 21:41:00 +0000",
       "minecraft:creeper": "2025-03-03 22:45:26 +0000",
+      "minecraft:evoker": "2025-03-06 20:30:37 +0000",
       "minecraft:phantom": "2025-03-05 20:55:52 +0000",
       "minecraft:zombified_piglin": "2025-03-06 02:16:39 +0000",
       "minecraft:witch": "2025-03-06 19:41:59 +0000",
@@ -7872,6 +7873,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_warped_coffee_table": {
+    "criteria": {
+      "has_log": "2025-03-06 20:27:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_table": {
+    "criteria": {
+      "has_log": "2025-03-06 20:27:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_blinds": {
     "criteria": {
       "has_log": "2025-03-06 19:18:14 +0000"
@@ -7902,15 +7915,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-03-06 20:27:57 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/netherite_trapdoor": {
     "criteria": {
       "has_netherite_scrap": "2025-03-06 20:16:39 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-06 20:43:29 +0000"
+    },
+    "done": true
+  },
   "incendium:withered_forest/root": {
     "criteria": {
       "requirement": "2025-03-06 20:12:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-06 20:27:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_chair": {
+    "criteria": {
+      "has_log": "2025-03-06 20:27:57 +0000"
     },
     "done": true
   },
@@ -7935,6 +7972,12 @@
   "rats:recipes/food/cooked_rat_smelting": {
     "criteria": {
       "has_rat": "2025-03-06 19:26:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-06 20:27:57 +0000"
     },
     "done": true
   },
@@ -7998,6 +8041,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2025-03-06 20:34:57 +0000"
+    },
+    "done": true
+  },
   "incendium:toxic_heap/root": {
     "criteria": {
       "requirement": "2025-03-06 20:17:51 +0000"
@@ -8016,6 +8065,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/crimson_cabinet": {
+    "criteria": {
+      "has_crimson_trapdoor": "2025-03-06 20:29:13 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_chestplate_repairing": {
     "criteria": {
       "has_diamond_chestplate": "2025-03-06 19:55:06 +0000"
@@ -8028,15 +8083,45 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-03-06 20:43:29 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:recipes/brimstone_nectar": {
     "criteria": {
       "has_netherite_scrap": "2025-03-06 20:16:39 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_warped_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-03-06 20:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-03-06 20:27:57 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/stone_sword_repairing": {
     "criteria": {
       "has_stone_sword": "2025-03-06 20:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-06 20:27:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_park_bench": {
+    "criteria": {
+      "has_planks": "2025-03-06 20:27:57 +0000"
     },
     "done": true
   },
@@ -8052,6 +8137,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_warped_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-03-06 20:27:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_desk": {
+    "criteria": {
+      "has_log": "2025-03-06 20:27:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/milk_bottle": {
     "criteria": {
       "has_milk_bucket": "2025-03-06 19:30:58 +0000"
@@ -8061,6 +8158,12 @@
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2025-03-06 20:09:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-06 20:27:57 +0000"
     },
     "done": true
   },
@@ -8118,6 +8221,30 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-03-06 20:43:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-03-06 20:43:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_crate": {
+    "criteria": {
+      "has_log": "2025-03-06 20:27:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-03-06 20:43:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-03-06 19:18:14 +0000"
@@ -8163,6 +8290,12 @@
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2025-03-06 19:43:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_blinds": {
+    "criteria": {
+      "has_log": "2025-03-06 20:27:57 +0000"
     },
     "done": true
   },
