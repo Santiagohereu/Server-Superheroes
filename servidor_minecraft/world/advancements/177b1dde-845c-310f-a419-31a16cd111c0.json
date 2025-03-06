@@ -7860,5 +7860,35 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_blinds": {
+    "criteria": {
+      "has_log": "2025-03-06 19:06:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-06 19:06:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-03-06 19:06:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-06 19:14:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-03-06 19:06:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
