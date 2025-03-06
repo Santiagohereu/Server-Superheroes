@@ -1837,6 +1837,7 @@
       "minecraft:birch_forest": "2025-03-04 01:28:16 +0000",
       "minecraft:bamboo_jungle": "2025-03-04 02:02:49 +0000",
       "minecraft:wooded_badlands": "2025-03-06 20:48:56 +0000",
+      "minecraft:badlands": "2025-03-06 21:04:26 +0000",
       "minecraft:beach": "2025-03-04 02:04:54 +0000",
       "minecraft:stony_peaks": "2025-03-04 01:30:45 +0000",
       "minecraft:dark_forest": "2025-03-04 03:20:43 +0000",
@@ -7875,6 +7876,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/cut_orange_sandstone_slab_from_orange_sandstone_stonecutting": {
+    "criteria": {
+      "has_orange_sandstone": "2025-03-06 21:03:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_coffee_table": {
     "criteria": {
       "has_log": "2025-03-06 20:27:57 +0000"
@@ -7929,9 +7936,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/orange_sandstone_slab": {
+    "criteria": {
+      "has_orange_sandstone": "2025-03-06 21:03:14 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_chestplate": {
     "criteria": {
       "has_item": "2025-03-06 20:43:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/cut_orange_sandstone": {
+    "criteria": {
+      "has_orange_sandstone": "2025-03-06 21:03:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/smooth_orange_sandstone": {
+    "criteria": {
+      "has_orange_sandstone": "2025-03-06 21:03:14 +0000"
     },
     "done": true
   },
@@ -8067,9 +8092,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-06 21:06:53 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_gray_helmet": {
     "criteria": {
       "has_item": "2025-03-06 20:53:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/orange_sandstone_wall_from_orange_sandstone_stonecutting": {
+    "criteria": {
+      "has_orange_sandstone": "2025-03-06 21:03:14 +0000"
     },
     "done": true
   },
@@ -8124,6 +8161,12 @@
   "cfm:recipes/decorations/stripped_warped_upgraded_fence": {
     "criteria": {
       "has_log": "2025-03-06 20:27:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/chiseled_orange_sandstone": {
+    "criteria": {
+      "has_orange_sandstone": "2025-03-06 21:03:14 +0000"
     },
     "done": true
   },
@@ -8199,15 +8242,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/cut_orange_sandstone_from_orange_sandstone_stonecutting": {
+    "criteria": {
+      "has_orange_sandstone": "2025-03-06 21:03:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-03-06 20:27:57 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/chiseled_orange_sandstone_from_orange_sandstone_stonecutting": {
+    "criteria": {
+      "has_orange_sandstone": "2025-03-06 21:03:14 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2025-03-06 19:14:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/orange_sandstone_slab_from_orange_sandstone_stonecutting": {
+    "criteria": {
+      "has_orange_sandstone": "2025-03-06 21:03:14 +0000"
     },
     "done": true
   },
@@ -8220,6 +8281,18 @@
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-03-06 20:02:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/orange_sandstone_stairs_from_orange_sandstone_stonecutting": {
+    "criteria": {
+      "has_orange_sandstone": "2025-03-06 21:03:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/orange_sandstone_wall": {
+    "criteria": {
+      "has_orange_sandstone": "2025-03-06 21:03:14 +0000"
     },
     "done": true
   },
@@ -8271,6 +8344,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/orange_sandstone_stairs": {
+    "criteria": {
+      "has_orange_sandstone": "2025-03-06 21:03:14 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
     "criteria": {
       "has_dragonscales_red": "2025-03-06 20:43:29 +0000"
@@ -8280,6 +8359,12 @@
   "cfm:recipes/decorations/stripped_warped_crate": {
     "criteria": {
       "has_log": "2025-03-06 20:27:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-03-06 21:07:02 +0000"
     },
     "done": true
   },
@@ -8334,6 +8419,12 @@
   "nova_structures:adventure/find_pillager_outpost": {
     "criteria": {
       "minecraft:pillager_outpost": "2025-03-06 19:18:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-03-06 21:07:02 +0000"
     },
     "done": true
   },

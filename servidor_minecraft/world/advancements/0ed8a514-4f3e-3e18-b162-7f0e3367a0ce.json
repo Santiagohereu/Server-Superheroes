@@ -824,6 +824,7 @@
       "minecraft:eroded_badlands": "2025-03-04 05:01:36 +0000",
       "minecraft:birch_forest": "2025-03-04 23:54:51 +0000",
       "minecraft:wooded_badlands": "2025-03-06 20:48:48 +0000",
+      "minecraft:badlands": "2025-03-06 21:04:46 +0000",
       "minecraft:beach": "2025-03-04 02:06:01 +0000",
       "minecraft:dark_forest": "2025-03-05 23:13:25 +0000",
       "minecraft:sparse_jungle": "2025-03-04 04:41:06 +0000",
@@ -9070,6 +9071,72 @@
   "iceandfire:recipes/misc/bestiary": {
     "criteria": {
       "has_item": "2025-03-06 20:54:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2025-03-06 21:05:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2025-03-06 21:06:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/orange_sandstone": {
+    "criteria": {
+      "has_orange_sand": "2025-03-06 21:03:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-03-06 21:06:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2025-03-06 21:05:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2025-03-06 21:05:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-06 21:05:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2025-03-06 21:06:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-06 21:06:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2025-03-06 21:05:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2025-03-06 21:06:57 +0000"
     },
     "done": true
   },
