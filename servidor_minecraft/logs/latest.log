@@ -1777,3 +1777,18 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [06Mar2025 04:13:45.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Camaila04) moved wrongly! 1.9101668130576854
 [06Mar2025 04:16:12.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki fell from a high place
 [06Mar2025 04:17:53.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki burned to death
+[06Mar2025 04:21:03.071] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 lost connection: Disconnected
+[06Mar2025 04:21:03.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 left the game
+[06Mar2025 04:21:16.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki was punctured to death
+[06Mar2025 04:22:38.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki hit the ground too hard
+[06Mar2025 04:22:50.695] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=76, z=9}
+[06Mar2025 04:22:51.619] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=76, z=9}
+[06Mar2025 04:23:11.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved wrongly!
+[06Mar2025 04:26:02.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=198, y=54, z=321} BlockPos{x=197, y=53, z=321}
+[06Mar2025 04:26:02.542] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=198, y=54, z=321} BlockPos{x=197, y=53, z=321}
+[06Mar2025 04:26:02.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=198, y=54, z=321} BlockPos{x=197, y=53, z=321}
+[06Mar2025 04:26:02.643] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=198, y=54, z=321} BlockPos{x=197, y=53, z=321}
+[06Mar2025 04:26:02.720] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=198, y=54, z=321} BlockPos{x=197, y=53, z=321}
+[06Mar2025 04:26:02.741] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=198, y=54, z=321} BlockPos{x=197, y=53, z=321}
+[06Mar2025 04:27:14.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki fell from a high place
+[06Mar2025 04:27:35.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Saniago23: Teleported Todoroxki to Saniago23]

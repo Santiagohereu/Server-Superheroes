@@ -7742,6 +7742,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/strider_mount_upgrade": {
+    "criteria": {
+      "has_tear": "2025-03-06 04:24:17 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/magic_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-06 03:10:20 +0000"
