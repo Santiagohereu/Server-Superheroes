@@ -1568,3 +1568,10 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [06Mar2025 18:20:52.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
 [06Mar2025 18:21:44.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
 [06Mar2025 18:25:10.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has made the advancement [Becoming The Impossible]
+[06Mar2025 18:25:52.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Saniago23: Made Camaila04 a server operator]
+[06Mar2025 18:26:04.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Saniago23: Made Camaila04 no longer a server operator]
+[06Mar2025 18:28:46.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Saniago23: Gave 1 [Nether Star] to Todoroxki]
+[06Mar2025 18:29:23.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Saniago23: Gave 1 [Dark Matter Capsule] to Todoroxki]
+[06Mar2025 18:33:25.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Becoming The Impossible]
+[06Mar2025 18:33:31.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[06Mar2025 18:33:39.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!

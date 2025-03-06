@@ -8469,6 +8469,12 @@
     },
     "done": true
   },
+  "rats:recipes/food/plague_stew": {
+    "criteria": {
+      "has_bowl": "2025-03-06 18:26:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_desk": {
     "criteria": {
       "has_log": "2025-03-06 18:16:14 +0000"
@@ -8541,6 +8547,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-03-06 18:26:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-03-06 18:18:52 +0000"
@@ -8601,6 +8613,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-03-06 18:26:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_desk_cabinet": {
     "criteria": {
       "has_log": "2025-03-06 18:16:14 +0000"
@@ -8640,6 +8658,12 @@
   "cfm:recipes/decorations/stripped_spruce_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-03-06 18:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-03-06 18:26:46 +0000"
     },
     "done": true
   },
