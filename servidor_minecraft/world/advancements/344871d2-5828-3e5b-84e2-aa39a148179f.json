@@ -7860,5 +7860,108 @@
     },
     "done": true
   },
+  "speedforce_by_yofadda:adv_master_chemist": {
+    "criteria": {
+      "adv_master_chemist_1": "2025-03-06 05:09:19 +0000",
+      "adv_master_chemist_0": "2025-03-06 05:08:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_yellow_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-03-06 05:14:36 +0000"
+    },
+    "done": true
+  },
+  "speedforce_by_yofadda:adva_key_to_the_unknown": {
+    "criteria": {
+      "adva_key_to_the_unknown_0": "2025-03-06 05:16:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_yellow_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-03-06 05:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-03-06 05:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-06 05:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-06 05:14:36 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/hammock_dyed_yellow": {
+    "criteria": {
+      "has_dye": "2025-03-06 05:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-06 05:14:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_yellow_dye": {
+    "criteria": {
+      "forge:dyes/yellow": "2025-03-06 05:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-06 05:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-03-06 05:14:36 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/igloos/rat_igloo_yellow": {
+    "criteria": {
+      "has_dye": "2025-03-06 05:14:36 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/yellow_industrial_lamp": {
+    "criteria": {
+      "has_yellow_industrial_lamp": "2025-03-06 05:14:36 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/tubes/rat_tube_yellow": {
+    "criteria": {
+      "has_dye": "2025-03-06 05:14:36 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_yellow_industrial_lamp": {
+    "criteria": {
+      "has_small_yellow_industrial_lamp": "2025-03-06 05:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-06 05:14:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

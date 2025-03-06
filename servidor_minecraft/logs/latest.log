@@ -1817,3 +1817,4 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [06Mar2025 05:06:16.140] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Todoroxki run scoreboard players set .sang FSang.Gamerule.symbiote 1
 [06Mar2025 05:06:56.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Local Brewery]
 [06Mar2025 05:09:19.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Master Chemist]
+[06Mar2025 05:16:48.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [A Key To The Unknown]
