@@ -7307,6 +7307,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-03-06 04:37:23 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/hellbark_planks": {
     "criteria": {
       "has_logs": "2025-03-06 04:20:30 +0000"
@@ -7316,6 +7322,12 @@
   "cfm:recipes/decorations/crimson_cabinet": {
     "criteria": {
       "has_planks": "2025-03-06 04:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-03-06 04:37:23 +0000"
     },
     "done": true
   },
@@ -7376,6 +7388,18 @@
   "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-03-06 04:11:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_crate": {
+    "criteria": {
+      "has_planks": "2025-03-06 04:37:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-06 04:37:23 +0000"
     },
     "done": true
   },
@@ -7481,6 +7505,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-06 04:37:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2025-03-06 04:08:22 +0000"
@@ -7490,6 +7520,18 @@
   "biomesoplenty:recipes/redstone/hellbark_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-06 04:20:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-03-06 04:37:23 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-03-06 04:30:20 +0000"
     },
     "done": true
   },
@@ -7583,9 +7625,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_desk": {
+    "criteria": {
+      "has_planks": "2025-03-06 04:37:23 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/cheese_banner_pattern": {
     "criteria": {
       "has_paper": "2025-03-06 04:05:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_table": {
+    "criteria": {
+      "has_planks": "2025-03-06 04:37:23 +0000"
     },
     "done": true
   },
@@ -7607,6 +7661,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_blinds": {
+    "criteria": {
+      "has_log": "2025-03-06 04:37:23 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/plague_doctorate": {
     "criteria": {
       "has_paper": "2025-03-06 04:05:47 +0000"
@@ -7625,15 +7685,39 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-03-06 04:37:23 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/biomesoplenty/sign_post_hellbark": {
     "criteria": {
       "has_planks": "2025-03-06 04:20:53 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-03-06 04:37:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-03-06 04:37:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2025-03-06 03:40:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-06 04:37:23 +0000"
     },
     "done": true
   },
@@ -7646,6 +7730,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-03-06 04:05:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_chair": {
+    "criteria": {
+      "has_planks": "2025-03-06 04:37:23 +0000"
     },
     "done": true
   },
@@ -7664,6 +7754,12 @@
   "biomesoplenty:recipes/building_blocks/hellbark_wood": {
     "criteria": {
       "has_log": "2025-03-06 04:20:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_park_bench": {
+    "criteria": {
+      "has_log": "2025-03-06 04:37:23 +0000"
     },
     "done": true
   },

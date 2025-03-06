@@ -7742,6 +7742,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_blinds": {
+    "criteria": {
+      "has_log": "2025-03-06 04:35:17 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/strider_mount_upgrade": {
     "criteria": {
       "has_tear": "2025-03-06 04:24:17 +0000"
@@ -7799,6 +7805,12 @@
   "nethersdelight:recipes/decorations/nether_brick_smoker": {
     "criteria": {
       "has_nether_bricks": "2025-03-06 04:10:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-03-06 04:35:17 +0000"
     },
     "done": true
   },
@@ -7946,6 +7958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-06 04:35:17 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_chestplate_repairing": {
     "criteria": {
       "has_golden_chestplate": "2025-03-06 03:12:25 +0000"
@@ -8033,6 +8051,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-03-06 04:10:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-03-06 04:35:17 +0000"
     },
     "done": true
   },
