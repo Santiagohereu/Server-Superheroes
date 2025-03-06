@@ -1574,6 +1574,7 @@
       "minecraft:phantom": "2025-03-05 20:55:52 +0000",
       "minecraft:zombified_piglin": "2025-03-06 02:16:39 +0000",
       "minecraft:witch": "2025-03-06 19:41:59 +0000",
+      "minecraft:wither_skeleton": "2025-03-06 20:13:12 +0000",
       "minecraft:cave_spider": "2025-03-04 02:52:06 +0000",
       "minecraft:piglin": "2025-03-05 21:42:28 +0000",
       "minecraft:enderman": "2025-03-05 20:12:43 +0000",
@@ -7455,7 +7456,8 @@
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:infernal_dunes": "2025-03-05 21:32:04 +0000",
-      "incendium:quartz_flats": "2025-03-06 03:37:09 +0000"
+      "incendium:quartz_flats": "2025-03-06 03:37:09 +0000",
+      "incendium:withered_forest": "2025-03-06 20:12:52 +0000"
     },
     "done": false
   },
@@ -7897,6 +7899,12 @@
     },
     "done": true
   },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2025-03-06 20:12:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-03-06 19:55:06 +0000"
@@ -7996,6 +8004,12 @@
   "farmersdelight:recipes/food/milk_bottle": {
     "criteria": {
       "has_milk_bucket": "2025-03-06 19:30:58 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-03-06 20:09:42 +0000"
     },
     "done": true
   },
