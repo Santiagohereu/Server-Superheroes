@@ -8469,6 +8469,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_blinds": {
+    "criteria": {
+      "has_log": "2025-03-06 18:52:59 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/food/plague_stew": {
     "criteria": {
       "has_bowl": "2025-03-06 18:26:46 +0000"
@@ -8487,6 +8493,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-06 18:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-06 18:45:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-03-06 18:18:52 +0000"
@@ -8496,6 +8514,12 @@
   "cfm:recipes/decorations/stripped_spruce_cabinet": {
     "criteria": {
       "has_log": "2025-03-06 18:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-03-06 18:52:59 +0000"
     },
     "done": true
   },
@@ -8514,6 +8538,12 @@
   "supplementaries:recipes/sign_post_spruce": {
     "criteria": {
       "has_the_recipe": "2025-03-06 18:18:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-03-06 18:49:50 +0000"
     },
     "done": true
   },
@@ -8538,6 +8568,18 @@
   "cfm:recipes/decorations/spruce_park_bench": {
     "criteria": {
       "has_log": "2025-03-06 18:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-06 18:45:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_blinds": {
+    "criteria": {
+      "has_log": "2025-03-06 18:45:53 +0000"
     },
     "done": true
   },
@@ -8577,6 +8619,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-03-06 18:45:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_log": "2025-03-06 18:16:14 +0000"
@@ -8586,6 +8634,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-03-06 18:16:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-03-06 18:52:59 +0000"
     },
     "done": true
   },
