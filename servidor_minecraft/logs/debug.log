@@ -11722,3 +11722,24 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [06Mar2025 21:30:01.240] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_cleric
 [06Mar2025 21:30:03.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Jennifer Dumped Me]
 [06Mar2025 21:30:21.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bryanc2613> xaero-waypoint:Hydra:H:1970:~:5363:2:false:0:External
+[06Mar2025 21:31:12.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has made the advancement [Herc was on a Roll!]
+[06Mar2025 21:31:22.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2160ms or 43 ticks behind
+[06Mar2025 21:32:17.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [Herc was on a Roll!]
+[06Mar2025 21:33:17.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has made the advancement [Chompy]
+[06Mar2025 21:33:26.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[06Mar2025 21:33:26.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[06Mar2025 21:34:36.353] [pool-9-thread-8/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos BlockPos{x=2555, y=69, z=5851}
+[06Mar2025 21:34:38.092] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2555, y=69, z=5851} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=true,waterlogged=false,west=false] at location
+[06Mar2025 21:34:38.093] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=2555, y=69, z=5851}
+[06Mar2025 21:35:50.561] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:illusioner_tower/tower_1
+[06Mar2025 21:37:35.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has made the advancement [Mine? Mine? Mine?]
+[06Mar2025 21:38:00.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Mine? Mine? Mine?]
+[06Mar2025 21:38:26.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[06Mar2025 21:38:26.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[06Mar2025 21:38:27.578] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_11b
+[06Mar2025 21:38:31.899] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Mar2025 21:38:36.961] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_22
+[06Mar2025 21:40:08.086] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Mar2025 21:40:15.099] [Worker-Main-157/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/temple/desert_ruins_temple_main_start
+[06Mar2025 21:40:50.078] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2826, y=50, z=5624} BlockPos{x=2826, y=49, z=5624}
+[06Mar2025 21:41:09.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Sea? Not a Problem]

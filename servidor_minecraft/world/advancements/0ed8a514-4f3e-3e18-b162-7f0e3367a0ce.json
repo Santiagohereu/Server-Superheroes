@@ -844,6 +844,7 @@
       "minecraft:forest": "2025-03-03 22:55:38 +0000",
       "minecraft:desert": "2025-03-04 04:48:28 +0000",
       "minecraft:jungle": "2025-03-04 04:40:44 +0000",
+      "minecraft:ocean": "2025-03-06 21:36:50 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-04 04:29:03 +0000",
       "minecraft:warm_ocean": "2025-03-04 23:51:39 +0000",
       "minecraft:flower_forest": "2025-03-05 03:30:06 +0000",
@@ -9092,9 +9093,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-06 21:33:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
     "criteria": {
       "has_dragonscales_copper": "2025-03-06 21:05:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-06 21:32:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-06 21:32:01 +0000"
     },
     "done": true
   },
@@ -9104,9 +9123,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-06 21:32:01 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/orange_sandstone": {
     "criteria": {
       "has_orange_sand": "2025-03-06 21:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-06 21:32:01 +0000"
     },
     "done": true
   },
@@ -9116,9 +9147,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-06 21:32:01 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_witch_villa": {
     "criteria": {
       "nova_structures:witch_villa": "2025-03-06 21:24:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-03-06 21:33:17 +0000"
     },
     "done": true
   },
@@ -9128,9 +9171,33 @@
     },
     "done": true
   },
+  "grave.core:recipes/copper_wires": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-06 21:32:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_boots": {
     "criteria": {
       "has_item": "2025-03-06 21:05:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-03-06 21:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-06 21:30:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-03-06 21:33:17 +0000"
     },
     "done": true
   },
@@ -9140,9 +9207,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-03-06 21:33:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
     "criteria": {
       "has_sea_serpent_scales_red": "2025-03-06 21:06:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-03-06 21:37:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-03-06 21:33:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-06 21:30:55 +0000"
     },
     "done": true
   },
@@ -9164,6 +9255,18 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-03-06 21:30:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-03-06 21:37:02 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_leggings": {
     "criteria": {
       "has_item": "2025-03-06 21:05:28 +0000"
@@ -9173,6 +9276,12 @@
   "iceandfire:recipes/combat/tide_red_helmet": {
     "criteria": {
       "has_item": "2025-03-06 21:06:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-03-06 21:32:01 +0000"
     },
     "done": true
   },

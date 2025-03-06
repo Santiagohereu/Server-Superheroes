@@ -134,11 +134,14 @@
       "rocky_shrubland": "2025-03-06 21:27:23 +0000",
       "scrubland": "2025-03-04 01:52:25 +0000",
       "fungal_jungle": "2025-03-06 21:09:43 +0000",
+      "bayou": "2025-03-06 21:30:39 +0000",
       "erupting_inferno": "2025-03-06 19:21:14 +0000",
       "floodplain": "2025-03-04 02:01:41 +0000",
       "lush_savanna": "2025-03-04 05:10:15 +0000",
       "highland": "2025-03-03 23:26:53 +0000",
       "jacaranda_glade": "2025-03-04 01:26:09 +0000",
+      "marsh": "2025-03-06 21:29:33 +0000",
+      "mystic_grove": "2025-03-06 21:28:59 +0000",
       "old_growth_woodland": "2025-03-04 01:52:24 +0000",
       "maple_woods": "2025-03-03 23:16:54 +0000",
       "crystalline_chasm": "2025-03-05 21:25:44 +0000",
@@ -146,6 +149,7 @@
       "field": "2025-03-03 23:29:49 +0000",
       "orchard": "2025-03-04 01:23:34 +0000",
       "overgrown_greens": "2025-03-04 02:03:58 +0000",
+      "moor": "2025-03-06 21:29:09 +0000",
       "coniferous_forest": "2025-03-03 18:33:00 +0000",
       "spider_nest": "2025-03-04 02:42:58 +0000",
       "dryland": "2025-03-04 04:57:38 +0000",
@@ -1843,6 +1847,7 @@
       "minecraft:beach": "2025-03-04 02:04:54 +0000",
       "minecraft:stony_peaks": "2025-03-04 01:30:45 +0000",
       "minecraft:dark_forest": "2025-03-04 03:20:43 +0000",
+      "minecraft:mangrove_swamp": "2025-03-06 21:30:35 +0000",
       "minecraft:sparse_jungle": "2025-03-04 02:02:13 +0000",
       "minecraft:river": "2025-03-03 22:36:54 +0000",
       "minecraft:lukewarm_ocean": "2025-03-04 05:18:59 +0000",
@@ -1850,10 +1855,12 @@
       "minecraft:snowy_plains": "2025-03-03 22:47:42 +0000",
       "minecraft:snowy_taiga": "2025-03-03 22:47:46 +0000",
       "minecraft:dripstone_caves": "2025-03-04 03:12:22 +0000",
+      "minecraft:swamp": "2025-03-06 21:30:30 +0000",
       "minecraft:cold_ocean": "2025-03-04 20:06:26 +0000",
       "minecraft:forest": "2025-03-03 22:47:27 +0000",
       "minecraft:desert": "2025-03-04 05:03:04 +0000",
       "minecraft:jungle": "2025-03-04 01:28:31 +0000",
+      "minecraft:ocean": "2025-03-06 21:36:15 +0000",
       "minecraft:warm_ocean": "2025-03-04 05:17:02 +0000",
       "minecraft:flower_forest": "2025-03-06 18:05:51 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-04 02:02:37 +0000",
@@ -7938,6 +7945,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_purple_helmet": {
+    "criteria": {
+      "has_item": "2025-03-06 21:36:24 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/orange_sandstone_slab": {
     "criteria": {
       "has_orange_sandstone": "2025-03-06 21:03:14 +0000"
@@ -7962,6 +7975,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-06 21:31:24 +0000"
+    },
+    "done": true
+  },
   "incendium:withered_forest/root": {
     "criteria": {
       "requirement": "2025-03-06 20:12:52 +0000"
@@ -7971,6 +7990,12 @@
   "cfm:recipes/decorations/stripped_warped_cabinet": {
     "criteria": {
       "has_planks": "2025-03-06 20:27:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-03-06 21:31:24 +0000"
     },
     "done": true
   },
@@ -8010,15 +8035,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-06 21:32:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-03-06 19:39:57 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_purple_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-06 21:36:24 +0000"
+    },
+    "done": true
+  },
   "incendium:quartz_flats/sanctum/root": {
     "criteria": {
       "requirement": "2025-03-06 20:20:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-06 21:32:53 +0000"
     },
     "done": true
   },
@@ -8052,6 +8095,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-06 21:32:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-03-06 19:30:58 +0000"
@@ -8076,6 +8125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-06 21:32:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_upgraded_fence": {
     "criteria": {
       "has_log": "2025-03-06 19:18:14 +0000"
@@ -8094,9 +8149,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-06 21:32:53 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_sea_serpent": {
     "criteria": {
       "killed_fire_dragon": "2025-03-06 21:06:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-06 21:32:17 +0000"
     },
     "done": true
   },
@@ -8151,6 +8218,12 @@
   "iceandfire:recipes/combat/armor_red_leggings": {
     "criteria": {
       "has_item": "2025-03-06 20:43:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2025-03-06 21:31:24 +0000"
     },
     "done": true
   },
@@ -8214,6 +8287,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
+    "criteria": {
+      "has_sea_serpent_scales_purple": "2025-03-06 21:36:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-03-06 20:17:34 +0000"
@@ -8262,6 +8341,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_purple_leggings": {
+    "criteria": {
+      "has_item": "2025-03-06 21:36:24 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2025-03-06 19:14:31 +0000"
@@ -8271,6 +8356,12 @@
   "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
       "tool": "2025-03-06 21:23:54 +0000"
+    },
+    "done": true
+  },
+  "grave.core:recipes/copper_wires": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-06 21:32:53 +0000"
     },
     "done": true
   },
@@ -8313,6 +8404,12 @@
   "cfm:recipes/decorations/stripped_spruce_upgraded_fence": {
     "criteria": {
       "has_log": "2025-03-06 19:06:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-03-06 21:31:24 +0000"
     },
     "done": true
   },
@@ -8394,6 +8491,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/willow_planks": {
+    "criteria": {
+      "has_logs": "2025-03-06 21:30:48 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sugar_cube": {
     "criteria": {
       "has_sugar": "2025-03-06 19:42:00 +0000"
@@ -8424,6 +8527,24 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/willow_wood": {
+    "criteria": {
+      "has_log": "2025-03-06 21:30:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2025-03-06 21:28:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_boots": {
+    "criteria": {
+      "has_item": "2025-03-06 21:36:24 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_pillager_outpost": {
     "criteria": {
       "minecraft:pillager_outpost": "2025-03-06 19:18:07 +0000"
@@ -8442,9 +8563,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-03-06 21:31:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_blinds": {
     "criteria": {
       "has_log": "2025-03-06 20:27:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-03-06 21:32:53 +0000"
     },
     "done": true
   },
