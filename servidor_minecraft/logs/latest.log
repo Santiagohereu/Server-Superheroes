@@ -1585,3 +1585,16 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [06Mar2025 18:43:31.303] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki lost connection: Disconnected
 [06Mar2025 18:43:31.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki left the game
 [06Mar2025 18:46:07.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[06Mar2025 18:56:23.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[06Mar2025 18:57:09.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[06Mar2025 19:00:19.769] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 lost connection: Disconnected
+[06Mar2025 19:00:19.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 left the game
+[06Mar2025 19:00:39.333] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bryanc2613[/127.151.40.125:51527] logged in with entity id 15544 at (-474.050620498042, 67.0, 1787.407838113027)
+[06Mar2025 19:00:39.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 joined the game
+[06Mar2025 19:00:39.801] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (177b1dde-845c-310f-a419-31a16cd111c0)
+[06Mar2025 19:00:39.801] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[06Mar2025 19:00:39.802] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: bryanc2613
+[06Mar2025 19:00:39.802] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as bryanc2613 run scoreboard objectives add FSang.Gamerule.item dummy
+[06Mar2025 19:00:39.802] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as bryanc2613 run scoreboard players set .sang FSang.Gamerule.item 1
+[06Mar2025 19:00:39.802] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as bryanc2613 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[06Mar2025 19:00:39.802] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as bryanc2613 run scoreboard players set .sang FSang.Gamerule.symbiote 1
