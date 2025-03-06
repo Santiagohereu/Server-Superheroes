@@ -1839,6 +1839,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-03-03 23:38:24 +0000",
+      "minecraft:deep_ocean": "2025-03-06 21:40:08 +0000",
       "minecraft:eroded_badlands": "2025-03-04 05:00:58 +0000",
       "minecraft:birch_forest": "2025-03-04 01:28:16 +0000",
       "minecraft:bamboo_jungle": "2025-03-04 02:02:49 +0000",
@@ -7969,9 +7970,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2025-03-06 21:54:59 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/smooth_orange_sandstone": {
     "criteria": {
       "has_orange_sandstone": "2025-03-06 21:03:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-06 21:41:08 +0000"
     },
     "done": true
   },
@@ -8032,6 +8045,12 @@
   "cfm:recipes/decorations/stripped_warped_desk_cabinet": {
     "criteria": {
       "has_log": "2025-03-06 20:27:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_leggings": {
+    "criteria": {
+      "has_item": "2025-03-06 21:41:08 +0000"
     },
     "done": true
   },
@@ -8131,6 +8150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-03-06 21:41:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_upgraded_fence": {
     "criteria": {
       "has_log": "2025-03-06 19:18:14 +0000"
@@ -8212,6 +8237,18 @@
   "rats:recipes/food/cooked_rat_campfire": {
     "criteria": {
       "has_rat": "2025-03-06 19:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
+    "criteria": {
+      "has_kelp": "2025-03-06 21:41:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_boots": {
+    "criteria": {
+      "has_item": "2025-03-06 21:41:08 +0000"
     },
     "done": true
   },
@@ -8311,9 +8348,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2025-03-06 21:54:59 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/milk_bottle": {
     "criteria": {
       "has_milk_bucket": "2025-03-06 19:30:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-03-06 21:41:10 +0000"
     },
     "done": true
   },
@@ -8332,6 +8381,12 @@
   "cfm:recipes/decorations/stripped_warped_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-03-06 20:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-03-06 21:41:10 +0000"
     },
     "done": true
   },
@@ -8368,6 +8423,18 @@
   "biomesoplenty:recipes/building_blocks/orange_sandstone_slab_from_orange_sandstone_stonecutting": {
     "criteria": {
       "has_orange_sandstone": "2025-03-06 21:03:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-06 21:41:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2025-03-06 21:54:59 +0000"
     },
     "done": true
   },
@@ -8431,6 +8498,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-03-06 21:53:23 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/beast_mount_upgrade": {
     "criteria": {
       "has_essence": "2025-03-06 19:26:53 +0000"
@@ -8452,6 +8525,18 @@
   "biomesoplenty:recipes/building_blocks/orange_sandstone_stairs": {
     "criteria": {
       "has_orange_sandstone": "2025-03-06 21:03:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-03-06 21:53:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-06 21:54:59 +0000"
     },
     "done": true
   },
@@ -8479,6 +8564,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_teal_helmet": {
+    "criteria": {
+      "has_item": "2025-03-06 21:41:08 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/amphithere_arrow": {
     "criteria": {
       "has_item": "2025-03-06 20:51:08 +0000"
@@ -8488,6 +8579,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-03-06 19:18:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
+    "criteria": {
+      "has_sea_serpent_scales_teal": "2025-03-06 21:41:08 +0000"
     },
     "done": true
   },
@@ -8533,6 +8630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-03-06 21:41:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_sword_fire": {
     "criteria": {
       "has_item": "2025-03-06 21:28:40 +0000"
@@ -8572,6 +8675,12 @@
   "cfm:recipes/decorations/stripped_warped_blinds": {
     "criteria": {
       "has_log": "2025-03-06 20:27:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2025-03-06 21:54:59 +0000"
     },
     "done": true
   },

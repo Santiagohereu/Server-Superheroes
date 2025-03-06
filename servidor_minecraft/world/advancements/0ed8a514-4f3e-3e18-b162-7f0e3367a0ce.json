@@ -833,6 +833,7 @@
       "minecraft:mangrove_swamp": "2025-03-06 21:24:24 +0000",
       "minecraft:sparse_jungle": "2025-03-04 04:41:06 +0000",
       "minecraft:river": "2025-03-03 22:49:34 +0000",
+      "minecraft:lukewarm_ocean": "2025-03-06 21:48:45 +0000",
       "minecraft:snowy_plains": "2025-03-03 22:55:29 +0000",
       "minecraft:stony_shore": "2025-03-03 22:38:16 +0000",
       "minecraft:snowy_taiga": "2025-03-03 22:55:32 +0000",
@@ -9093,6 +9094,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_purple_helmet": {
+    "criteria": {
+      "has_item": "2025-03-06 21:43:13 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_chestplate": {
     "criteria": {
       "has_item": "2025-03-06 21:33:17 +0000"
@@ -9105,9 +9112,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_teal_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-06 21:43:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-06 21:43:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-03-06 21:43:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_leggings": {
+    "criteria": {
+      "has_item": "2025-03-06 21:43:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-03-06 21:32:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-06 21:43:13 +0000"
     },
     "done": true
   },
@@ -9135,9 +9172,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-03-06 21:39:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-03-06 21:32:01 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/combat/piper_hat": {
+    "criteria": {
+      "has_feather": "2025-03-06 21:39:05 +0000"
     },
     "done": true
   },
@@ -9153,9 +9202,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-06 21:41:09 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_witch_villa": {
     "criteria": {
       "nova_structures:witch_villa": "2025-03-06 21:24:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_boots": {
+    "criteria": {
+      "has_item": "2025-03-06 21:43:02 +0000"
     },
     "done": true
   },
@@ -9165,9 +9226,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2025-03-06 21:43:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
+    "criteria": {
+      "has_sea_serpent_scales_purple": "2025-03-06 21:43:13 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_helmet": {
     "criteria": {
       "has_item": "2025-03-06 21:05:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_leggings": {
+    "criteria": {
+      "has_item": "2025-03-06 21:43:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-03-06 21:39:05 +0000"
     },
     "done": true
   },
@@ -9186,6 +9271,12 @@
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-03-06 21:38:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-03-06 21:43:11 +0000"
     },
     "done": true
   },
@@ -9231,9 +9322,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_teal_helmet": {
+    "criteria": {
+      "has_item": "2025-03-06 21:43:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-03-06 21:30:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
+    "criteria": {
+      "has_sea_serpent_scales_teal": "2025-03-06 21:43:02 +0000"
     },
     "done": true
   },
@@ -9255,6 +9358,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-03-06 21:42:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_boots": {
+    "criteria": {
+      "has_item": "2025-03-06 21:43:13 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_foliaath": {
     "criteria": {
       "foliaath": "2025-03-06 21:30:03 +0000"
@@ -9264,6 +9379,12 @@
   "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2025-03-06 21:37:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-03-06 21:43:11 +0000"
     },
     "done": true
   },
