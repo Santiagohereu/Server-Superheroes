@@ -7854,30 +7854,6 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/birch_cabinet": {
-    "criteria": {
-      "has_log": "2025-03-06 05:35:14 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/birch_desk_cabinet": {
-    "criteria": {
-      "has_log": "2025-03-06 05:35:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_bed": {
-    "criteria": {
-      "has_purple_wool": "2025-03-06 05:22:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2025-03-06 05:36:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-03-06 05:06:56 +0000"
@@ -7897,39 +7873,9 @@
     },
     "done": true
   },
-  "speedforce_by_yofadda:adva_key_to_the_unknown": {
-    "criteria": {
-      "adva_key_to_the_unknown_0": "2025-03-06 05:16:48 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/dye_yellow_picket_fence": {
     "criteria": {
       "has_dye": "2025-03-06 05:14:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_door": {
-    "criteria": {
-      "has_planks": "2025-03-06 05:36:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_fence": {
-    "criteria": {
-      "has_planks": "2025-03-06 05:36:02 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/birch_table": {
-    "criteria": {
-      "has_log": "2025-03-06 05:35:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-03-06 05:15:49 +0000"
     },
     "done": true
   },
@@ -7939,63 +7885,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/birch_sign": {
-    "criteria": {
-      "has_planks": "2025-03-06 05:36:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-03-06 05:35:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_yellow_wool": {
     "criteria": {
       "has_needed_dye": "2025-03-06 05:14:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-03-06 05:36:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_carpet": {
-    "criteria": {
-      "has_purple_wool": "2025-03-06 05:22:57 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/birch_blinds": {
-    "criteria": {
-      "has_log": "2025-03-06 05:35:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_slab": {
-    "criteria": {
-      "has_planks": "2025-03-06 05:36:02 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_birch_chair": {
-    "criteria": {
-      "has_planks": "2025-03-06 05:35:14 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/birch_desk": {
-    "criteria": {
-      "has_log": "2025-03-06 05:35:14 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_birch": {
-    "criteria": {
-      "has_planks": "2025-03-06 05:36:02 +0000"
     },
     "done": true
   },
@@ -8005,33 +7897,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2025-03-06 05:36:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-03-06 05:35:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_yellow_dye": "2025-03-06 05:14:36 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/birch_bedside_cabinet": {
-    "criteria": {
-      "has_log": "2025-03-06 05:35:14 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/birch_crate": {
-    "criteria": {
-      "has_log": "2025-03-06 05:35:14 +0000"
     },
     "done": true
   },
@@ -8059,15 +7927,63 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/birch_coffee_table": {
+  "ad_astra:recipes/misc/yellow_industrial_lamp": {
     "criteria": {
-      "has_log": "2025-03-06 05:35:14 +0000"
+      "has_yellow_industrial_lamp": "2025-03-06 05:14:36 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_birch_desk_cabinet": {
+  "rats:recipes/misc/tubes/rat_tube_yellow": {
     "criteria": {
-      "has_planks": "2025-03-06 05:35:14 +0000"
+      "has_dye": "2025-03-06 05:14:36 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_yellow_industrial_lamp": {
+    "criteria": {
+      "has_small_yellow_industrial_lamp": "2025-03-06 05:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-06 05:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-03-06 05:15:49 +0000"
+    },
+    "done": true
+  },
+  "speedforce_by_yofadda:adva_key_to_the_unknown": {
+    "criteria": {
+      "adva_key_to_the_unknown_0": "2025-03-06 05:16:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-03-06 05:19:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2025-03-06 05:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-03-06 05:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-03-06 05:22:57 +0000"
     },
     "done": true
   },
@@ -8077,9 +7993,93 @@
     },
     "done": true
   },
-  "aether:recipes/tools/diamond_pickaxe_repairing": {
+  "cfm:recipes/decorations/purple_sofa": {
     "criteria": {
-      "has_diamond_pickaxe": "2025-03-06 05:19:26 +0000"
+      "has_wool": "2025-03-06 05:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-03-06 05:22:57 +0000"
+    },
+    "done": true
+  },
+  "grave.core:recipes/purple_fabric": {
+    "criteria": {
+      "has_wool": "2025-03-06 05:22:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-06 05:35:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-06 05:35:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_table": {
+    "criteria": {
+      "has_log": "2025-03-06 05:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-03-06 05:35:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_blinds": {
+    "criteria": {
+      "has_log": "2025-03-06 05:35:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_chair": {
+    "criteria": {
+      "has_planks": "2025-03-06 05:35:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_desk": {
+    "criteria": {
+      "has_log": "2025-03-06 05:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-03-06 05:35:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-06 05:35:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_crate": {
+    "criteria": {
+      "has_log": "2025-03-06 05:35:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_coffee_table": {
+    "criteria": {
+      "has_log": "2025-03-06 05:35:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-06 05:35:14 +0000"
     },
     "done": true
   },
@@ -8095,18 +8095,6 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/purple_sofa": {
-    "criteria": {
-      "has_wool": "2025-03-06 05:22:57 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_birch": {
-    "criteria": {
-      "has_the_recipe": "2025-03-06 05:36:02 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_birch_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-03-06 05:35:14 +0000"
@@ -8119,18 +8107,6 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/yellow_industrial_lamp": {
-    "criteria": {
-      "has_yellow_industrial_lamp": "2025-03-06 05:14:36 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/tubes/rat_tube_yellow": {
-    "criteria": {
-      "has_dye": "2025-03-06 05:14:36 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_birch_cabinet": {
     "criteria": {
       "has_log": "2025-03-06 05:35:14 +0000"
@@ -8140,12 +8116,6 @@
   "cfm:recipes/decorations/birch_upgraded_fence": {
     "criteria": {
       "has_log": "2025-03-06 05:35:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_banner": {
-    "criteria": {
-      "has_purple_wool": "2025-03-06 05:22:57 +0000"
     },
     "done": true
   },
@@ -8185,45 +8155,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-03-06 05:36:02 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/small_yellow_industrial_lamp": {
-    "criteria": {
-      "has_small_yellow_industrial_lamp": "2025-03-06 05:14:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-03-06 05:36:02 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_birch_kitchen_counter": {
     "criteria": {
       "has_log": "2025-03-06 05:35:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+  "minecraft:recipes/redstone/birch_button": {
     "criteria": {
-      "has_needed_dye": "2025-03-06 05:14:36 +0000"
+      "has_planks": "2025-03-06 05:36:02 +0000"
     },
     "done": true
   },
-  "aether:recipes/tools/diamond_shovel_repairing": {
+  "minecraft:recipes/redstone/birch_door": {
     "criteria": {
-      "has_diamond_shovel": "2025-03-06 05:20:38 +0000"
+      "has_planks": "2025-03-06 05:36:02 +0000"
     },
     "done": true
   },
-  "grave.core:recipes/purple_fabric": {
+  "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
-      "has_wool": "2025-03-06 05:22:57 +0000"
+      "has_planks": "2025-03-06 05:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-03-06 05:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-06 05:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-03-06 05:36:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_birch": {
+    "criteria": {
+      "has_planks": "2025-03-06 05:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-06 05:36:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_birch": {
+    "criteria": {
+      "has_the_recipe": "2025-03-06 05:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-06 05:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-06 05:36:02 +0000"
     },
     "done": true
   },
