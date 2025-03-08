@@ -8701,12 +8701,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2025-03-08 02:49:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2025-03-08 02:31:07 +0000"
@@ -8722,6 +8716,234 @@
   "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
     "criteria": {
       "has_lavender": "2025-03-08 02:42:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-03-08 02:49:17 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/igloos/rat_igloo_light_gray": {
+    "criteria": {
+      "has_dye": "2025-03-08 03:16:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-03-08 03:05:37 +0000"
+    },
+    "done": true
+  },
+  "grave.core:recipes/light_gray_fabric": {
+    "criteria": {
+      "has_wool": "2025-03-08 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-08 03:02:22 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_light_gray_industrial_lamp": {
+    "criteria": {
+      "has_small_light_gray_industrial_lamp": "2025-03-08 03:16:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-03-08 02:56:50 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/dye_sponge": {
+    "criteria": {
+      "has_dye": "2025-03-08 03:16:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-08 03:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-08 03:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-03-08 03:16:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_light_gray_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-03-08 03:16:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-08 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-08 03:16:07 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/tubes/rat_tube_light_gray": {
+    "criteria": {
+      "has_dye": "2025-03-08 03:16:07 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_light_gray_dye": {
+    "criteria": {
+      "forge:dyes/light_gray": "2025-03-08 03:16:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_light_gray_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-03-08 03:16:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2025-03-08 03:16:07 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/light_gray_industrial_lamp": {
+    "criteria": {
+      "has_light_gray_industrial_lamp": "2025-03-08 03:16:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-08 03:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-08 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-08 03:16:07 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/hammock_dyed_light_gray": {
+    "criteria": {
+      "has_dye": "2025-03-08 03:16:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-03-08 03:05:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-03-08 03:05:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-03-08 03:05:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-03-08 02:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-08 03:16:07 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/placer_upgrade": {
+    "criteria": {
+      "has_cobble": "2025-03-08 03:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-03-08 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-08 03:02:22 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/light_gray_flag": {
+    "criteria": {
+      "has_light_gray_flag": "2025-03-08 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-08 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-03-08 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-03-08 03:16:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-08 03:05:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-08 03:02:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-03-08 03:05:15 +0000"
     },
     "done": true
   },

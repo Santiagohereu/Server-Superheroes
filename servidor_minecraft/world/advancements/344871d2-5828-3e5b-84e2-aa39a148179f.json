@@ -129,6 +129,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2025-03-08 03:26:50 +0000",
       "woodland": "2025-03-04 23:25:40 +0000",
       "shrubland": "2025-03-04 04:36:49 +0000",
       "rocky_shrubland": "2025-03-08 02:27:26 +0000",
@@ -136,6 +137,7 @@
       "fungal_jungle": "2025-03-08 02:14:04 +0000",
       "floodplain": "2025-03-08 02:15:23 +0000",
       "highland": "2025-03-04 04:33:53 +0000",
+      "jacaranda_glade": "2025-03-08 03:19:31 +0000",
       "mystic_grove": "2025-03-05 23:09:44 +0000",
       "old_growth_woodland": "2025-03-04 23:25:29 +0000",
       "maple_woods": "2025-03-04 04:09:53 +0000",
@@ -161,6 +163,7 @@
       "pumpkin_patch": "2025-03-04 04:07:36 +0000",
       "grassland": "2025-03-04 04:36:09 +0000",
       "prairie": "2025-03-04 23:22:36 +0000",
+      "snowy_fir_clearing": "2025-03-08 03:28:50 +0000",
       "gravel_beach": "2025-03-04 03:06:43 +0000",
       "undergrowth": "2025-03-05 21:25:02 +0000",
       "rainforest": "2025-03-04 23:25:31 +0000",
@@ -2943,6 +2946,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-03-04 04:30:50 +0000",
+      "minecraft:deep_ocean": "2025-03-08 03:10:03 +0000",
       "minecraft:sunflower_plains": "2025-03-08 02:39:38 +0000",
       "minecraft:birch_forest": "2025-03-04 04:40:00 +0000",
       "minecraft:bamboo_jungle": "2025-03-05 01:31:24 +0000",
@@ -2952,14 +2956,19 @@
       "minecraft:river": "2025-03-04 01:30:34 +0000",
       "minecraft:lukewarm_ocean": "2025-03-04 23:23:29 +0000",
       "minecraft:stony_shore": "2025-03-04 01:23:52 +0000",
+      "minecraft:snowy_plains": "2025-03-08 03:29:08 +0000",
+      "minecraft:snowy_taiga": "2025-03-08 03:28:52 +0000",
       "minecraft:grove": "2025-03-04 23:21:59 +0000",
       "minecraft:jagged_peaks": "2025-03-04 23:23:01 +0000",
       "minecraft:cold_ocean": "2025-03-04 03:57:36 +0000",
       "minecraft:forest": "2025-03-04 01:59:04 +0000",
+      "minecraft:frozen_ocean": "2025-03-08 03:27:19 +0000",
       "minecraft:desert": "2025-03-04 04:48:30 +0000",
+      "minecraft:deep_frozen_ocean": "2025-03-08 03:27:34 +0000",
       "minecraft:jungle": "2025-03-04 04:40:52 +0000",
       "minecraft:ocean": "2025-03-05 01:31:43 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-04 04:29:07 +0000",
+      "minecraft:snowy_beach": "2025-03-08 03:28:48 +0000",
       "minecraft:warm_ocean": "2025-03-04 04:52:51 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-04 23:23:38 +0000",
       "minecraft:flower_forest": "2025-03-06 04:54:39 +0000",
@@ -8354,6 +8363,114 @@
     },
     "done": true
   },
+  "rats:recipes/food/cooked_rat_smelting": {
+    "criteria": {
+      "has_rat": "2025-03-08 01:44:59 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/cooked_rat_campfire": {
+    "criteria": {
+      "has_rat": "2025-03-08 01:44:59 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/cooked_rat_smoking": {
+    "criteria": {
+      "has_rat": "2025-03-08 01:44:59 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/voodoo_upgrade": {
+    "criteria": {
+      "has_totem": "2025-03-08 01:45:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-08 01:55:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-08 01:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-03-08 02:14:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-03-08 02:22:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-08 02:22:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-03-08 02:23:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-03-08 02:23:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_smooth_stone_slab": "2025-03-08 02:39:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-03-08 02:39:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
+    "criteria": {
+      "has_tall_lavender": "2025-03-08 02:39:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-03-08 02:39:45 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/carrat_upgrade": {
+    "criteria": {
+      "has_garrot": "2025-03-08 02:41:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-03-08 02:41:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_lavender": "2025-03-08 02:42:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_park_bench": {
     "criteria": {
       "has_log": "2025-03-08 02:46:23 +0000"
@@ -8363,12 +8480,6 @@
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_counter": {
     "criteria": {
       "has_log": "2025-03-08 02:46:23 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/statue": {
-    "criteria": {
-      "has_smooth_stone_slab": "2025-03-08 02:39:21 +0000"
     },
     "done": true
   },
@@ -8390,33 +8501,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
-    "criteria": {
-      "has_tall_lavender": "2025-03-08 02:39:27 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/voodoo_upgrade": {
-    "criteria": {
-      "has_totem": "2025-03-08 01:45:48 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/food/cooked_rat_smelting": {
-    "criteria": {
-      "has_rat": "2025-03-08 01:44:59 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_dark_oak_cabinet": {
     "criteria": {
       "has_log": "2025-03-08 02:46:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_if_dragon": {
-    "criteria": {
-      "killed_fire_dragon": "2025-03-08 02:22:55 +0000"
     },
     "done": true
   },
@@ -8426,57 +8513,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_sea_serpent": {
-    "criteria": {
-      "killed_fire_dragon": "2025-03-08 01:59:31 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_stymphalian_bird": {
-    "criteria": {
-      "killed_fire_dragon": "2025-03-08 01:55:33 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_dark_oak_table": {
     "criteria": {
       "has_planks": "2025-03-08 02:46:23 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/food/cooked_rat_campfire": {
-    "criteria": {
-      "has_rat": "2025-03-08 01:44:59 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/carrat_upgrade": {
-    "criteria": {
-      "has_garrot": "2025-03-08 02:41:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
-    "criteria": {
-      "has_sunflower": "2025-03-08 02:39:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-03-08 02:39:21 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/horse_feed": {
-    "criteria": {
-      "has_golden_carrot": "2025-03-08 02:41:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2025-03-08 02:22:23 +0000"
     },
     "done": true
   },
@@ -8492,12 +8531,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/decorations/copper_pile": {
-    "criteria": {
-      "has_item": "2025-03-08 02:23:43 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_dark_oak_coffee_table": {
     "criteria": {
       "has_planks": "2025-03-08 02:46:23 +0000"
@@ -8507,12 +8540,6 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-03-08 02:46:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
-    "criteria": {
-      "has_item": "2025-03-08 02:23:43 +0000"
     },
     "done": true
   },
@@ -8528,27 +8555,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-03-08 02:14:06 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_dark_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-03-08 02:46:23 +0000"
     },
     "done": true
   },
-  "rats:recipes/food/cooked_rat_smoking": {
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
-      "has_rat": "2025-03-08 01:44:59 +0000"
+      "has_azure_bluet": "2025-03-08 03:02:38 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+  "minecraft:recipes/redstone/slime_block": {
     "criteria": {
-      "has_lavender": "2025-03-08 02:42:14 +0000"
+      "has_slime_ball": "2025-03-08 03:11:09 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-03-08 03:27:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-08 03:16:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-03-08 03:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-03-08 03:11:09 +0000"
     },
     "done": true
   },

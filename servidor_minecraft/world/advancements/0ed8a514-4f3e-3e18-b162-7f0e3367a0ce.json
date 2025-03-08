@@ -132,6 +132,7 @@
       "muskeg": "2025-03-08 02:46:35 +0000",
       "woodland": "2025-03-04 19:58:03 +0000",
       "shrubland": "2025-03-04 04:36:50 +0000",
+      "snowblossom_grove": "2025-03-08 03:25:39 +0000",
       "rocky_shrubland": "2025-03-05 02:22:34 +0000",
       "scrubland": "2025-03-04 04:45:19 +0000",
       "bayou": "2025-03-06 21:24:42 +0000",
@@ -157,11 +158,13 @@
       "dryland": "2025-03-04 04:50:30 +0000",
       "wasteland": "2025-03-04 20:48:26 +0000",
       "lush_desert": "2025-03-04 20:23:07 +0000",
+      "old_growth_dead_forest": "2025-03-08 03:25:42 +0000",
       "redwood_forest": "2025-03-04 04:37:30 +0000",
       "visceral_heap": "2025-03-05 21:23:32 +0000",
       "aspen_glade": "2025-03-03 22:47:49 +0000",
       "dune_beach": "2025-03-08 02:27:19 +0000",
       "seasonal_forest": "2025-03-03 22:28:28 +0000",
+      "dead_forest": "2025-03-08 03:25:53 +0000",
       "rocky_rainforest": "2025-03-05 00:32:32 +0000",
       "volcanic_plains": "2025-03-04 19:56:56 +0000",
       "lavender_field": "2025-03-05 00:01:00 +0000",
@@ -9512,18 +9515,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/orcas_might": {
-    "criteria": {
-      "all_effects": "2025-03-08 02:11:08 +0000"
-    },
-    "done": true
-  },
-  "weather2:recipes/misc/sand_layer": {
-    "criteria": {
-      "has_sand": "2025-03-08 02:40:39 +0000"
-    },
-    "done": true
-  },
   "rats:recipes/food/cooked_rat_smelting": {
     "criteria": {
       "has_rat": "2025-03-08 01:43:41 +0000"
@@ -9536,15 +9527,39 @@
     },
     "done": true
   },
+  "rats:recipes/food/cooked_rat_smoking": {
+    "criteria": {
+      "has_rat": "2025-03-08 01:43:41 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-03-08 02:11:08 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/ambrosia": {
     "criteria": {
       "has_item": "2025-03-08 02:21:37 +0000"
     },
     "done": true
   },
-  "rats:recipes/food/cooked_rat_smoking": {
+  "weather2:recipes/misc/sand_layer": {
     "criteria": {
-      "has_rat": "2025-03-08 01:43:41 +0000"
+      "has_sand": "2025-03-08 02:40:39 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-03-08 03:06:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2025-03-08 03:33:12 +0000"
     },
     "done": true
   },
