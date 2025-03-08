@@ -159,6 +159,7 @@
       "aspen_glade": "2025-03-04 19:56:06 +0000",
       "dune_beach": "2025-03-04 02:05:21 +0000",
       "seasonal_forest": "2025-03-03 22:26:33 +0000",
+      "volcano": "2025-03-08 05:53:42 +0000",
       "rocky_rainforest": "2025-03-04 04:57:03 +0000",
       "pasture": "2025-03-08 02:30:31 +0000",
       "volcanic_plains": "2025-03-04 04:54:18 +0000",
@@ -1867,6 +1868,7 @@
       "minecraft:desert": "2025-03-04 05:03:04 +0000",
       "minecraft:jungle": "2025-03-04 01:28:31 +0000",
       "minecraft:ocean": "2025-03-06 21:36:15 +0000",
+      "minecraft:windswept_savanna": "2025-03-08 05:52:39 +0000",
       "minecraft:warm_ocean": "2025-03-04 05:17:02 +0000",
       "minecraft:flower_forest": "2025-03-06 18:05:51 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-04 02:02:37 +0000",
@@ -7359,7 +7361,8 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "phantom": "2025-03-05 20:55:52 +0000"
+      "phantom": "2025-03-05 20:55:52 +0000",
+      "warden": "2025-03-08 04:38:45 +0000"
     },
     "done": false
   },
@@ -8067,7 +8070,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-03-06 19:43:05 +0000"
+      "in_better_spider_dungeon": "2025-03-06 19:43:05 +0000",
+      "in_better_monster_room": "2025-03-08 04:43:11 +0000"
     },
     "done": false
   },
@@ -8725,45 +8729,21 @@
     },
     "done": true
   },
-  "rats:recipes/misc/igloos/rat_igloo_light_gray": {
-    "criteria": {
-      "has_dye": "2025-03-08 03:16:07 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/ash_to_charcoal": {
-    "criteria": {
-      "has_item": "2025-03-08 03:05:37 +0000"
-    },
-    "done": true
-  },
-  "grave.core:recipes/light_gray_fabric": {
-    "criteria": {
-      "has_wool": "2025-03-08 03:17:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-03-08 03:02:22 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/small_light_gray_industrial_lamp": {
-    "criteria": {
-      "has_small_light_gray_industrial_lamp": "2025-03-08 03:16:07 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/ash": {
     "criteria": {
       "has_item": "2025-03-08 02:56:50 +0000"
     },
     "done": true
   },
-  "rats:recipes/building_blocks/dye_sponge": {
+  "iceandfire:recipes/misc/bestiary": {
     "criteria": {
-      "has_dye": "2025-03-08 03:16:07 +0000"
+      "has_item": "2025-03-08 02:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-08 03:02:22 +0000"
     },
     "done": true
   },
@@ -8779,21 +8759,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/flower_banner_pattern": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
-      "has_oxeye_daisy": "2025-03-08 03:16:09 +0000"
+      "has_mossy_cobblestone": "2025-03-08 03:02:22 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/placer_upgrade": {
+    "criteria": {
+      "has_cobble": "2025-03-08 03:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-08 03:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-08 03:02:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-03-08 03:05:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-03-08 03:05:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-03-08 03:05:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-08 03:05:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-03-08 03:05:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-03-08 03:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-03-08 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/igloos/rat_igloo_light_gray": {
+    "criteria": {
+      "has_dye": "2025-03-08 03:16:07 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_light_gray_industrial_lamp": {
+    "criteria": {
+      "has_small_light_gray_industrial_lamp": "2025-03-08 03:16:07 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/dye_sponge": {
+    "criteria": {
+      "has_dye": "2025-03-08 03:16:07 +0000"
     },
     "done": true
   },
   "cfm:recipes/decorations/dye_light_gray_picket_gate": {
     "criteria": {
       "has_dye": "2025-03-08 03:16:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2025-03-08 03:17:18 +0000"
     },
     "done": true
   },
@@ -8833,18 +8885,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-03-08 03:02:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_carpet": {
-    "criteria": {
-      "has_light_gray_wool": "2025-03-08 03:17:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_light_gray_bed": {
     "criteria": {
       "has_needed_dye": "2025-03-08 03:16:07 +0000"
@@ -8857,51 +8897,39 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
-    "criteria": {
-      "has_dragonscales_bronze": "2025-03-08 03:05:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_bronze_boots": {
-    "criteria": {
-      "has_item": "2025-03-08 03:05:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_bronze_leggings": {
-    "criteria": {
-      "has_item": "2025-03-08 03:05:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/bestiary": {
-    "criteria": {
-      "has_item": "2025-03-08 02:59:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
     "criteria": {
       "has_needed_dye": "2025-03-08 03:16:07 +0000"
     },
     "done": true
   },
-  "rats:recipes/misc/upgrades/placer_upgrade": {
+  "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
-      "has_cobble": "2025-03-08 03:02:22 +0000"
+      "has_oxeye_daisy": "2025-03-08 03:16:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
-      "has_azure_bluet": "2025-03-08 03:16:03 +0000"
+      "has_oxeye_daisy": "2025-03-08 03:16:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+  "grave.core:recipes/light_gray_fabric": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-03-08 03:02:22 +0000"
+      "has_wool": "2025-03-08 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-08 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-08 03:17:18 +0000"
     },
     "done": true
   },
@@ -8923,27 +8951,255 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+  "rats:recipes/misc/upgrades/demon_upgrade": {
     "criteria": {
-      "has_oxeye_daisy": "2025-03-08 03:16:09 +0000"
+      "has_obsidian": "2025-03-08 03:46:29 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "has_item": "2025-03-08 03:05:15 +0000"
+      "crying_obsidian": "2025-03-08 03:46:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+  "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-03-08 03:02:22 +0000"
+      "has_obsidian": "2025-03-08 03:46:29 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_bronze_helmet": {
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
     "criteria": {
-      "has_item": "2025-03-08 03:05:15 +0000"
+      "has_item": "2025-03-08 03:52:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2025-03-08 03:53:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-03-08 03:53:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-03-08 03:53:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-03-08 03:53:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-08 03:53:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-03-08 03:53:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_leggings": {
+    "criteria": {
+      "has_item": "2025-03-08 03:55:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
+    "criteria": {
+      "has_item": "2025-03-08 03:55:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_boots": {
+    "criteria": {
+      "has_item": "2025-03-08 03:55:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
+    "criteria": {
+      "has_dragonscales_amythest": "2025-03-08 03:55:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-08 03:55:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-03-08 04:01:23 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/extreme_energy_upgrade": {
+    "criteria": {
+      "has_chunk": "2025-03-08 04:13:56 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/tnt_survivor_upgrade": {
+    "criteria": {
+      "has_chunk": "2025-03-08 04:13:56 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/time_manipulator_upgrade": {
+    "criteria": {
+      "has_chunk": "2025-03-08 04:13:56 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-03-08 04:24:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-03-08 04:26:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2025-03-08 05:56:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_hoe_repairing": {
+    "criteria": {
+      "has_diamond_hoe": "2025-03-08 05:19:27 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-03-08 04:43:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/netherite_hoe_repairing": {
+    "criteria": {
+      "has_netherite_hoe": "2025-03-08 05:22:58 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_grottol": {
+    "criteria": {
+      "grottol": "2025-03-08 05:08:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2025-03-08 05:56:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/netherite_pickaxe_repairing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2025-03-08 05:31:22 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_heart_of_the_deep": "2025-03-08 04:38:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2025-03-08 05:56:10 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_ruin_vanilla_temple/find_normal": {
+    "criteria": {
+      "requirement": "2025-03-08 05:48:40 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-03-08 05:54:25 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2025-03-08 04:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-03-08 04:37:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-03-08 05:45:15 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/diving_armor": {
+    "criteria": {
+      "helmet": "2025-03-08 05:50:21 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-08 05:56:10 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:root": {
+    "criteria": {
+      "awesomedungeonocean:ocean_ruin_vanilla_temple": "2025-03-08 05:48:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-03-08 04:41:30 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-03-08 04:38:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2025-03-08 05:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-03-08 05:22:58 +0000"
     },
     "done": true
   },

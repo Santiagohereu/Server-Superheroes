@@ -1096,6 +1096,7 @@
       "cooked_cod": "2025-03-04 03:37:28 +0000",
       "bread": "2025-03-04 04:32:59 +0000",
       "cookie": "2025-03-04 20:29:44 +0000",
+      "rotten_flesh": "2025-03-08 05:27:32 +0000",
       "melon_slice": "2025-03-05 21:30:25 +0000",
       "cooked_salmon": "2025-03-04 02:55:49 +0000",
       "carrot": "2025-03-03 23:37:33 +0000"
@@ -2527,7 +2528,8 @@
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-03-03 23:31:58 +0000",
-      "in_better_spider_dungeon": "2025-03-03 23:39:02 +0000"
+      "in_better_spider_dungeon": "2025-03-03 23:39:02 +0000",
+      "in_better_monster_room": "2025-03-08 04:52:12 +0000"
     },
     "done": false
   },
@@ -6051,7 +6053,8 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "phantom": "2025-03-04 22:54:53 +0000"
+      "phantom": "2025-03-04 22:54:53 +0000",
+      "warden": "2025-03-08 04:42:11 +0000"
     },
     "done": false
   },
@@ -9560,6 +9563,247 @@
   "aether:recipes/combat/leather_chestplate_repairing": {
     "criteria": {
       "has_leather_chestplate": "2025-03-08 03:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2025-03-08 05:17:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_hoe_repairing": {
+    "criteria": {
+      "has_diamond_hoe": "2025-03-08 04:49:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-03-08 03:56:05 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-03-08 04:52:12 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/combat/rat_fez": {
+    "criteria": {
+      "has_wool": "2025-03-08 04:01:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-03-08 03:53:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-03-08 03:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2025-03-08 04:09:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-03-08 04:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-03-08 04:01:33 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/blue_flag": {
+    "criteria": {
+      "has_blue_flag": "2025-03-08 04:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-03-08 04:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-03-08 04:09:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-08 03:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-03-08 03:54:15 +0000",
+      "minecraft:cow": "2025-03-08 03:54:29 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/blue_cape_blue_wool": {
+    "criteria": {
+      "has_blue_wool": "2025-03-08 04:00:40 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_heart_of_the_deep": "2025-03-08 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_sofa": {
+    "criteria": {
+      "has_wool": "2025-03-08 04:01:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-03-08 04:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-03-08 04:09:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-03-08 04:00:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/red_cape": {
+    "criteria": {
+      "has_red_wool": "2025-03-08 04:01:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-03-08 04:01:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-03-08 04:09:41 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/red_flag": {
+    "criteria": {
+      "has_red_flag": "2025-03-08 04:01:33 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2025-03-08 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-03-08 03:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-08 04:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-03-08 03:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-03-08 04:01:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-03-08 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_sofa": {
+    "criteria": {
+      "has_wool": "2025-03-08 04:00:40 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-03-08 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-03-08 04:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-03-08 04:48:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-08 03:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-03-08 03:53:53 +0000"
+    },
+    "done": true
+  },
+  "grave.core:recipes/red_fabric": {
+    "criteria": {
+      "has_wool": "2025-03-08 04:01:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-03-08 03:56:05 +0000"
+    },
+    "done": true
+  },
+  "grave.core:recipes/blue_fabric": {
+    "criteria": {
+      "has_wool": "2025-03-08 04:00:40 +0000"
     },
     "done": true
   },
