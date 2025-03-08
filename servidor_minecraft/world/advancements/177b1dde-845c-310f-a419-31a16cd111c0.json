@@ -8707,5 +8707,17 @@
     },
     "done": true
   },
+  "speedforce_by_yofadda:adv_phase_entity": {
+    "criteria": {
+      "adv_phase_entity_0": "2025-03-08 02:40:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_lavender": "2025-03-08 02:42:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
