@@ -132,6 +132,8 @@
       "woodland": "2025-03-04 23:25:40 +0000",
       "shrubland": "2025-03-04 04:36:49 +0000",
       "scrubland": "2025-03-04 04:45:25 +0000",
+      "fungal_jungle": "2025-03-08 02:14:04 +0000",
+      "floodplain": "2025-03-08 02:15:23 +0000",
       "highland": "2025-03-04 04:33:53 +0000",
       "mystic_grove": "2025-03-05 23:09:44 +0000",
       "old_growth_woodland": "2025-03-04 23:25:29 +0000",
@@ -149,6 +151,7 @@
       "aspen_glade": "2025-03-04 04:33:52 +0000",
       "seasonal_forest": "2025-03-03 22:28:23 +0000",
       "volcano": "2025-03-05 01:31:31 +0000",
+      "rocky_rainforest": "2025-03-08 02:15:28 +0000",
       "volcanic_plains": "2025-03-04 23:25:34 +0000",
       "fir_clearing": "2025-03-04 04:25:08 +0000",
       "pumpkin_patch": "2025-03-04 04:07:36 +0000",
@@ -2937,6 +2940,7 @@
       "minecraft:birch_forest": "2025-03-04 04:40:00 +0000",
       "minecraft:bamboo_jungle": "2025-03-05 01:31:24 +0000",
       "minecraft:beach": "2025-03-04 03:06:54 +0000",
+      "minecraft:dark_forest": "2025-03-08 02:24:38 +0000",
       "minecraft:sparse_jungle": "2025-03-04 04:41:06 +0000",
       "minecraft:river": "2025-03-04 01:30:34 +0000",
       "minecraft:lukewarm_ocean": "2025-03-04 23:23:29 +0000",
@@ -8353,6 +8357,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-08 02:22:55 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_sea_serpent": {
     "criteria": {
       "killed_fire_dragon": "2025-03-08 01:59:31 +0000"
@@ -8368,6 +8378,30 @@
   "rats:recipes/food/cooked_rat_campfire": {
     "criteria": {
       "has_rat": "2025-03-08 01:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-03-08 02:22:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-03-08 02:23:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-03-08 02:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-03-08 02:14:06 +0000"
     },
     "done": true
   },

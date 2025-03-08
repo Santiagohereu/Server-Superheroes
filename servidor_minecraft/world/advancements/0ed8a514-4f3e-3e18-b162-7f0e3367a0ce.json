@@ -9520,6 +9520,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-03-08 02:21:37 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/food/cooked_rat_smoking": {
     "criteria": {
       "has_rat": "2025-03-08 01:43:41 +0000"
