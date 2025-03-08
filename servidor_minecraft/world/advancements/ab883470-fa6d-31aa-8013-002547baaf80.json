@@ -7784,9 +7784,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+  "aether:recipes/combat/iron_sword_repairing": {
     "criteria": {
-      "has_glass": "2025-03-06 18:27:11 +0000"
+      "has_iron_sword": "2025-03-06 18:27:06 +0000"
     },
     "done": true
   },
@@ -7796,15 +7796,27 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/cyan_kitchen_counter": {
+  "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
-      "has_concrete": "2025-03-06 19:30:22 +0000"
+      "has_quartz_pillar": "2025-03-06 18:27:07 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/purple_kitchen_counter": {
+  "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
-      "has_concrete": "2025-03-06 19:30:22 +0000"
+      "has_quartz_pillar": "2025-03-06 18:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_pillar": "2025-03-06 18:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-06 18:27:11 +0000"
     },
     "done": true
   },
@@ -7832,75 +7844,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/blue_kitchen_counter": {
-    "criteria": {
-      "has_concrete": "2025-03-06 19:30:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-03-06 19:25:20 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/red_kitchen_counter": {
-    "criteria": {
-      "has_concrete": "2025-03-06 19:30:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/packed_mud": {
-    "criteria": {
-      "has_mud": "2025-03-06 21:14:11 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/gray_kitchen_counter": {
-    "criteria": {
-      "has_concrete": "2025-03-06 19:30:22 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/green_kitchen_counter": {
-    "criteria": {
-      "has_concrete": "2025-03-06 19:30:22 +0000"
-    },
-    "done": true
-  },
-  "rats:black_death": {
-    "criteria": {
-      "hurt_death": "2025-03-06 19:27:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-06 18:27:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs": {
-    "criteria": {
-      "has_quartz_pillar": "2025-03-06 18:27:07 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/spruce_cabinet": {
-    "criteria": {
-      "has_spruce_trapdoor": "2025-03-06 20:45:45 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/iron_sword_repairing": {
-    "criteria": {
-      "has_iron_sword": "2025-03-06 18:27:06 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_stymphalian_bird": {
-    "criteria": {
-      "killed_fire_dragon": "2025-03-06 21:31:12 +0000"
     },
     "done": true
   },
@@ -7910,69 +7856,15 @@
     },
     "done": true
   },
-  "rats:recipes/misc/rat_pelt_to_leather": {
-    "criteria": {
-      "has_pelt": "2025-03-06 19:28:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-06 18:27:11 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/pink_kitchen_counter": {
-    "criteria": {
-      "has_concrete": "2025-03-06 19:30:22 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2025-03-06 21:33:17 +0000"
-    },
-    "done": true
-  },
   "rats:recipes/misc/upgrades/golem_mount_upgrade": {
     "criteria": {
       "has_glass": "2025-03-06 18:27:11 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/carrat_upgrade": {
-    "criteria": {
-      "has_carrot": "2025-03-06 19:25:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-03-06 19:25:20 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/orange_kitchen_counter": {
-    "criteria": {
-      "has_concrete": "2025-03-06 19:30:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-03-06 21:15:31 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/light_blue_kitchen_counter": {
-    "criteria": {
-      "has_concrete": "2025-03-06 19:30:22 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/white_kitchen_counter": {
-    "criteria": {
-      "has_concrete": "2025-03-06 19:30:22 +0000"
     },
     "done": true
   },
@@ -7988,12 +7880,6 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/magenta_kitchen_counter": {
-    "criteria": {
-      "has_concrete": "2025-03-06 19:30:22 +0000"
-    },
-    "done": true
-  },
   "rats:recipes/building_blocks/auto_curdler": {
     "criteria": {
       "has_glass": "2025-03-06 18:27:11 +0000"
@@ -8006,39 +7892,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/lime_kitchen_counter": {
-    "criteria": {
-      "has_concrete": "2025-03-06 19:30:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonbone_tool": {
-    "criteria": {
-      "tool": "2025-03-06 19:29:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-06 18:27:11 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2025-03-06 21:37:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar": {
-    "criteria": {
-      "has_quartz_pillar": "2025-03-06 18:27:07 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/white_picket_fence": {
-    "criteria": {
-      "has_concrete": "2025-03-06 19:30:22 +0000"
     },
     "done": true
   },
@@ -8060,51 +7916,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-03-06 21:15:31 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/yellow_kitchen_counter": {
-    "criteria": {
-      "has_concrete": "2025-03-06 19:30:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-03-06 18:27:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
-    "criteria": {
-      "has_quartz_pillar": "2025-03-06 18:27:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-03-06 21:15:31 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/black_sandstone": {
-    "criteria": {
-      "has_black_sand": "2025-03-06 20:53:21 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/black_kitchen_counter": {
-    "criteria": {
-      "has_concrete": "2025-03-06 19:30:22 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/light_gray_kitchen_counter": {
-    "criteria": {
-      "has_concrete": "2025-03-06 19:30:22 +0000"
     },
     "done": true
   },
@@ -8120,15 +7934,201 @@
     },
     "done": true
   },
-  "alekiships:recipes/crafting/crafting/watercraft_frame_angled": {
+  "minecraft:recipes/building_blocks/clay": {
     "criteria": {
-      "has_scaffolding": "2025-03-06 21:38:06 +0000"
+      "has_clay_ball": "2025-03-06 19:25:20 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/carrat_upgrade": {
+    "criteria": {
+      "has_carrot": "2025-03-06 19:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-03-06 19:25:20 +0000"
+    },
+    "done": true
+  },
+  "rats:black_death": {
+    "criteria": {
+      "hurt_death": "2025-03-06 19:27:50 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/rat_pelt_to_leather": {
+    "criteria": {
+      "has_pelt": "2025-03-06 19:28:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-03-06 19:29:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:30:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:30:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:30:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:30:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:30:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:30:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:30:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:30:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:30:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:30:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:30:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:30:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:30:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:30:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:30:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-03-06 19:30:22 +0000"
     },
     "done": true
   },
   "cfm:recipes/decorations/brown_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-03-06 19:30:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-03-06 20:45:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/black_sandstone": {
+    "criteria": {
+      "has_black_sand": "2025-03-06 20:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-03-06 21:14:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-03-06 21:15:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-03-06 21:15:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-03-06 21:15:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-06 21:31:12 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-03-06 21:33:17 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-03-06 21:37:35 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/watercraft_frame_angled": {
+    "criteria": {
+      "has_scaffolding": "2025-03-06 21:38:06 +0000"
     },
     "done": true
   },
