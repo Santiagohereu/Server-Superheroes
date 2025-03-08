@@ -8354,9 +8354,39 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-03-08 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-03-08 02:46:23 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/statue": {
     "criteria": {
       "has_smooth_stone_slab": "2025-03-08 02:39:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_blinds": {
+    "criteria": {
+      "has_log": "2025-03-08 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-08 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-03-08 02:46:23 +0000"
     },
     "done": true
   },
@@ -8378,9 +8408,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-08 02:46:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_fire_dragon": "2025-03-08 02:22:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-03-08 02:46:23 +0000"
     },
     "done": true
   },
@@ -8393,6 +8435,12 @@
   "iceandfire:iceandfire/kill_stymphalian_bird": {
     "criteria": {
       "killed_fire_dragon": "2025-03-08 01:55:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_table": {
+    "criteria": {
+      "has_planks": "2025-03-08 02:46:23 +0000"
     },
     "done": true
   },
@@ -8432,9 +8480,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-03-08 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-03-08 02:46:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/decorations/copper_pile": {
     "criteria": {
       "has_item": "2025-03-08 02:23:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-03-08 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-03-08 02:46:23 +0000"
     },
     "done": true
   },
@@ -8444,9 +8516,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-08 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-03-08 02:46:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-03-08 02:14:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-08 02:46:23 +0000"
     },
     "done": true
   },
