@@ -160,6 +160,7 @@
       "dune_beach": "2025-03-04 02:05:21 +0000",
       "seasonal_forest": "2025-03-03 22:26:33 +0000",
       "rocky_rainforest": "2025-03-04 04:57:03 +0000",
+      "pasture": "2025-03-08 02:30:31 +0000",
       "volcanic_plains": "2025-03-04 04:54:18 +0000",
       "lavender_field": "2025-03-08 02:10:57 +0000",
       "fir_clearing": "2025-03-03 22:37:28 +0000",
@@ -1842,6 +1843,7 @@
       "minecraft:taiga": "2025-03-03 23:38:24 +0000",
       "minecraft:deep_ocean": "2025-03-06 21:40:08 +0000",
       "minecraft:eroded_badlands": "2025-03-04 05:00:58 +0000",
+      "minecraft:sunflower_plains": "2025-03-08 02:30:48 +0000",
       "minecraft:birch_forest": "2025-03-04 01:28:16 +0000",
       "minecraft:bamboo_jungle": "2025-03-04 02:02:49 +0000",
       "minecraft:wooded_badlands": "2025-03-06 20:48:56 +0000",
@@ -8696,6 +8698,12 @@
   "iceandfire:recipes/misc/dragon_ice_spikes": {
     "criteria": {
       "has_item": "2025-03-08 01:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-03-08 02:31:07 +0000"
     },
     "done": true
   },
