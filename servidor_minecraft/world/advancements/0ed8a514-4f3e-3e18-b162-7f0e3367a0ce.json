@@ -9460,6 +9460,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-03-08 01:11:15 +0000"
+    },
+    "done": true
+  },
+  "weather2:recipes/misc/weather_item": {
+    "criteria": {
+      "has_redstone": "2025-03-08 01:11:38 +0000"
+    },
+    "done": true
+  },
   "weather2:recipes/misc/weather_forecast": {
     "criteria": {
       "has_weather_item": "2025-03-08 01:14:07 +0000"
@@ -9478,27 +9490,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_granite": "2025-03-08 01:11:15 +0000"
-    },
-    "done": true
-  },
   "weather2:recipes/misc/tornado_sensor": {
     "criteria": {
       "has_weather_item": "2025-03-08 01:14:07 +0000"
     },
     "done": true
   },
-  "weather2:recipes/misc/weather_item": {
-    "criteria": {
-      "has_redstone": "2025-03-08 01:11:38 +0000"
-    },
-    "done": true
-  },
   "weather2:recipes/misc/weather_deflector": {
     "criteria": {
       "has_weather_item": "2025-03-08 01:14:07 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/cooked_rat_smelting": {
+    "criteria": {
+      "has_rat": "2025-03-08 01:43:41 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/cooked_rat_campfire": {
+    "criteria": {
+      "has_rat": "2025-03-08 01:43:41 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/cooked_rat_smoking": {
+    "criteria": {
+      "has_rat": "2025-03-08 01:43:41 +0000"
     },
     "done": true
   },

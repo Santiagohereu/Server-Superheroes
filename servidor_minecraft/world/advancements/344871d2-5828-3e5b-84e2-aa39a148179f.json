@@ -8341,5 +8341,29 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/voodoo_upgrade": {
+    "criteria": {
+      "has_totem": "2025-03-08 01:45:48 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/cooked_rat_smelting": {
+    "criteria": {
+      "has_rat": "2025-03-08 01:44:59 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/cooked_rat_campfire": {
+    "criteria": {
+      "has_rat": "2025-03-08 01:44:59 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/cooked_rat_smoking": {
+    "criteria": {
+      "has_rat": "2025-03-08 01:44:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

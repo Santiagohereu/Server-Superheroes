@@ -8692,5 +8692,11 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
+    "criteria": {
+      "has_item": "2025-03-08 01:23:46 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
