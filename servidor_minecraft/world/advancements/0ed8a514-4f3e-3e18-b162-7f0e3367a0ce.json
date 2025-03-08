@@ -9502,6 +9502,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-03-08 02:11:08 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/food/cooked_rat_smelting": {
     "criteria": {
       "has_rat": "2025-03-08 01:43:41 +0000"
