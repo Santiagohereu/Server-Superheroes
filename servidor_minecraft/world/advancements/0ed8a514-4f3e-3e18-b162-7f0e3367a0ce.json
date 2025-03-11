@@ -10011,6 +10011,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/purple_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-03-11 23:46:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dye_purple_picket_gate": {
     "criteria": {
       "has_dye": "2025-03-11 23:28:23 +0000"
