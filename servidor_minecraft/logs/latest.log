@@ -1648,3 +1648,30 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [11Mar2025 22:35:51.080] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.symbiote dummy
 [11Mar2025 22:35:51.080] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.symbiote 1
 [11Mar2025 22:46:12.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved too quickly! -7.281252032017051,3.9881064323777338,-9.830802315117808
+[11Mar2025 22:51:06.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FershaMana has made the advancement [Crops of the Wild]
+[11Mar2025 22:51:56.682] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Camaila04[/127.64.191.5:36053] logged in with entity id 23893 at (1316.2485378871158, 76.0, 2675.75)
+[11Mar2025 22:51:56.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 joined the game
+[11Mar2025 22:51:57.163] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (ab883470-fa6d-31aa-8013-002547baaf80)
+[11Mar2025 22:51:57.163] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[11Mar2025 22:51:57.163] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Camaila04
+[11Mar2025 22:51:57.164] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Camaila04 run scoreboard objectives add FSang.Gamerule.item dummy
+[11Mar2025 22:51:57.164] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Camaila04 run scoreboard players set .sang FSang.Gamerule.item 1
+[11Mar2025 22:51:57.164] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Camaila04 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[11Mar2025 22:51:57.165] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Camaila04 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[11Mar2025 22:53:30.288] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[11Mar2025 22:53:38.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[11Mar2025 22:53:51.740] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[11Mar2025 22:55:05.122] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[11Mar2025 22:55:12.349] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[11Mar2025 22:55:12.349] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[11Mar2025 22:55:17.548] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[11Mar2025 22:55:49.306] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-306, y=28, z=17}
+[11Mar2025 22:55:51.663] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=22, z=15}
+[11Mar2025 22:55:51.663] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-300, y=22, z=15}
+[11Mar2025 22:55:51.663] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=22, z=20}
+[11Mar2025 22:55:51.749] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-300, y=22, z=14}
+[11Mar2025 22:55:51.750] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=22, z=14}
+[11Mar2025 22:55:55.491] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=25, z=13}
+[11Mar2025 22:55:55.626] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-273, y=28, z=15}
+[11Mar2025 22:55:58.603] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-270, y=27, z=20}
+[11Mar2025 22:56:00.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FershaMana has made the advancement [Monster Hunter]

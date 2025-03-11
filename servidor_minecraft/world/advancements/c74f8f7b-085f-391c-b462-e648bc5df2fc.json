@@ -292,6 +292,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-03-11 22:48:45 +0000",
       "baked_potato": "2025-03-11 21:40:21 +0000"
     },
     "done": false
@@ -1073,6 +1074,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-03-11 22:47:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-03-11 22:41:46 +0000"
@@ -1088,6 +1095,12 @@
   "supplementaries:recipes/decorations/biomesoplenty/sign_post_fir": {
     "criteria": {
       "has_planks": "2025-03-11 22:41:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-03-11 22:47:09 +0000"
     },
     "done": true
   },
@@ -1127,9 +1140,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-11 22:51:16 +0000"
+    },
+    "done": true
+  },
+  "palladium:recipes/building_blocks/raw_lead_block": {
+    "criteria": {
+      "has_raw_lead": "2025-03-11 22:52:17 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/strength_upgrade": {
+    "criteria": {
+      "has_bone": "2025-03-11 22:56:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-03-11 22:48:25 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/lock_block": {
     "criteria": {
       "minecraft:planks": "2025-03-11 22:41:27 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/tubes/rat_tube_magenta": {
+    "criteria": {
+      "has_dye": "2025-03-11 22:51:16 +0000"
     },
     "done": true
   },
@@ -1139,9 +1182,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-11 22:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-03-11 22:47:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-03-11 22:51:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-11 22:47:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
       "has_yellow_dye": "2025-03-11 22:45:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-03-11 22:46:57 +0000"
+    },
+    "done": true
+  },
+  "palladium:recipes/misc/lead_ingot_from_smelting_raw_lead": {
+    "criteria": {
+      "has_raw_lead": "2025-03-11 22:52:17 +0000"
     },
     "done": true
   },
@@ -1157,9 +1236,45 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dye_magenta_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-03-11 22:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-11 22:47:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_magenta_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-03-11 22:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-03-11 22:56:00 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/dye_yellow_wool": {
     "criteria": {
       "has_needed_dye": "2025-03-11 22:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-03-11 22:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-03-11 22:47:49 +0000"
     },
     "done": true
   },
@@ -1169,15 +1284,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-11 22:46:57 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/ratbow_essence": {
     "criteria": {
       "has_dye": "2025-03-11 22:45:05 +0000"
     },
     "done": true
   },
+  "ad_astra:recipes/misc/small_magenta_industrial_lamp": {
+    "criteria": {
+      "has_small_magenta_industrial_lamp": "2025-03-11 22:51:16 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/hammock_dyed_magenta": {
+    "criteria": {
+      "has_dye": "2025-03-11 22:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2025-03-11 22:51:16 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/fir_fence": {
     "criteria": {
       "has_planks": "2025-03-11 22:41:27 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/magenta_industrial_lamp": {
+    "criteria": {
+      "has_magenta_industrial_lamp": "2025-03-11 22:51:16 +0000"
     },
     "done": true
   },
@@ -1229,6 +1374,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-03-11 22:48:12 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_pink": {
     "criteria": {
       "has_stick": "2025-03-11 22:41:46 +0000"
@@ -1247,6 +1398,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-11 22:51:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-03-11 22:41:46 +0000"
@@ -1256,6 +1413,12 @@
   "rats:recipes/building_blocks/jack_o_ratern": {
     "criteria": {
       "has_torch": "2025-03-11 22:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-03-11 22:47:09 +0000"
     },
     "done": true
   },
@@ -1325,9 +1488,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-03-11 22:52:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-03-11 22:41:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-03-11 22:48:12 +0000"
     },
     "done": true
   },
@@ -1373,15 +1548,45 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2025-03-11 22:47:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_white": {
     "criteria": {
       "has_white_wool": "2025-03-11 22:40:09 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-03-11 22:47:49 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
     "criteria": {
       "has_goldenrod": "2025-03-11 22:44:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-03-11 22:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-03-11 22:46:57 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/disenchanter_upgrade": {
+    "criteria": {
+      "has_shelf": "2025-03-11 22:47:49 +0000"
     },
     "done": true
   },
@@ -1397,9 +1602,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-11 22:51:06 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/tools/cheese_stick": {
     "criteria": {
       "has_stick": "2025-03-11 22:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2025-03-11 22:47:09 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/crossbow_upgrade": {
+    "criteria": {
+      "has_arrow": "2025-03-11 22:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-03-11 22:47:09 +0000"
     },
     "done": true
   },
@@ -1451,6 +1680,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_magenta_dye": {
+    "criteria": {
+      "forge:dyes/magenta": "2025-03-11 22:51:16 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/white_flag": {
     "criteria": {
       "has_white_flag": "2025-03-11 22:40:09 +0000"
@@ -1466,6 +1701,18 @@
   "supplementaries:recipes/bed_from_feather_block": {
     "criteria": {
       "minecraft:planks": "2025-03-11 22:41:27 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/assorted_vegetables": {
+    "criteria": {
+      "has_a_veggie": "2025-03-11 22:51:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/rock_path": {
+    "criteria": {
+      "has_stone": "2025-03-11 22:47:49 +0000"
     },
     "done": true
   },
@@ -1499,9 +1746,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-03-11 22:56:00 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/earplugs": {
     "criteria": {
       "has_item": "2025-03-11 22:41:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-03-11 22:47:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-03-11 22:51:06 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/bow_upgrade": {
+    "criteria": {
+      "has_arrow": "2025-03-11 22:56:00 +0000"
     },
     "done": true
   },
@@ -1523,9 +1794,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-03-11 22:47:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-03-11 22:46:57 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/crafting_upgrade": {
     "criteria": {
       "has_planks": "2025-03-11 22:41:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2025-03-11 22:46:57 +0000"
     },
     "done": true
   },
@@ -1547,6 +1836,30 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-11 22:46:57 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/igloos/rat_igloo_magenta": {
+    "criteria": {
+      "has_dye": "2025-03-11 22:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-03-11 22:51:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-11 22:47:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/daub_brace": {
     "criteria": {
       "forge:rods/wooden": "2025-03-11 22:41:46 +0000"
@@ -1565,6 +1878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-11 22:47:49 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/white_trampoline": {
     "criteria": {
       "has_wool": "2025-03-11 22:40:09 +0000"
@@ -1574,6 +1893,12 @@
   "alekiships:recipes/crafting/crafting/oar": {
     "criteria": {
       "has_stick": "2025-03-11 22:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-11 22:47:49 +0000"
     },
     "done": true
   },
@@ -1595,9 +1920,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-11 22:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-11 22:51:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-03-11 22:40:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-11 22:51:16 +0000"
     },
     "done": true
   },
@@ -1607,9 +1950,21 @@
     },
     "done": true
   },
+  "palladium:recipes/misc/lead_ingot_from_blasting_raw_lead": {
+    "criteria": {
+      "has_raw_lead": "2025-03-11 22:52:17 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_cyan": {
     "criteria": {
       "has_stick": "2025-03-11 22:41:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-03-11 22:56:00 +0000"
     },
     "done": true
   },
@@ -1631,6 +1986,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-11 22:47:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_light_gray": {
     "criteria": {
       "has_stick": "2025-03-11 22:41:46 +0000"
@@ -1640,6 +2001,12 @@
   "rats:recipes/misc/upgrades/shears_upgrade": {
     "criteria": {
       "has_wool": "2025-03-11 22:40:09 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/feathery_wing": {
+    "criteria": {
+      "has_chicken": "2025-03-11 22:47:09 +0000"
     },
     "done": true
   },
@@ -1655,9 +2022,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-11 22:51:06 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/fir_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-11 22:41:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_magenta_dye": "2025-03-11 22:51:16 +0000"
     },
     "done": true
   },
@@ -1670,6 +2049,24 @@
   "supplementaries:recipes/flags/flag_red": {
     "criteria": {
       "has_stick": "2025-03-11 22:41:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-03-11 22:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-03-11 22:56:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-03-11 22:48:25 +0000"
     },
     "done": true
   },
@@ -1697,6 +2094,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-03-11 22:51:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-11 22:51:06 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_lime": {
     "criteria": {
       "has_stick": "2025-03-11 22:41:46 +0000"
@@ -1706,6 +2115,12 @@
   "grave.core:recipes/white_fabric": {
     "criteria": {
       "has_wool": "2025-03-11 22:40:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-03-11 22:46:57 +0000"
     },
     "done": true
   },

@@ -8239,6 +8239,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-03-11 21:57:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-03-11 22:20:06 +0000"
@@ -8260,12 +8266,6 @@
   "cfm:recipes/decorations/stripped_oak_upgraded_fence": {
     "criteria": {
       "has_log": "2025-03-11 22:20:06 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/food/ambrosia": {
-    "criteria": {
-      "has_item": "2025-03-11 21:57:19 +0000"
     },
     "done": true
   },
