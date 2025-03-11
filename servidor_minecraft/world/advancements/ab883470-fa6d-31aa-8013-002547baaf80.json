@@ -8197,21 +8197,45 @@
     },
     "done": true
   },
-  "minecraft:husbandry/axolotl_in_a_bucket": {
-    "criteria": {
-      "axolotl_bucket": "2025-03-08 04:32:47 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/leather_leggings_repairing": {
     "criteria": {
       "has_leather_leggings": "2025-03-08 03:50:42 +0000"
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-03-08 04:32:47 +0000"
+    },
+    "done": true
+  },
   "weather2:recipes/misc/weather_item": {
     "criteria": {
       "has_redstone": "2025-03-08 04:40:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_blinds": {
+    "criteria": {
+      "has_log": "2025-03-11 21:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-11 21:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-03-11 21:28:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-03-11 21:28:20 +0000"
     },
     "done": true
   },
