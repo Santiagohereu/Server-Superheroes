@@ -1585,3 +1585,13 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [11Mar2025 22:04:08.827] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.symbiote 1
 [11Mar2025 22:05:08.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FershaMana lost connection: Disconnected
 [11Mar2025 22:05:08.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FershaMana left the game
+[11Mar2025 22:12:49.377] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2551a1e8[id=<null>,name=FershaMana,properties={},legacy=false] (/127.14.74.226:37843) lost connection: Disconnected
+[11Mar2025 22:12:57.994] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FershaMana[/127.14.74.226:47285] logged in with entity id 13741 at (-575.7476640787856, 97.0, 1596.4940581810795)
+[11Mar2025 22:12:58.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FershaMana joined the game
+[11Mar2025 22:12:58.632] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (c74f8f7b-085f-391c-b462-e648bc5df2fc)
+[11Mar2025 22:12:58.632] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[11Mar2025 22:12:58.633] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: FershaMana
+[11Mar2025 22:12:58.633] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.item dummy
+[11Mar2025 22:12:58.633] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.item 1
+[11Mar2025 22:12:58.633] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[11Mar2025 22:12:58.633] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.symbiote 1
