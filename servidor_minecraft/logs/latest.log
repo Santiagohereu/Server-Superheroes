@@ -1647,3 +1647,4 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [11Mar2025 22:35:51.079] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.item 1
 [11Mar2025 22:35:51.080] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.symbiote dummy
 [11Mar2025 22:35:51.080] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[11Mar2025 22:46:12.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved too quickly! -7.281252032017051,3.9881064323777338,-9.830802315117808
