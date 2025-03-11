@@ -1530,3 +1530,32 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [11Mar2025 21:43:45.343] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.symbiote 1
 [11Mar2025 21:43:46.568] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FershaMana lost connection: Disconnected
 [11Mar2025 21:43:46.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FershaMana left the game
+[11Mar2025 21:45:21.511] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FershaMana[/127.14.74.226:36201] logged in with entity id 8566 at (-510.5, 66.5, 1708.5)
+[11Mar2025 21:45:21.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FershaMana joined the game
+[11Mar2025 21:45:22.023] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (c74f8f7b-085f-391c-b462-e648bc5df2fc)
+[11Mar2025 21:45:22.024] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[11Mar2025 21:45:22.025] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: FershaMana
+[11Mar2025 21:45:22.025] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.item dummy
+[11Mar2025 21:45:22.026] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.item 1
+[11Mar2025 21:45:22.026] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[11Mar2025 21:45:22.026] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[11Mar2025 21:47:16.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FershaMana has made the advancement [Sweet Dreams]
+[11Mar2025 21:48:55.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved wrongly!
+[11Mar2025 21:49:13.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FershaMana has made the advancement [Splintering II]
+[11Mar2025 21:50:35.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved too quickly! 9.776745582584226,0.0,-8.838270013719011
+[11Mar2025 21:52:23.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FershaMana drowned
+[11Mar2025 21:53:13.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved wrongly!
+[11Mar2025 21:53:17.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved wrongly!
+[11Mar2025 21:53:19.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FershaMana has made the advancement [Yellow Brick Road]
+[11Mar2025 21:53:33.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved wrongly!
+[11Mar2025 21:54:24.874] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 lost connection: Timed out
+[11Mar2025 21:54:24.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 left the game
+[11Mar2025 21:54:36.795] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Saniago23[/127.87.233.4:53467] logged in with entity id 10937 at (-520.5945216519804, 65.0, 1709.616298236211)
+[11Mar2025 21:54:36.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 joined the game
+[11Mar2025 21:54:37.369] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (0ed8a514-4f3e-3e18-b162-7f0e3367a0ce)
+[11Mar2025 21:54:37.370] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[11Mar2025 21:54:37.370] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Saniago23
+[11Mar2025 21:54:37.370] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Saniago23 run scoreboard objectives add FSang.Gamerule.item dummy
+[11Mar2025 21:54:37.371] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.item 1
+[11Mar2025 21:54:37.371] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Saniago23 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[11Mar2025 21:54:37.371] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.symbiote 1
