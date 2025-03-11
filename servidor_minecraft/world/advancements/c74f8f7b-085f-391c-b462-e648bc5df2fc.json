@@ -294,7 +294,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-03-11 22:48:45 +0000",
-      "baked_potato": "2025-03-11 21:40:21 +0000"
+      "baked_potato": "2025-03-11 21:40:21 +0000",
+      "cooked_chicken": "2025-03-11 23:08:27 +0000"
     },
     "done": false
   },
@@ -1117,6 +1118,24 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/tools/golden_machete": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 23:09:37 +0000"
+    },
+    "done": true
+  },
+  "pantheonsent:recipes/building_blocks/gilded_sandstone": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 23:09:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 23:09:37 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/brown_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-11 23:05:13 +0000"
@@ -1126,6 +1145,12 @@
   "supplementaries:recipes/crank": {
     "criteria": {
       "forge:rods/wooden": "2025-03-11 22:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 23:09:37 +0000"
     },
     "done": true
   },
@@ -1147,15 +1172,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 23:09:37 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_magenta": {
     "criteria": {
       "has_stick": "2025-03-11 22:41:46 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 23:09:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_magenta_carpet": {
     "criteria": {
       "has_needed_dye": "2025-03-11 22:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 23:09:37 +0000"
     },
     "done": true
   },
@@ -1204,6 +1247,12 @@
   "cfm:recipes/decorations/stripped_acacia_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-11 23:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 23:09:37 +0000"
     },
     "done": true
   },
@@ -1339,6 +1388,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 23:09:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_yellow_wool": {
     "criteria": {
       "has_needed_dye": "2025-03-11 22:45:05 +0000"
@@ -1369,6 +1424,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/basic_energy_upgrade": {
+    "criteria": {
+      "has_gold": "2025-03-11 23:09:37 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/combat/chef_toque": {
     "criteria": {
       "has_wool": "2025-03-11 22:40:09 +0000"
@@ -1378,6 +1439,12 @@
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-03-11 22:46:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 23:09:37 +0000"
     },
     "done": true
   },
@@ -1465,6 +1532,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 23:09:37 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_mail_box": {
     "criteria": {
       "has_chest": "2025-03-11 23:05:13 +0000"
@@ -1504,6 +1577,12 @@
   "cfm:recipes/decorations/acacia_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-11 23:05:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_ring": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 23:09:37 +0000"
     },
     "done": true
   },
@@ -1603,6 +1682,12 @@
     },
     "done": true
   },
+  "rats:recipes/combat/halo_hat": {
+    "criteria": {
+      "has_ingot": "2025-03-11 23:09:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-11 22:56:18 +0000"
@@ -1651,6 +1736,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/angel_upgrade": {
+    "criteria": {
+      "has_gold": "2025-03-11 23:09:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_yellow_carpet": {
     "criteria": {
       "has_needed_dye": "2025-03-11 22:45:05 +0000"
@@ -1675,6 +1766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 23:09:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-03-11 22:41:46 +0000"
@@ -1696,6 +1793,12 @@
   "cfm:recipes/decorations/jungle_mail_box": {
     "criteria": {
       "has_chest": "2025-03-11 23:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 23:09:37 +0000"
     },
     "done": true
   },
@@ -1813,6 +1916,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/aristocrat_upgrade": {
+    "criteria": {
+      "has_gold": "2025-03-11 23:09:37 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-11 23:05:13 +0000"
@@ -1846,6 +1955,12 @@
   "supplementaries:recipes/flags/flag_white": {
     "criteria": {
       "has_white_wool": "2025-03-11 22:40:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 23:09:37 +0000"
     },
     "done": true
   },
@@ -1906,6 +2021,12 @@
   "cfm:recipes/decorations/stripped_jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-11 23:05:13 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/golden_rat_skull": {
+    "criteria": {
+      "has_gold": "2025-03-11 23:09:37 +0000"
     },
     "done": true
   },
@@ -1987,6 +2108,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-03-11 23:09:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-03-11 22:46:03 +0000"
@@ -2008,6 +2135,18 @@
   "supplementaries:recipes/candle_holders/candle_holder_magenta_dye": {
     "criteria": {
       "forge:dyes/magenta": "2025-03-11 22:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 23:09:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 23:09:37 +0000"
     },
     "done": true
   },
@@ -2134,6 +2273,12 @@
   "rats:recipes/misc/hammocks/rat_hammock_white": {
     "criteria": {
       "has_wool": "2025-03-11 22:40:09 +0000"
+    },
+    "done": true
+  },
+  "pantheonsent:recipes/building_blocks/gilded_sandstone_pillar": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 23:09:37 +0000"
     },
     "done": true
   },
@@ -2311,6 +2456,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 23:09:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-03-11 22:40:09 +0000"
@@ -2374,6 +2525,12 @@
   "cfm:recipes/decorations/black_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-11 23:05:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves": {
+    "criteria": {
+      "has_gold": "2025-03-11 23:09:37 +0000"
     },
     "done": true
   },
@@ -2521,6 +2678,18 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/advanced_energy_upgrade": {
+    "criteria": {
+      "has_gold": "2025-03-11 23:09:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-03-11 23:09:34 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-11 23:05:13 +0000"
@@ -2551,9 +2720,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 23:09:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-03-11 22:41:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 23:09:37 +0000"
     },
     "done": true
   },
@@ -2587,6 +2768,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_pendant": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 23:09:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-03-11 22:51:06 +0000"
@@ -2608,6 +2795,12 @@
   "supplementaries:recipes/flags/flag_lime": {
     "criteria": {
       "has_stick": "2025-03-11 22:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-11 23:09:37 +0000"
     },
     "done": true
   },

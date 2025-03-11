@@ -1692,3 +1692,8 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [11Mar2025 23:05:24.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved wrongly!
 [11Mar2025 23:05:24.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved wrongly!
 [11Mar2025 23:05:54.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Saniago23> nice
+[11Mar2025 23:08:23.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved wrongly!
+[11Mar2025 23:16:27.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FershaMana moved wrongly!
+[11Mar2025 23:16:27.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FershaMana moved too quickly! 10.514928980446598,-0.07840000152587834,3.583475392078526
+[11Mar2025 23:16:28.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FershaMana moved too quickly! 11.631756654548667,-0.07840000152587834,3.5041349820205596
+[11Mar2025 23:16:28.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FershaMana moved wrongly!
