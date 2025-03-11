@@ -120,3 +120,15 @@
 [21:54:37] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.item 1
 [21:54:37] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Saniago23 run scoreboard objectives add FSang.Gamerule.symbiote dummy
 [21:54:37] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[22:01:06] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[22:01:06] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: FershaMana
+[22:01:06] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.item dummy
+[22:01:06] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.item 1
+[22:01:06] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[22:01:06] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[22:04:08] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[22:04:08] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: FershaMana
+[22:04:08] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.item dummy
+[22:04:08] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.item 1
+[22:04:08] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[22:04:08] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.symbiote 1

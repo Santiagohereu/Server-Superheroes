@@ -298,6 +298,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-03-11 21:48:35 +0000",
+      "minecraft:meadow": "2025-03-11 21:53:45 +0000",
       "minecraft:plains": "2025-03-11 21:41:25 +0000"
     },
     "done": false
@@ -458,6 +459,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-11 21:47:16 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
       "in_water": "2025-03-11 21:48:33 +0000"
@@ -479,18 +486,6 @@
   "deeperdarker:recipes/transportation/bloom_boat": {
     "criteria": {
       "in_water": "2025-03-11 21:48:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-03-11 21:49:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-03-11 21:47:16 +0000"
     },
     "done": true
   },
@@ -539,12 +534,6 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-03-11 21:48:33 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonbone_tool": {
-    "criteria": {
-      "tool": "2025-03-11 21:49:13 +0000"
     },
     "done": true
   },
@@ -620,15 +609,165 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-03-11 21:48:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-03-11 21:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-03-11 21:49:15 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_chest": {
     "criteria": {
       "has_lots_of_items": "2025-03-11 21:49:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "supplementaries:recipes/soap": {
     "criteria": {
-      "in_water": "2025-03-11 21:48:33 +0000"
+      "forge:ash": "2025-03-11 21:52:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-03-11 21:52:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/diving_board": {
+    "criteria": {
+      "has_wheat": "2025-03-11 21:53:11 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/rat_seed_bowl": {
+    "criteria": {
+      "has_seeds": "2025-03-11 21:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-03-11 21:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-03-11 21:53:11 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/farmer_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-03-11 21:53:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-03-11 21:53:11 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/gardener_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-03-11 21:53:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-03-11 21:53:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-03-11 21:53:11 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/combat/farmer_hat": {
+    "criteria": {
+      "has_wheat": "2025-03-11 21:53:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-03-11 21:53:11 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/replanter_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-03-11 21:53:11 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/rat_cage": {
+    "criteria": {
+      "has_wheat": "2025-03-11 21:53:11 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/chicken_mount_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-03-11 21:53:11 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/breeder_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-03-11 21:53:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-03-11 21:53:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-03-11 21:53:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-03-11 22:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-03-11 22:02:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-03-11 22:02:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-03-11 22:02:10 +0000"
     },
     "done": true
   },
