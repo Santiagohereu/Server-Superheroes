@@ -9813,6 +9813,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2025-03-11 23:28:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-11 23:24:00 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/tubes/rat_tube_magenta": {
+    "criteria": {
+      "has_dye": "2025-03-11 23:24:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-11 22:02:36 +0000"
@@ -9822,6 +9840,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-03-11 22:02:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2025-03-11 23:28:23 +0000"
     },
     "done": true
   },
@@ -9837,9 +9861,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dye_magenta_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-03-11 23:24:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-11 22:02:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2025-03-11 23:28:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_magenta_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-03-11 23:24:00 +0000"
     },
     "done": true
   },
@@ -9855,6 +9897,30 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/small_magenta_industrial_lamp": {
+    "criteria": {
+      "has_small_magenta_industrial_lamp": "2025-03-11 23:24:00 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/hammock_dyed_magenta": {
+    "criteria": {
+      "has_dye": "2025-03-11 23:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2025-03-11 23:24:00 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/magenta_industrial_lamp": {
+    "criteria": {
+      "has_magenta_industrial_lamp": "2025-03-11 23:24:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-03-11 22:26:16 +0000"
@@ -9864,6 +9930,36 @@
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-03-11 22:26:16 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_purple_industrial_lamp": {
+    "criteria": {
+      "has_small_purple_industrial_lamp": "2025-03-11 23:28:23 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/hammock_dyed_purple": {
+    "criteria": {
+      "has_dye": "2025-03-11 23:28:23 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed": "2025-03-11 23:30:26 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/tubes/rat_tube_purple": {
+    "criteria": {
+      "has_dye": "2025-03-11 23:28:23 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/purple_industrial_lamp": {
+    "criteria": {
+      "has_purple_industrial_lamp": "2025-03-11 23:28:23 +0000"
     },
     "done": true
   },
@@ -9915,6 +10011,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dye_purple_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-03-11 23:28:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_magenta_dye": {
+    "criteria": {
+      "forge:dyes/magenta": "2025-03-11 23:24:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/dark_oak_cabinet": {
     "criteria": {
       "has_dark_oak_trapdoor": "2025-03-11 23:10:45 +0000"
@@ -9945,6 +10053,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/igloos/rat_igloo_magenta": {
+    "criteria": {
+      "has_dye": "2025-03-11 23:24:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-11 22:26:16 +0000"
@@ -9954,6 +10068,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-11 22:02:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-11 23:28:23 +0000"
     },
     "done": true
   },
@@ -9975,6 +10095,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-11 23:28:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-11 22:02:36 +0000"
@@ -9987,9 +10113,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-11 23:28:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-11 23:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-11 23:24:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-11 22:02:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_purple_dye": {
+    "criteria": {
+      "forge:dyes/purple": "2025-03-11 23:28:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_magenta_dye": "2025-03-11 23:24:00 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/igloos/rat_igloo_purple": {
+    "criteria": {
+      "has_dye": "2025-03-11 23:28:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_purple_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-03-11 23:28:23 +0000"
     },
     "done": true
   },

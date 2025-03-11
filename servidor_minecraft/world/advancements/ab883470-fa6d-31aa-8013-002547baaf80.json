@@ -8287,6 +8287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2025-03-11 23:34:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-03-11 22:57:12 +0000"
@@ -8302,6 +8308,30 @@
   "cfm:recipes/decorations/birch_table": {
     "criteria": {
       "has_planks": "2025-03-11 22:57:12 +0000"
+    },
+    "done": true
+  },
+  "weather2:recipes/misc/sand_layer": {
+    "criteria": {
+      "has_sand": "2025-03-11 23:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2025-03-11 23:34:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_wildflower": "2025-03-11 23:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2025-03-11 23:34:35 +0000"
     },
     "done": true
   },
@@ -8353,15 +8383,63 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/small_purple_industrial_lamp": {
+    "criteria": {
+      "has_small_purple_industrial_lamp": "2025-03-11 23:34:35 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/hammock_dyed_purple": {
+    "criteria": {
+      "has_dye": "2025-03-11 23:34:35 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/tubes/rat_tube_purple": {
+    "criteria": {
+      "has_dye": "2025-03-11 23:34:35 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/purple_industrial_lamp": {
+    "criteria": {
+      "has_purple_industrial_lamp": "2025-03-11 23:34:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_coffee_table": {
     "criteria": {
       "has_planks": "2025-03-11 22:57:12 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/purple_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-03-11 23:44:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_purple_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-03-11 23:34:35 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_birch": {
     "criteria": {
       "has_the_recipe": "2025-03-11 22:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-11 23:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-11 23:34:35 +0000"
     },
     "done": true
   },
@@ -8377,6 +8455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-11 23:34:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-03-11 22:57:12 +0000"
@@ -8389,9 +8473,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_purple_dye": {
+    "criteria": {
+      "forge:dyes/purple": "2025-03-11 23:34:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-11 22:57:12 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/igloos/rat_igloo_purple": {
+    "criteria": {
+      "has_dye": "2025-03-11 23:34:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_purple_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-03-11 23:34:35 +0000"
     },
     "done": true
   },
