@@ -9077,45 +9077,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+  "minecraft:adventure/totem_of_undying": {
     "criteria": {
-      "has_item": "2025-03-08 05:56:10 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/diamond_hoe_repairing": {
-    "criteria": {
-      "has_diamond_hoe": "2025-03-08 05:19:27 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:small_dungeon": {
-    "criteria": {
-      "in_better_monster_room": "2025-03-08 04:43:11 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/netherite_hoe_repairing": {
-    "criteria": {
-      "has_netherite_hoe": "2025-03-08 05:22:58 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_grottol": {
-    "criteria": {
-      "grottol": "2025-03-08 05:08:05 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
-    "criteria": {
-      "has_sea_serpent_scales_deepblue": "2025-03-08 05:56:10 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/netherite_pickaxe_repairing": {
-    "criteria": {
-      "has_netherite_pickaxe": "2025-03-08 05:31:22 +0000"
+      "used_totem": "2025-03-08 04:37:30 +0000"
     },
     "done": true
   },
@@ -9125,63 +9089,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_deepblue_leggings": {
-    "criteria": {
-      "has_item": "2025-03-08 05:56:10 +0000"
-    },
-    "done": true
-  },
-  "awesomedungeonocean:ocean_ruin_vanilla_temple/find_normal": {
-    "criteria": {
-      "requirement": "2025-03-08 05:48:40 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/sunbird_blessing": {
-    "criteria": {
-      "all_effects": "2025-03-08 05:54:25 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/misc/reinforced_echo_shard": {
     "criteria": {
       "has_warden_carapace": "2025-03-08 04:38:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2025-03-08 04:37:30 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/food/ambrosia": {
-    "criteria": {
-      "has_item": "2025-03-08 05:45:15 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/diving_armor": {
-    "criteria": {
-      "helmet": "2025-03-08 05:50:21 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
-    "criteria": {
-      "has_item": "2025-03-08 05:56:10 +0000"
-    },
-    "done": true
-  },
-  "awesomedungeonocean:root": {
-    "criteria": {
-      "awesomedungeonocean:ocean_ruin_vanilla_temple": "2025-03-08 05:48:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-03-08 04:41:30 +0000"
     },
     "done": true
   },
@@ -9191,15 +9101,111 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_deepblue_boots": {
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
-      "has_item": "2025-03-08 05:56:10 +0000"
+      "kill_mob_near_sculk_catalyst": "2025-03-08 04:41:30 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-03-08 04:43:11 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_grottol": {
+    "criteria": {
+      "grottol": "2025-03-08 05:08:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_hoe_repairing": {
+    "criteria": {
+      "has_diamond_hoe": "2025-03-08 05:19:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/netherite_hoe_repairing": {
+    "criteria": {
+      "has_netherite_hoe": "2025-03-08 05:22:58 +0000"
     },
     "done": true
   },
   "minecraft:husbandry/obtain_netherite_hoe": {
     "criteria": {
       "netherite_hoe": "2025-03-08 05:22:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/netherite_pickaxe_repairing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2025-03-08 05:31:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-03-08 05:45:15 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_ruin_vanilla_temple/find_normal": {
+    "criteria": {
+      "requirement": "2025-03-08 05:48:40 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:root": {
+    "criteria": {
+      "awesomedungeonocean:ocean_ruin_vanilla_temple": "2025-03-08 05:48:40 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/diving_armor": {
+    "criteria": {
+      "helmet": "2025-03-08 05:50:21 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-03-08 05:54:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2025-03-08 05:56:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2025-03-08 05:56:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2025-03-08 05:56:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-08 05:56:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2025-03-08 05:56:10 +0000"
+    },
+    "done": true
+  },
+  "lanterncorps:root": {
+    "criteria": {
+      "grantadvancement": "2025-03-12 02:29:17 +0000"
     },
     "done": true
   },
