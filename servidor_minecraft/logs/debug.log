@@ -10308,3 +10308,23 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [12Mar2025 02:47:25.061] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_8b
 [12Mar2025 02:48:42.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
 [12Mar2025 02:49:01.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Saniago23: Gave 1 [Human V1] to FershaMana]
+[12Mar2025 02:49:42.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[12Mar2025 02:49:42.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[12Mar2025 02:49:42.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved too quickly! 1.8382605534461618,-2.1475133970780576,10.095006603791717
+[12Mar2025 02:53:41.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved wrongly!
+[12Mar2025 02:54:42.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[12Mar2025 02:54:42.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[12Mar2025 02:54:48.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[12Mar2025 02:55:08.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:55:21.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:55:22.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:55:23.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:55:35.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:55:35.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:56:09.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-520, y=64, z=1707} BlockPos{x=-751, y=73, z=1747}
+[12Mar2025 02:56:11.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:56:24.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-739, y=72, z=1748} BlockPos{x=-738, y=73, z=1748}
+[12Mar2025 02:56:24.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-739, y=72, z=1748} BlockPos{x=-738, y=73, z=1748}
+[12Mar2025 02:58:50.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved wrongly!
+[12Mar2025 02:59:42.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[12Mar2025 02:59:42.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
