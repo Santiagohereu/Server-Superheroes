@@ -1640,3 +1640,94 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [12Mar2025 02:39:09.501] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.symbiote 1
 [12Mar2025 02:39:10.525] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FershaMana lost connection: Disconnected
 [12Mar2025 02:39:10.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FershaMana left the game
+[12Mar2025 02:41:01.901] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Todoroxki[/127.179.128.82:36043] logged in with entity id 19232 at (-518.8964792909957, 65.0, 1709.7916310965352)
+[12Mar2025 02:41:01.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki joined the game
+[12Mar2025 02:41:02.226] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (344871d2-5828-3e5b-84e2-aa39a148179f)
+[12Mar2025 02:41:02.227] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[12Mar2025 02:41:02.227] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Todoroxki
+[12Mar2025 02:41:02.228] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Todoroxki run scoreboard objectives add FSang.Gamerule.item dummy
+[12Mar2025 02:41:02.228] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Todoroxki run scoreboard players set .sang FSang.Gamerule.item 1
+[12Mar2025 02:41:02.228] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Todoroxki run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[12Mar2025 02:41:02.228] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Todoroxki run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[12Mar2025 02:41:02.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Welcome to the Corps]
+[12Mar2025 02:44:39.298] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FershaMana[/127.14.74.226:47625] logged in with entity id 20083 at (-348.866097129105, 64.0, 1751.7009653580092)
+[12Mar2025 02:44:39.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FershaMana joined the game
+[12Mar2025 02:44:39.822] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (c74f8f7b-085f-391c-b462-e648bc5df2fc)
+[12Mar2025 02:44:39.823] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[12Mar2025 02:44:39.823] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: FershaMana
+[12Mar2025 02:44:39.824] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.item dummy
+[12Mar2025 02:44:39.824] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.item 1
+[12Mar2025 02:44:39.825] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[12Mar2025 02:44:39.825] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[12Mar2025 02:44:39.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved too quickly! -13.31988332615299,2.0907779993756606,2.053171945157601
+[12Mar2025 02:45:44.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:45.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:45.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:46.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:46.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:47.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:48.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:50.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:50.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:52.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:53.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:53.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:53.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:54.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:54.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:54.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:55.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:55.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:55.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:56.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:56.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:56.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:57.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:57.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:57.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:58.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:58.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:58.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:59.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:45:59.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:00.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:00.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:00.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:01.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:01.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:01.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:02.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:02.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:02.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:03.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:03.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:03.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:04.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:04.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:04.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:05.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:05.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:05.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:06.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:06.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:06.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:07.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:07.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:07.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:08.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:08.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:08.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:09.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:09.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:10.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:10.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:10.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:18.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:18.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:19.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:52.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:46:53.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:47:12.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:47:13.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:48:42.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[12Mar2025 02:49:01.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Saniago23: Gave 1 [Human V1] to FershaMana]
