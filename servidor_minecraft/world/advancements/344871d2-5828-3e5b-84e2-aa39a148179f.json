@@ -2959,6 +2959,7 @@
       "minecraft:stony_shore": "2025-03-04 01:23:52 +0000",
       "minecraft:snowy_plains": "2025-03-08 03:29:08 +0000",
       "minecraft:snowy_taiga": "2025-03-08 03:28:52 +0000",
+      "minecraft:dripstone_caves": "2025-03-12 03:02:24 +0000",
       "minecraft:grove": "2025-03-04 23:21:59 +0000",
       "minecraft:jagged_peaks": "2025-03-04 23:23:01 +0000",
       "minecraft:cold_ocean": "2025-03-04 03:57:36 +0000",
@@ -3054,6 +3055,7 @@
       "cooked_beef": "2025-03-05 01:38:40 +0000",
       "baked_potato": "2025-03-05 22:27:59 +0000",
       "apple": "2025-03-05 21:04:44 +0000",
+      "spider_eye": "2025-03-12 03:09:28 +0000",
       "potato": "2025-03-04 23:15:19 +0000",
       "cooked_cod": "2025-03-05 02:25:19 +0000",
       "bread": "2025-03-04 02:03:34 +0000",
@@ -8914,6 +8916,12 @@
   "lanterncorps:root": {
     "criteria": {
       "grantadvancement": "2025-03-12 02:41:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2025-03-12 03:03:13 +0000"
     },
     "done": true
   },
