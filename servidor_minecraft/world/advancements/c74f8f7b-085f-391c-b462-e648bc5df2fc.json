@@ -131,6 +131,7 @@
     "criteria": {
       "coniferous_forest": "2025-03-11 21:35:10 +0000",
       "spider_nest": "2025-03-11 23:03:12 +0000",
+      "redwood_forest": "2025-03-12 00:06:47 +0000",
       "seasonal_forest": "2025-03-11 21:41:02 +0000",
       "prairie": "2025-03-11 22:45:00 +0000"
     },
@@ -303,6 +304,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-03-11 21:48:35 +0000",
+      "minecraft:forest": "2025-03-12 00:08:24 +0000",
       "minecraft:flower_forest": "2025-03-11 22:41:08 +0000",
       "minecraft:meadow": "2025-03-11 21:53:45 +0000",
       "minecraft:plains": "2025-03-11 21:41:25 +0000"
@@ -1185,6 +1187,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-12 00:11:18 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dye_yellow_picket_gate": {
     "criteria": {
       "has_dye": "2025-03-11 22:45:05 +0000"
@@ -1732,6 +1740,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-03-12 00:14:48 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_trampoline": {
     "criteria": {
       "has_iron": "2025-03-11 23:31:35 +0000"
@@ -1906,6 +1920,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-03-12 00:12:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-03-11 22:46:03 +0000"
@@ -1921,6 +1941,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-03-11 22:56:18 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2025-03-12 00:15:14 +0000"
     },
     "done": true
   },
@@ -2332,6 +2358,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/flight_upgrade": {
+    "criteria": {
+      "has_lapis": "2025-03-12 00:11:18 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/blue_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-11 23:05:13 +0000"
@@ -2623,6 +2655,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-11 23:51:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-12 00:11:18 +0000"
     },
     "done": true
   },
@@ -2989,6 +3027,12 @@
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-03-11 22:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-03-12 00:09:28 +0000"
     },
     "done": true
   },
@@ -3853,6 +3897,12 @@
   "cfm:recipes/decorations/stripped_acacia_mail_box": {
     "criteria": {
       "has_chest": "2025-03-11 23:05:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-12 00:11:18 +0000"
     },
     "done": true
   },
