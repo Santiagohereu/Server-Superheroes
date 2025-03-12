@@ -11672,3 +11672,13 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [11Mar2025 23:51:12.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
 [11Mar2025 23:56:12.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
 [11Mar2025 23:56:12.531] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[12Mar2025 00:01:12.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[12Mar2025 00:01:12.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[12Mar2025 00:02:09.729] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 lost connection: Disconnected
+[12Mar2025 00:02:09.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 left the game
+[12Mar2025 00:03:46.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FershaMana moved wrongly!
+[12Mar2025 00:04:16.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FershaMana has made the advancement [Cobweb Entanglement]
+[12Mar2025 00:04:45.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FershaMana> *gime*
+[12Mar2025 00:04:56.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Saniago23> :0
+[12Mar2025 00:06:12.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[12Mar2025 00:06:12.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
