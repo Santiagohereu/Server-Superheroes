@@ -1,176 +1,86 @@
-[21:15:49] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[21:15:49] [INIT] Loaded plugins:
-[21:15:49] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[21:15:49] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
-[21:15:51] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[21:15:51] [INFO] Loaded script server_scripts:example.js in 0.001 s
-[21:15:51] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/symbiotes_items.js in 0.006 s
-[21:15:51] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_spawn.js in 0.0 s
-[21:15:51] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_assigner.js in 0.003 s
-[21:15:51] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/strong_punch.js in 0.001 s
-[21:15:51] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/speedforce_assigner.js in 0.001 s
-[21:15:51] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/skin_change.js in 0.0 s
-[21:15:51] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/random_power_items.js in 0.006 s
-[21:15:51] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/random_power_2.js in 0.002 s
-[21:15:51] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/random_power.js in 0.002 s
-[21:15:51] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/radiant_black_robot_spawn.js in 0.0 s
-[21:15:51] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/radiant_black.js in 0.0 s
-[21:15:51] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/mutation_assigner.js in 0.002 s
-[21:15:51] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/kaiju_spawner.js in 0.0 s
-[21:15:51] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/items.js in 0.009 s
-[21:15:51] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/inhibitor_collars.js in 0.0 s
-[21:15:51] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/data_enderchest.js in 0.0 s
-[21:15:51] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/custom_commands.js in 0.008 s
-[21:15:51] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/config.js in 0.001 s
-[21:15:51] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/blueprints.js in 0.0 s
-[21:15:51] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/ad_astra_space.js in 0.001 s
-[21:15:51] [INFO] addonpack_dampened:kubejs_scripts/dampening_ticks.js#1: Loaded Java class 'net.threetag.palladium.compat.curiostinkets.CuriosTrinketsUtil'
-[21:15:51] [INFO] addonpack_dampened:kubejs_scripts/dampening_ticks.js#2: Loaded Java class 'top.theillusivec4.curios.api.CuriosApi'
-[21:15:51] [INFO] addonpack_dampened:kubejs_scripts/dampening_ticks.js#3: Loaded Java class 'java.util.UUID'
-[21:15:51] [INFO] addonpack_dampened:kubejs_scripts/dampening_ticks.js#5: Loaded Java class 'net.minecraft.world.level.ClipContext'
-[21:15:51] [INFO] addonpack_dampened:kubejs_scripts/dampening_ticks.js#6: Loaded Java class 'net.minecraft.world.entity.projectile.ProjectileUtil'
-[21:15:51] [INFO] Loaded script addonpack_dampened:kubejs_scripts/dampening_ticks.js in 0.014 s
-[21:15:51] [INFO] Loaded script addonpack_dampened:kubejs_scripts/block_tag_adder.js in 0.001 s
-[21:15:51] [INFO] Loaded script addonpack_dampened:kubejs_scripts/dampening_recipes.js in 0.002 s
-[21:15:51] [INFO] Loaded script addonpack_dampened:kubejs_scripts/item_tags.js in 0.0 s
-[21:15:51] [INFO] Loaded script addonpack_grave.ht:kubejs_scripts/update_data_command.js in 0.001 s
-[21:15:51] [INFO] Loaded script addonpack_grave.ht:kubejs_scripts/random_colour.js in 0.0 s
-[21:15:51] [INFO] Loaded script addonpack_grave.ht:kubejs_scripts/proto_lives.js in 0.001 s
-[21:15:51] [INFO] Loaded script addonpack_grave.ht:kubejs_scripts/playlist_command.js in 0.001 s
-[21:15:51] [INFO] Loaded script addonpack_grave.ht:kubejs_scripts/palladium_properties.js in 0.0 s
-[21:15:51] [INFO] Loaded script addonpack_grave.ht:kubejs_scripts/colour_command.js in 0.0 s
-[21:15:51] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/receive_power_selected.js in 0.0 s
-[21:15:51] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/camera.js in 0.0 s
-[21:15:51] [INFO] Loaded 33/33 KubeJS server scripts in 0.086 s with 0 errors and 0 warnings
-[21:15:51] [INFO] Scripts loaded
-[21:15:51] [INFO] Initializing recipe event...
-[21:15:54] [INFO] [minecraft:block] Found 731 tags, added 6 objects, removed 0 objects
-[21:15:54] [INFO] [minecraft:item] Found 1093 tags, added 12 objects, removed 0 objects
-[21:15:55] [INFO] Processing recipes...
-[21:15:55] [WARN] Failed to parse recipe 'deeperdarker:resonarium_pickaxe_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[21:15:55] [WARN] Failed to parse recipe 'deeperdarker:resonarium_hoe_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[21:15:55] [WARN] Failed to parse recipe 'deeperdarker:resonarium_leggings_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[21:15:55] [WARN] Failed to parse recipe 'deeperdarker:resonarium_sword_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[21:15:55] [WARN] Failed to parse recipe 'deeperdarker:resonarium_helmet_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[21:15:55] [WARN] Failed to parse recipe 'deeperdarker:resonarium_chestplate_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[21:15:55] [WARN] Failed to parse recipe 'deeperdarker:resonarium_shovel_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[21:15:55] [WARN] Failed to parse recipe 'deeperdarker:resonarium_axe_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[21:15:56] [WARN] Failed to parse recipe 'kom:gloom_nectra_harp[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'addition' can't be empty!
-[21:15:56] [WARN] Failed to parse recipe 'deeperdarker:resonarium_boots_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[21:15:56] [WARN] Failed to parse recipe 'incendium:upgrade_elytra[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[21:15:56] [INFO] Found 6453 recipes in 184.5 ms
-[21:15:56] [INFO] Posted recipe events in 7.386 ms
-[21:15:56] [WARN] Error parsing recipe kom:gloom_nectra_harp[minecraft:smithing_transform]: {"type":"minecraft:smithing_transform","template":{"item":"minecraft:netherite_upgrade_smithing_template"},"base":{"item":"kom:harpofnectra"},"addition":{"item":"minecraft:air"},"result":{"item":"kom:harpof_gloom"}}: Empty ingredient not allowed here
-[21:15:56] [WARN] Error parsing recipe alexsdelight:barbecue_on_a_stick[minecraft:crafting_shapeless]: {"group":"barbecue_stick","type":"minecraft:crafting_shapeless","ingredients":[{"item":"farmersdelight:tomato"},{"item":"farmersdelight:onion"},{"item":"amfd:singular_cooked_moose_rib"},{"item":"minecraft:cooked_chicken"},{"item":"minecraft:stick"},{"item":"minecraft:stick"}],"result":{"item":"farmersdelight:barbecue_stick","count":2}}: Unknown item 'amfd:singular_cooked_moose_rib'
-[21:15:56] [INFO] Added 29 recipes, removed 0 recipes, modified 10 recipes, with 2 failed recipes in 418.7 ms
-[21:15:59] [INFO] Server resource reload complete!
-[21:16:04] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
-[21:16:04] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#64: Config file loaded or created at config/fsang_config.json
-[21:19:44] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
-[21:19:44] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Camaila04
-[21:19:44] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Camaila04 run scoreboard objectives add FSang.Gamerule.item dummy
-[21:19:44] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Camaila04 run scoreboard players set .sang FSang.Gamerule.item 1
-[21:19:44] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Camaila04 run scoreboard objectives add FSang.Gamerule.symbiote dummy
-[21:19:44] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Camaila04 run scoreboard players set .sang FSang.Gamerule.symbiote 1
-[21:32:22] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
-[21:32:22] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Camaila04
-[21:32:22] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Camaila04 run scoreboard objectives add FSang.Gamerule.item dummy
-[21:32:22] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Camaila04 run scoreboard players set .sang FSang.Gamerule.item 1
-[21:32:22] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Camaila04 run scoreboard objectives add FSang.Gamerule.symbiote dummy
-[21:32:22] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Camaila04 run scoreboard players set .sang FSang.Gamerule.symbiote 1
-[21:35:09] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
-[21:35:09] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: FershaMana
-[21:35:09] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.item dummy
-[21:35:09] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.item 1
-[21:35:09] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.symbiote dummy
-[21:35:09] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.symbiote 1
-[21:37:00] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
-[21:37:00] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Saniago23
-[21:37:00] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Saniago23 run scoreboard objectives add FSang.Gamerule.item dummy
-[21:37:00] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.item 1
-[21:37:00] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Saniago23 run scoreboard objectives add FSang.Gamerule.symbiote dummy
-[21:37:00] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.symbiote 1
-[21:38:38] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
-[21:38:38] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Saniago23
-[21:38:38] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Saniago23 run scoreboard objectives add FSang.Gamerule.item dummy
-[21:38:38] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.item 1
-[21:38:38] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Saniago23 run scoreboard objectives add FSang.Gamerule.symbiote dummy
-[21:38:38] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.symbiote 1
-[21:43:29] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
-[21:43:29] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: FershaMana
-[21:43:29] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.item dummy
-[21:43:29] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.item 1
-[21:43:29] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.symbiote dummy
-[21:43:29] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.symbiote 1
-[21:43:45] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
-[21:43:45] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: FershaMana
-[21:43:45] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.item dummy
-[21:43:45] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.item 1
-[21:43:45] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.symbiote dummy
-[21:43:45] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.symbiote 1
-[21:45:22] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
-[21:45:22] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: FershaMana
-[21:45:22] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.item dummy
-[21:45:22] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.item 1
-[21:45:22] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.symbiote dummy
-[21:45:22] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.symbiote 1
-[21:54:37] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
-[21:54:37] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Saniago23
-[21:54:37] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Saniago23 run scoreboard objectives add FSang.Gamerule.item dummy
-[21:54:37] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.item 1
-[21:54:37] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Saniago23 run scoreboard objectives add FSang.Gamerule.symbiote dummy
-[21:54:37] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.symbiote 1
-[22:01:06] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
-[22:01:06] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: FershaMana
-[22:01:06] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.item dummy
-[22:01:06] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.item 1
-[22:01:06] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.symbiote dummy
-[22:01:06] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.symbiote 1
-[22:04:08] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
-[22:04:08] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: FershaMana
-[22:04:08] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.item dummy
-[22:04:08] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.item 1
-[22:04:08] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.symbiote dummy
-[22:04:08] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.symbiote 1
-[22:12:58] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
-[22:12:58] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: FershaMana
-[22:12:58] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.item dummy
-[22:12:58] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.item 1
-[22:12:58] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.symbiote dummy
-[22:12:58] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.symbiote 1
-[22:32:53] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
-[22:32:53] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: FershaMana
-[22:32:53] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.item dummy
-[22:32:53] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.item 1
-[22:32:53] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.symbiote dummy
-[22:32:53] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.symbiote 1
-[22:33:11] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
-[22:33:11] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: FershaMana
-[22:33:11] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.item dummy
-[22:33:11] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.item 1
-[22:33:11] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.symbiote dummy
-[22:33:11] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.symbiote 1
-[22:33:27] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
-[22:33:27] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: FershaMana
-[22:33:27] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.item dummy
-[22:33:27] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.item 1
-[22:33:27] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.symbiote dummy
-[22:33:27] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.symbiote 1
-[22:35:51] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
-[22:35:51] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: FershaMana
-[22:35:51] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.item dummy
-[22:35:51] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.item 1
-[22:35:51] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.symbiote dummy
-[22:35:51] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.symbiote 1
-[22:51:57] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
-[22:51:57] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Camaila04
-[22:51:57] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Camaila04 run scoreboard objectives add FSang.Gamerule.item dummy
-[22:51:57] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Camaila04 run scoreboard players set .sang FSang.Gamerule.item 1
-[22:51:57] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Camaila04 run scoreboard objectives add FSang.Gamerule.symbiote dummy
-[22:51:57] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Camaila04 run scoreboard players set .sang FSang.Gamerule.symbiote 1
-[00:41:39] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
-[00:41:39] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Camaila04
-[00:41:39] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Camaila04 run scoreboard objectives add FSang.Gamerule.item dummy
-[00:41:39] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Camaila04 run scoreboard players set .sang FSang.Gamerule.item 1
-[00:41:39] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Camaila04 run scoreboard objectives add FSang.Gamerule.symbiote dummy
-[00:41:39] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Camaila04 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[02:19:18] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[02:19:18] [INIT] Loaded plugins:
+[02:19:18] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[02:19:18] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
+[02:19:18] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[02:19:20] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[02:19:20] [INFO] Loaded script server_scripts:example.js in 0.0 s
+[02:19:20] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/symbiotes_items.js in 0.002 s
+[02:19:20] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_spawn.js in 0.0 s
+[02:19:20] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_assigner.js in 0.003 s
+[02:19:20] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/strong_punch.js in 0.0 s
+[02:19:20] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/speedforce_assigner.js in 0.001 s
+[02:19:20] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/skin_change.js in 0.001 s
+[02:19:20] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/random_power_items.js in 0.004 s
+[02:19:20] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/random_power_2.js in 0.002 s
+[02:19:20] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/random_power.js in 0.002 s
+[02:19:20] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/radiant_black_robot_spawn.js in 0.0 s
+[02:19:20] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/radiant_black.js in 0.0 s
+[02:19:20] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/mutation_assigner.js in 0.002 s
+[02:19:20] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/kaiju_spawner.js in 0.0 s
+[02:19:20] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/items.js in 0.012 s
+[02:19:20] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/inhibitor_collars.js in 0.001 s
+[02:19:20] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/data_enderchest.js in 0.0 s
+[02:19:20] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/custom_commands.js in 0.007 s
+[02:19:20] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/config.js in 0.001 s
+[02:19:20] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/blueprints.js in 0.002 s
+[02:19:20] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/ad_astra_space.js in 0.0 s
+[02:19:20] [INFO] addonpack_dampened:kubejs_scripts/dampening_ticks.js#1: Loaded Java class 'net.threetag.palladium.compat.curiostinkets.CuriosTrinketsUtil'
+[02:19:20] [INFO] addonpack_dampened:kubejs_scripts/dampening_ticks.js#2: Loaded Java class 'top.theillusivec4.curios.api.CuriosApi'
+[02:19:20] [INFO] addonpack_dampened:kubejs_scripts/dampening_ticks.js#3: Loaded Java class 'java.util.UUID'
+[02:19:20] [INFO] addonpack_dampened:kubejs_scripts/dampening_ticks.js#5: Loaded Java class 'net.minecraft.world.level.ClipContext'
+[02:19:20] [INFO] addonpack_dampened:kubejs_scripts/dampening_ticks.js#6: Loaded Java class 'net.minecraft.world.entity.projectile.ProjectileUtil'
+[02:19:20] [INFO] Loaded script addonpack_dampened:kubejs_scripts/dampening_ticks.js in 0.014 s
+[02:19:20] [INFO] Loaded script addonpack_dampened:kubejs_scripts/block_tag_adder.js in 0.0 s
+[02:19:20] [INFO] Loaded script addonpack_dampened:kubejs_scripts/dampening_recipes.js in 0.001 s
+[02:19:20] [INFO] Loaded script addonpack_dampened:kubejs_scripts/item_tags.js in 0.001 s
+[02:19:20] [INFO] Loaded script addonpack_grave.ht:kubejs_scripts/update_data_command.js in 0.001 s
+[02:19:20] [INFO] Loaded script addonpack_grave.ht:kubejs_scripts/random_colour.js in 0.0 s
+[02:19:20] [INFO] Loaded script addonpack_grave.ht:kubejs_scripts/proto_lives.js in 0.0 s
+[02:19:20] [INFO] Loaded script addonpack_grave.ht:kubejs_scripts/playlist_command.js in 0.001 s
+[02:19:20] [INFO] Loaded script addonpack_grave.ht:kubejs_scripts/palladium_properties.js in 0.0 s
+[02:19:20] [INFO] Loaded script addonpack_grave.ht:kubejs_scripts/colour_command.js in 0.0 s
+[02:19:20] [INFO] Loaded script addonpack_foi1y_lantern_corps:kubejs_scripts/server_scripts/batteryrightclick.js in 0.001 s
+[02:19:20] [INFO] Loaded script addonpack_foi1y_lantern_corps:kubejs_scripts/resurection.js in 0.0 s
+[02:19:20] [INFO] Loaded script addonpack_foi1y_lantern_corps:kubejs_scripts/data_enderchest.js in 0.001 s
+[02:19:20] [INFO] Loaded script addonpack_foi1y_lantern_corps:kubejs_scripts/damaged.js in 0.0 s
+[02:19:20] [INFO] Loaded script addonpack_foi1y_lantern_corps:kubejs_scripts/customcommand.js in 0.0 s
+[02:19:20] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/receive_power_selected.js in 0.003 s
+[02:19:20] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/camera.js in 0.001 s
+[02:19:20] [INFO] Loaded 38/38 KubeJS server scripts in 0.102 s with 0 errors and 0 warnings
+[02:19:20] [INFO] Scripts loaded
+[02:19:20] [INFO] Initializing recipe event...
+[02:19:22] [INFO] [minecraft:item] Found 1093 tags, added 12 objects, removed 0 objects
+[02:19:22] [INFO] [minecraft:block] Found 733 tags, added 30 objects, removed 0 objects
+[02:19:24] [INFO] Processing recipes...
+[02:19:24] [WARN] Failed to parse recipe 'deeperdarker:resonarium_pickaxe_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[02:19:24] [WARN] Failed to parse recipe 'deeperdarker:resonarium_hoe_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[02:19:24] [WARN] Failed to parse recipe 'deeperdarker:resonarium_leggings_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[02:19:24] [WARN] Failed to parse recipe 'deeperdarker:resonarium_sword_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[02:19:24] [WARN] Failed to parse recipe 'deeperdarker:resonarium_helmet_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[02:19:24] [WARN] Failed to parse recipe 'deeperdarker:resonarium_chestplate_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[02:19:24] [WARN] Failed to parse recipe 'deeperdarker:resonarium_shovel_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[02:19:24] [WARN] Failed to parse recipe 'deeperdarker:resonarium_axe_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[02:19:24] [WARN] Failed to parse recipe 'kom:gloom_nectra_harp[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'addition' can't be empty!
+[02:19:24] [WARN] Failed to parse recipe 'deeperdarker:resonarium_boots_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[02:19:24] [WARN] Failed to parse recipe 'incendium:upgrade_elytra[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[02:19:24] [INFO] Found 6471 recipes in 175.3 ms
+[02:19:24] [INFO] Posted recipe events in 7.674 ms
+[02:19:24] [WARN] Error parsing recipe kom:gloom_nectra_harp[minecraft:smithing_transform]: {"type":"minecraft:smithing_transform","template":{"item":"minecraft:netherite_upgrade_smithing_template"},"base":{"item":"kom:harpofnectra"},"addition":{"item":"minecraft:air"},"result":{"item":"kom:harpof_gloom"}}: Empty ingredient not allowed here
+[02:19:24] [WARN] Error parsing recipe alexsdelight:barbecue_on_a_stick[minecraft:crafting_shapeless]: {"group":"barbecue_stick","type":"minecraft:crafting_shapeless","ingredients":[{"item":"farmersdelight:tomato"},{"item":"farmersdelight:onion"},{"item":"amfd:singular_cooked_moose_rib"},{"item":"minecraft:cooked_chicken"},{"item":"minecraft:stick"},{"item":"minecraft:stick"}],"result":{"item":"farmersdelight:barbecue_stick","count":2}}: Unknown item 'amfd:singular_cooked_moose_rib'
+[02:19:24] [INFO] Added 29 recipes, removed 0 recipes, modified 10 recipes, with 2 failed recipes in 201.2 ms
+[02:19:27] [INFO] Server resource reload complete!
+[02:19:29] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[02:19:29] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#64: Config file loaded or created at config/fsang_config.json
+[02:19:47] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[02:19:47] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Saniago23
+[02:19:47] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Saniago23 run scoreboard objectives add FSang.Gamerule.item dummy
+[02:19:47] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.item 1
+[02:19:47] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Saniago23 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[02:19:47] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[02:26:16] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[02:26:16] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: FershaMana
+[02:26:16] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.item dummy
+[02:26:16] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.item 1
+[02:26:16] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as FershaMana run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[02:26:16] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as FershaMana run scoreboard players set .sang FSang.Gamerule.symbiote 1
